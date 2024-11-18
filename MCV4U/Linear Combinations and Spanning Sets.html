@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+   <!-- Required meta tags -->
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" href="./bootstrap.min.css">
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="./all.min.css">
+   <!-- Template CSS -->
+   <link rel="stylesheet" href="./theme.min.css">
+   <link rel="stylesheet" href="./custom.css">
+   <title>Blank Page</title>
+<link rel="stylesheet" href="./front.css"><script src="https://templates.lcs.brightspace.com/lib/assets/js/scripts.min.js" defer=""></script></head><body class="template-fallback"><div class="splash-container">
+<div class="container-fluid"><br>
+<div class="row">
+<div class="col-12 offset-md-1 col-md-10 offset-lg-2 col-lg-8">
+<h1>Linear Combinations and Spanning Sets</h1>
+<div class="d2l-element mceNonEditable" data-idx="3" data-type="noicon" role="section" aria-describedby="d2l-uid-243">
+<p id="d2l-uid-243" class="sr-only">Callout</p>
+<div class="card card-standard" data-prop="0|noicon">
+<div class="card-body">
+<div class="card-text">
+<h4 data-prop="1|null"><!-- Empty --></h4>
+<div data-prop="2|null">
+<h2>Collinear Vectors</h2>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><span style="white-space-collapse: preserve;">Two vectors u and v are collinear if and only if it is possible to find a non-zero scalar k such that</span></span></p>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><span style="white-space-collapse: preserve;"><img alt="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot; data-is-equatio=&quot;1&quot; data-latex=&quot;\vec{u}=\ k\vec{v}&quot;><mrow><mover><mi>u</mi><mo stretchy=&quot;false&quot;>→</mo></mover></mrow><mo>=</mo><mtext></mtext><mi>k</mi><mrow><mover><mi>v</mi><mo stretchy=&quot;false&quot;>→</mo></mover></mrow></math>" title="u right arrow equals k v right arrow" src="https://lh7-us.googleusercontent.com/lJfz0466sluQjGkdqnU_i2G41TSJkZJyHb-WTP8hD9fKj2Xx64s3lAohsk1I5tZeVpO6s7S_CmqQJ1upvRHyYJuD3cZogQ9B8iLwmpvB1J4KQgugpMxORVIkbmQygVqEtP3hqCkziKYZJgkPNpd1Uc4xeQ=s2048" height="60px;" width="214px;" style="display: block; margin-left: auto; margin-right: auto;"> </span></span></p>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><span style="white-space-collapse: preserve;">Two vectors are collinear if they lie on the same line or parallel lines.</span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h2>Linear Combination of Vectors in R^2</h2>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"><img alt="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot; data-is-equatio=&quot;1&quot; data-latex=&quot;\vec{a}=\left(-1,2\right)\ and\ \vec{b}=\ \left(1,4\right)&quot;><mrow><mover><mi>a</mi><mo stretchy=&quot;false&quot;>→</mo></mover></mrow><mo>=</mo><mrow data-mjx-texclass=&quot;INNER&quot;><mo data-mjx-texclass=&quot;OPEN&quot;>(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo data-mjx-texclass=&quot;CLOSE&quot;>)</mo></mrow><mtext></mtext><mi>a</mi><mi>n</mi><mi>d</mi><mtext></mtext><mrow><mover><mi>b</mi><mo stretchy=&quot;false&quot;>→</mo></mover></mrow><mo>=</mo><mtext></mtext><mrow data-mjx-texclass=&quot;INNER&quot;><mo data-mjx-texclass=&quot;OPEN&quot;>(</mo><mn>1</mn><mo>,</mo><mn>4</mn><mo data-mjx-texclass=&quot;CLOSE&quot;>)</mo></mrow></math>" title="a. right arrow equals open paren negative 1 comma 2 close paren a. n d b right arrow equals open paren 1 comma 4 close paren" src="https://lh7-us.googleusercontent.com/-agR7PZ4cJd3MRFVbIfWqQHgOP3Aky3z5j-BvBNBmRL-RWmeREFfKjreD8b4OxBAm2qG1cE2FqILCiTkX0FbMG4YNMMEa5gAfC5qvb0fa2uLJrYwNVOlcXIOv0j09rHgtXJcU9zQ3-nwD75r0pIycZdUnw=s2048" height="56" width="529" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"><img alt="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot; data-is-equatio=&quot;1&quot; data-latex=&quot;then,\ 2\vec{a}-3\vec{b}=\ 2\left(-1,2\right)-3\left(1,4\right)\ &quot;><mi>t</mi><mi>h</mi><mi>e</mi><mi>n</mi><mo>,</mo><mtext></mtext><mn>2</mn><mrow><mover><mi>a</mi><mo stretchy=&quot;false&quot;>→</mo></mover></mrow><mo>−</mo><mn>3</mn><mrow><mover><mi>b</mi><mo stretchy=&quot;false&quot;>→</mo></mover></mrow><mo>=</mo><mtext></mtext><mn>2</mn><mrow data-mjx-texclass=&quot;INNER&quot;><mo data-mjx-texclass=&quot;OPEN&quot;>(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>2</mn><mo data-mjx-texclass=&quot;CLOSE&quot;>)</mo></mrow><mo>−</mo><mn>3</mn><mrow data-mjx-texclass=&quot;INNER&quot;><mo data-mjx-texclass=&quot;OPEN&quot;>(</mo><mn>1</mn><mo>,</mo><mn>4</mn><mo data-mjx-texclass=&quot;CLOSE&quot;>)</mo></mrow><mtext></mtext></math>" title="t h of e n comma 2 a. right arrow minus 3 b right arrow equals 2 times open paren negative 1 comma 2 close paren minus 3 times open paren 1 comma 4 close paren" src="https://lh7-us.googleusercontent.com/dLLi8_e91zB0SMD_Iw834bFCzulexa7gowXH1Ts5JnG5XtEJN5fjwNdrPILzrcJ8QjVWXNp_12SDbGTYYBjwDe5G-DB31WGTcw83xJaeeMPQVyZ8eLW9Ore5r5nEfHAnJ0jrI5LCAXBhTyWlJv67OLQ_ZQ=s2048" height="44" width="543" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"><img src="https://lh7-us.googleusercontent.com/z4FU-rrxu-aeV7bpJg3DG57xHk1pjf_-5D_wTNkmeAGxGTXFmC-C5x0H6Fv-ojSD2Pzbw0wbQCbAcXxh1I8x-XqSRQ148EQeRe2XueHk9XeXUI0O2-g2tQfs_mxioZ0SL6W16umnS3wuVZmdWcIy-Ei7zQ=s2048" alt="" title="" width="667" height="53" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<p><br><img src="https://lh7-us.googleusercontent.com/EO0zskuRJKSds0gBOAUrjcI-abkgc3u8urziW-MRQgy440Qn-6ywTAc5MhWaBjP1zqmdT-wkufYHcYJDxuVI60vSIpmd29fhpVk45ShK500LV2XJI0H_rGB3kjGE2SD0IgRF-Pv6ZKPGordCt3CvjFyjuQ=s2048" alt="" title="" width="391" height="441" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<div class="d2l-element mceNonEditable" data-idx="3" data-type="noicon" role="section" aria-describedby="d2l-uid-367">
+<p id="d2l-uid-367" class="sr-only">Callout</p>
+<div class="card card-standard" data-prop="0|noicon">
+<div class="card-body">
+<div class="card-text">
+<h4 data-prop="1|null"><!-- Empty --></h4>
+<div data-prop="2|null">
+<p style="text-align: justify;"><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><span style="white-space-collapse: preserve;">Whenever vectors are multiplied by scalars and then added, the result is a new vector that is a linear combination of the vectors.</span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h2>Linear Combination and Spanning Set of Vectors in R2</h2>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"><img src="https://lh7-us.googleusercontent.com/b9kxvZuhW5Lv16-CWJLLFYPNi32xL_P4pIzb-vwpdR0YEdbFkuKFK3dpKtszfG8_p63BxQMSkg-gsqT9G1rHH4JCIA-7Tdk3rAV-X8O134-Jav9Zp8qeYHWGS1W_QiRSeJdlT3QpS7grE5MJVIj0gIdZVw=s2048" height="120" width="707" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<p><br><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"><img src="https://lh7-us.googleusercontent.com/GaL6qnJYosqlQXYHDStprGPupNy2HckrS6mO-JuZJ43R2PG0GMV-7KRWyR951MmLf4PpwSxFGyaa6qkkECq2BETNb7zPbpYeUE4zs1f3sPFT_Qhphg6aAACF9ROgKFTGI39YOd6_NiHpg7EWP_lbS80yuA=s2048" height="107" width="705" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<p>&nbsp;<span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"><img src="https://lh7-us.googleusercontent.com/7pmLZvDGW225F32LiyUhrUyQN4tOIvfD_kTHFM_HK-3wVdMmPB2F5Ui0I2USyN68gHhm0iVll4rw2O3KaRHO1-sd2PGU4AamjlShZvwnx7uar10j6tJJDNO6JjjvDs0oS8nOl1DshCbIvUBhL1rLTkdOmw=s2048" height="99" width="711" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<p><img src="https://lh7-us.googleusercontent.com/A_Lz9sGsSQSRpCpJoPYKGT6QwBHN71rvAbILPB-orI3ru8gq2WJj6ZwyPcADn-G6C47fUREy1Nniv2wb9gizNFdaBbpW_wnJEvE59uxD1OYOOP-7NI7Lt5gmQU7T1pW65TFK_gFIokBlt1O8q3kfBdQvKw=s2048" alt="" title="" width="698" height="259" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"><img src="https://lh7-us.googleusercontent.com/PcosZ5ASNj-BzWdeKZtuDwPvy5ZGVuVW-Pt2emlzcnhjcgQfmcZVIT9Jy8kBHi8Awl4MOAodl4RM4USpZZpkgJALdFqSVOe77WOAuYNm5ZWFKyH9M4n8NqVuoA852etjrGbKhZU95fFRY2zFcl9n0qvwlw=s2048" height="145" width="706" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<div class="d2l-element mceNonEditable" data-idx="3" data-type="noicon" role="section" aria-describedby="d2l-uid-497">
+<p id="d2l-uid-497" class="sr-only">Callout</p>
+<div class="card card-standard" data-prop="0|noicon">
+<div class="card-body">
+<div class="card-text">
+<h4 data-prop="1|null"><!-- Empty --></h4>
+<div data-prop="2|null">
+<h2>Examining Linear Combinations of Vectors in R3</h2>
+<p style="text-align: justify;"><span style="color: rgb(32, 33, 34); font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="white-space-collapse: preserve;"> </span></strong></span><span style="font-family: Lato, sans-serif; font-size: 19px;"><span style="color: rgb(0, 0, 0); white-space-collapse: preserve;">Every </span><span style="color: rgb(0, 0, 255); white-space-collapse: preserve;">vector</span><span style="color: rgb(0, 0, 0); white-space-collapse: preserve;"> in </span><span style="color: rgb(0, 0, 255); white-space-collapse: preserve;">R</span><span style="color: rgb(0, 0, 255); white-space-collapse: preserve;"><sup>3</sup></span><span style="color: rgb(0, 0, 0); white-space-collapse: preserve;"> can be written uniquely as a linear combination of the three </span><span style="color: #000000;"><span style="white-space-collapse: preserve;">vectors.</span></span><span style="color: rgb(0, 0, 0); white-space-collapse: preserve;"> </span></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>&nbsp;<img src="https://lh7-us.googleusercontent.com/7fhueXxLwfSmdKMikuY5W4So4Al4ROpWH5RMtyM0X2_g_3XncHLUftdfoCxFKmNROlEKxj3YoKRa-pSFRxeTiDU5ttQs7kxso6c8NDg_R1aCziXOzjaUJlwyGE12DvnIHKJvdNU1Dq_ApBj_hqqC0qDqCw=s2048" alt="" title="" width="703" height="190" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="font-size: 19px; font-family: Lato, sans-serif;"><strong><span style="color: rgb(0, 0, 0); white-space-collapse: preserve;"><img src="https://lh7-us.googleusercontent.com/nhm3TI1FKlk3nxyba70EnZhpSJ55nOY7LADqcJ3CzpoiuqlqBEiXZGqiVGxtKXo-ABTdnnEO8j_PZHB8zpjH9zBkN-kXmhdKKezYvuGmsK2AbQ31I67r8AFtHOh6AQEGr0Oolr3tlxngX88zT7JiwbUcCQ=s2048" height="185" width="706" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></span></p>
+<p><img src="https://lh7-us.googleusercontent.com/m6L0w2WpdxeX4NBVisk1XaJifg0vL3jdKfJ02Cn6FeL5RUAvampuVAityYSddKm7krpGXFT25pLG7FBeQF9gyqtLsovEYUNlwx0auj3q_Slg6vYNGYgyoBzJ_iQabAvyrrOPFXuQOLfcAx7Gs_V9Wp2wGw=s2048" alt="" title="" data-d2l-editor-default-img-style="true" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="https://lh7-us.googleusercontent.com/KToZUfjj_GoHTluxBwb65jbgNLFooLwt4ffwGezRVZDH3xz9eeLQY09i0B1CGEdAdl5jdUjIqXNOGwD7QGVaxVeUvKPj4NKDZcPcpmTn_kPAAs92k-xsVrXPjdhr4iKty_L6FU9Hs4UDlDNxRBzGPE8dZw=s2048" alt="" title="" width="716" height="158" style="display: block; margin-left: auto; margin-right: auto;"></p>
+</div>
+<div class="col-12"><footer><!-- <p>© [Client] [Year]</p> -->
+<p><img src="./EVA%20SCHOOL1.png" alt="" title="" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></p>
+</footer></div>
+</div>
+</div>
+</div>
+<p>
+<script src="./jquery-3.5.1.min.js"></script>
+<script src="./popper.min.js"></script>
+<script src="./bootstrap.min.js"></script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="./scripts.min.js"></script>
+</p></body></html>
