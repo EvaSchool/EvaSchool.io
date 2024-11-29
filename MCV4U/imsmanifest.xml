@@ -1,0 +1,1139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="D2L_7220" xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns:scorm_1p2="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1">
+    <metadata>
+        <imsmd:lom>
+            <imsmd:general>
+                <imsmd:title>
+                    <imsmd:langstring xml:lang="en-ca">Emerald Valley Academy Calculus Vectors Grade 12</imsmd:langstring>
+                </imsmd:title>
+                <imsmd:keyword>
+                    <imsmd:langstring xml:lang="en-ca">MCV4U EVA</imsmd:langstring>
+                </imsmd:keyword>
+                <imsmd:language>en-ca</imsmd:language>
+            </imsmd:general>
+        </imsmd:lom>
+    </metadata>
+    <organizations default="d2l_orgs">
+        <organization identifier="d2l_org">
+            <item identifier="118404" identifierref="RES_CONTENT_118404" d2l_2p0:id="1" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61098" description="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;Math%20Education%20Presentation%20Skeleton%20in%20a%20Purple%20White%20Black%20Lined%20Style.gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit Two: Applications of Derivatives</title>
+                <item identifier="118411" identifierref="RES_CONTENT_118411" d2l_2p0:id="2" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61105" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(6).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Chapter Three: Derivatives and their Applications</title>
+                    <item identifier="118438" identifierref="RES_CONTENT_118438" d2l_2p0:id="3" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61125" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/d4d57043-569d-4c6f-ae94-7de552eb9328.webp%20(1).png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Getting Started</title>
+                        <item identifier="118553" identifierref="RES_CONTENT_118553" d2l_2p0:id="4" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59948" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="123233" identifierref="RES_CONTENT_123233" d2l_2p0:id="5" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73476" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 3.0</title>
+                        </item>
+                    </item>
+                    <item identifier="118439" identifierref="RES_CONTENT_118439" d2l_2p0:id="6" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61126" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(7).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Higher Order Derivatives</title>
+                        <item identifier="118554" identifierref="RES_CONTENT_118554" d2l_2p0:id="7" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59949" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118555" identifierref="RES_CONTENT_118555" d2l_2p0:id="8" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59951" description="" completion_type="2">
+                            <title>Warm-Up</title>
+                        </item>
+                        <item identifier="118556" identifierref="RES_CONTENT_118556" d2l_2p0:id="9" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59953" description="" completion_type="2">
+                            <title>Velocity, Acceleration, Derivatives</title>
+                        </item>
+                        <item identifier="118557" identifierref="RES_CONTENT_118557" d2l_2p0:id="10" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59957" description="" completion_type="2">
+                            <title>Let's Practice</title>
+                        </item>
+                        <item identifier="118559" identifierref="RES_CONTENT_118559" d2l_2p0:id="11" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59964" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="399994" identifierref="RES_CONTENT_399994" d2l_2p0:id="12" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129833" description="" completion_type="2">
+                            <title>3.1 - Higher Order Derivatives, Velocity, and Acceleration</title>
+                        </item>
+                        <item identifier="118560" identifierref="RES_CONTENT_118560" d2l_2p0:id="13" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59965" description="" completion_type="2">
+                            <title>Mathspace: Second Derivatives</title>
+                        </item>
+                        <item identifier="118561" identifierref="RES_CONTENT_118561" d2l_2p0:id="14" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59966" description="" completion_type="2">
+                            <title>Mathspace: Velocity and Acceleration</title>
+                        </item>
+                        <item identifier="123234" identifierref="RES_CONTENT_123234" d2l_2p0:id="15" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73477" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 3.1</title>
+                        </item>
+                    </item>
+                    <item identifier="118440" identifierref="RES_CONTENT_118440" d2l_2p0:id="16" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61127" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(8).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Maximum and Minimum Values on an Interval</title>
+                        <item identifier="118562" identifierref="RES_CONTENT_118562" d2l_2p0:id="17" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59971" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118563" identifierref="RES_CONTENT_118563" d2l_2p0:id="18" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59977" description="" completion_type="2">
+                            <title>Warm-Up</title>
+                        </item>
+                        <item identifier="118564" identifierref="RES_CONTENT_118564" d2l_2p0:id="19" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-59998" description="" completion_type="2">
+                            <title>Algorithm for Finding Maximum and Minimum (Values)</title>
+                        </item>
+                        <item identifier="118565" identifierref="RES_CONTENT_118565" d2l_2p0:id="20" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60000" description="" completion_type="2">
+                            <title>Let's Practice</title>
+                        </item>
+                        <item identifier="118566" identifierref="RES_CONTENT_118566" d2l_2p0:id="21" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60002" description="" completion_type="2">
+                            <title>Practice Solutions</title>
+                        </item>
+                        <item identifier="118567" identifierref="RES_CONTENT_118567" d2l_2p0:id="22" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60004" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="400003" identifierref="RES_CONTENT_400003" d2l_2p0:id="23" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129842" description="" completion_type="2">
+                            <title>3.2 - Minimum and Maximum on an Interval</title>
+                        </item>
+                        <item identifier="118568" identifierref="RES_CONTENT_118568" d2l_2p0:id="24" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60005" description="" completion_type="2">
+                            <title>Mathspace: Application of Derivatives</title>
+                        </item>
+                        <item identifier="118569" identifierref="RES_CONTENT_118569" d2l_2p0:id="25" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60006" description="" completion_type="2">
+                            <title>Mathspace: Optimization</title>
+                        </item>
+                        <item identifier="118571" identifierref="RES_CONTENT_118571" d2l_2p0:id="26" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60008" description="" completion_type="2">
+                            <title>Desmos: Optimization</title>
+                        </item>
+                        <item identifier="123236" identifierref="RES_CONTENT_123236" d2l_2p0:id="27" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73478" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 3.2</title>
+                        </item>
+                    </item>
+                    <item identifier="118441" identifierref="RES_CONTENT_118441" d2l_2p0:id="28" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61128" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(9).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Optimization Problems</title>
+                        <item identifier="118580" identifierref="RES_CONTENT_118580" d2l_2p0:id="29" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60022" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118581" identifierref="RES_CONTENT_118581" d2l_2p0:id="30" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60023" description="" completion_type="2">
+                            <title>Warm-Up</title>
+                        </item>
+                        <item identifier="118582" identifierref="RES_CONTENT_118582" d2l_2p0:id="31" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60024" description="" completion_type="2">
+                            <title>Optimization Problems</title>
+                        </item>
+                        <item identifier="118583" identifierref="RES_CONTENT_118583" d2l_2p0:id="32" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60025" description="" completion_type="2">
+                            <title>Volume Formula</title>
+                        </item>
+                        <item identifier="118584" identifierref="RES_CONTENT_118584" d2l_2p0:id="33" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60373" description="" completion_type="2">
+                            <title>Plotting the f(x)</title>
+                        </item>
+                        <item identifier="118585" identifierref="RES_CONTENT_118585" d2l_2p0:id="34" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60423" description="" completion_type="2">
+                            <title>Optimization Problem Continued</title>
+                        </item>
+                        <item identifier="118586" identifierref="RES_CONTENT_118586" d2l_2p0:id="35" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61193" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                            <title>Let's Practice </title>
+                        </item>
+                        <item identifier="118578" identifierref="RES_CONTENT_118578" d2l_2p0:id="36" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60020" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="400011" identifierref="RES_CONTENT_400011" d2l_2p0:id="37" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129850" description="" completion_type="2">
+                            <title>3.3 - Optimization Problems</title>
+                        </item>
+                        <item identifier="118579" identifierref="RES_CONTENT_118579" d2l_2p0:id="38" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60021" description="" completion_type="2">
+                            <title>Desmos: Optimization</title>
+                        </item>
+                        <item identifier="123237" identifierref="RES_CONTENT_123237" d2l_2p0:id="39" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73479" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 3.3</title>
+                        </item>
+                    </item>
+                    <item identifier="118442" identifierref="RES_CONTENT_118442" d2l_2p0:id="40" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61129" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/b617e3e7-2981-4b05-a924-13cb2230c1cd.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Optimization Problems in Economics and Science</title>
+                        <item identifier="118572" identifierref="RES_CONTENT_118572" d2l_2p0:id="41" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60014" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118573" identifierref="RES_CONTENT_118573" d2l_2p0:id="42" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60015" description="" completion_type="2">
+                            <title>Warm-Up</title>
+                        </item>
+                        <item identifier="118574" identifierref="RES_CONTENT_118574" d2l_2p0:id="43" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60016" description="" completion_type="2">
+                            <title>Optimization Problems</title>
+                        </item>
+                        <item identifier="118575" identifierref="RES_CONTENT_118575" d2l_2p0:id="44" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60017" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="400018" identifierref="RES_CONTENT_400018" d2l_2p0:id="45" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129857" description="" completion_type="2">
+                            <title>3.4 - Optimization Problems in Economics and Science</title>
+                        </item>
+                        <item identifier="118576" identifierref="RES_CONTENT_118576" d2l_2p0:id="46" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60018" description="" completion_type="2">
+                            <title>Mathspace</title>
+                        </item>
+                        <item identifier="123238" identifierref="RES_CONTENT_123238" d2l_2p0:id="47" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73480" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 3.4</title>
+                        </item>
+                    </item>
+                    <item identifier="118466" identifierref="RES_CONTENT_118466" d2l_2p0:id="48" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61156" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/face80d5-79d4-41eb-89eb-a11415947bbe.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Chapter 3 Review </title>
+                        <item identifier="118587" identifierref="RES_CONTENT_118587" d2l_2p0:id="49" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61194" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Chapter 6-9  Mini-assessment</title>
+                        </item>
+                    </item>
+                    <item identifier="118467" identifierref="RES_CONTENT_118467" d2l_2p0:id="50" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61157" description="&lt;p&gt;&lt;img src=&quot;5369d2a6-2fb1-4af8-92d4-f00e4c3a9b88.webp.PNG&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Chapter 1-3 Summative</title>
+                        <item identifier="121235" identifierref="RES_CONTENT_121235" d2l_2p0:id="51" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73474" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" date_start="2025-04-30T04:01:00" date_due="2025-05-01T03:59:59">
+                            <title>Chapter 1-3 Summative</title>
+                        </item>
+                    </item>
+                </item>
+                <item identifier="118412" identifierref="RES_CONTENT_118412" d2l_2p0:id="52" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61106" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/c0aa1dac-b2b4-471a-87cc-5995e01a43dd.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Chapter Four: Curve Sketching</title>
+                    <item identifier="118443" identifierref="RES_CONTENT_118443" d2l_2p0:id="53" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61130" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/479a0daa-bdf6-439e-a6a5-491606f98fb6.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Increasing and Decreasing Functions</title>
+                        <item identifier="118589" identifierref="RES_CONTENT_118589" d2l_2p0:id="54" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60472" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118590" identifierref="RES_CONTENT_118590" d2l_2p0:id="55" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60479" description="" completion_type="2">
+                            <title>Warm-Up</title>
+                        </item>
+                        <item identifier="118591" identifierref="RES_CONTENT_118591" d2l_2p0:id="56" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60519" description="" completion_type="2">
+                            <title>Intervals of Increase and Decrease</title>
+                        </item>
+                        <item identifier="118592" identifierref="RES_CONTENT_118592" d2l_2p0:id="57" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61196" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                            <title>Let's Practice</title>
+                        </item>
+                        <item identifier="118593" identifierref="RES_CONTENT_118593" d2l_2p0:id="58" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60526" description="" completion_type="2">
+                            <title>Mathspace: Identifying Increasing and Decreasing Functions</title>
+                        </item>
+                        <item identifier="118594" identifierref="RES_CONTENT_118594" d2l_2p0:id="59" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60528" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="400035" identifierref="RES_CONTENT_400035" d2l_2p0:id="60" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129871" description="" completion_type="2">
+                            <title>4.0 - Getting Started</title>
+                        </item>
+                        <item identifier="123239" identifierref="RES_CONTENT_123239" d2l_2p0:id="61" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73481" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 4.0/4.1</title>
+                        </item>
+                        <item identifier="400027" identifierref="RES_CONTENT_400027" d2l_2p0:id="62" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129870" description="" completion_type="2">
+                            <title>4.1 - Increasing and Decreasing Functions</title>
+                        </item>
+                    </item>
+                    <item identifier="118444" identifierref="RES_CONTENT_118444" d2l_2p0:id="63" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61131" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/a9a5ad59-b47e-49e1-a768-9f694c47823c.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Critical Points, Local Maxima and Local Minima</title>
+                        <item identifier="118599" identifierref="RES_CONTENT_118599" d2l_2p0:id="64" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60535" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118600" identifierref="RES_CONTENT_118600" d2l_2p0:id="65" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60539" description="" completion_type="2">
+                            <title>Warm-Up</title>
+                        </item>
+                        <item identifier="118601" identifierref="RES_CONTENT_118601" d2l_2p0:id="66" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60555" description="" completion_type="2">
+                            <title>Critical Points, Local Maxima and Local Minima</title>
+                        </item>
+                        <item identifier="118602" identifierref="RES_CONTENT_118602" d2l_2p0:id="67" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61199" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                            <title>Let's Practice</title>
+                        </item>
+                        <item identifier="118597" identifierref="RES_CONTENT_118597" d2l_2p0:id="68" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60531" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="400042" identifierref="RES_CONTENT_400042" d2l_2p0:id="69" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129881" description="" completion_type="2">
+                            <title>4.2 - Critical Points, Local Maxima, and Local Minima</title>
+                        </item>
+                        <item identifier="118598" identifierref="RES_CONTENT_118598" d2l_2p0:id="70" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60533" description="" completion_type="2">
+                            <title>Mathsapce: Identifying Turning Points and Points of Inflection </title>
+                        </item>
+                        <item identifier="123240" identifierref="RES_CONTENT_123240" d2l_2p0:id="71" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73482" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 4.2</title>
+                        </item>
+                    </item>
+                    <item identifier="118445" identifierref="RES_CONTENT_118445" d2l_2p0:id="72" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61132" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/0668aab0-65f7-4264-ac1c-5fca6ac250de.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Vertical and Horizontal Asymptotes</title>
+                        <item identifier="118616" identifierref="RES_CONTENT_118616" d2l_2p0:id="73" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60567" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118628" identifierref="RES_CONTENT_118628" d2l_2p0:id="74" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60590" description="" completion_type="2">
+                            <title>Rational Functions</title>
+                        </item>
+                        <item identifier="118629" identifierref="RES_CONTENT_118629" d2l_2p0:id="75" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60592" description="" completion_type="2">
+                            <title>Vertical Asymptotes and Infinite Limits</title>
+                        </item>
+                        <item identifier="118631" identifierref="RES_CONTENT_118631" d2l_2p0:id="76" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60596" description="" completion_type="2">
+                            <title>Vertical Asymptotes of Rational Functions</title>
+                        </item>
+                        <item identifier="118632" identifierref="RES_CONTENT_118632" d2l_2p0:id="77" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60597" description="" completion_type="2">
+                            <title>Horizontal and Oblique Asymptotes</title>
+                        </item>
+                        <item identifier="118624" identifierref="RES_CONTENT_118624" d2l_2p0:id="78" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60581" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="400052" identifierref="RES_CONTENT_400052" d2l_2p0:id="79" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129891" description="" completion_type="2">
+                            <title>4.3 - Vertical and Horizontal Asymptotes</title>
+                        </item>
+                        <item identifier="118621" identifierref="RES_CONTENT_118621" d2l_2p0:id="80" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60577" description="" completion_type="2">
+                            <title>Mathspace: Characteristics of Rational Functions</title>
+                        </item>
+                        <item identifier="118623" identifierref="RES_CONTENT_118623" d2l_2p0:id="81" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60579" description="" completion_type="2">
+                            <title>Mathspace: Oblique Asymptotes</title>
+                        </item>
+                        <item identifier="118626" identifierref="RES_CONTENT_118626" d2l_2p0:id="82" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60583" description="" completion_type="2">
+                            <title>Gizmo: Rational Functions and Graphs</title>
+                        </item>
+                        <item identifier="123241" identifierref="RES_CONTENT_123241" d2l_2p0:id="83" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73483" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 4.3</title>
+                        </item>
+                    </item>
+                    <item identifier="118446" identifierref="RES_CONTENT_118446" d2l_2p0:id="84" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61133" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(10).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Concavity and Points of Inflection</title>
+                        <item identifier="118638" identifierref="RES_CONTENT_118638" d2l_2p0:id="85" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60624" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118639" identifierref="RES_CONTENT_118639" d2l_2p0:id="86" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60626" description="" completion_type="2">
+                            <title>Second Derivative</title>
+                        </item>
+                        <item identifier="118640" identifierref="RES_CONTENT_118640" d2l_2p0:id="87" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60627" description="" completion_type="2">
+                            <title>Concavity</title>
+                        </item>
+                        <item identifier="118641" identifierref="RES_CONTENT_118641" d2l_2p0:id="88" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60628" description="" completion_type="2">
+                            <title>Additional Resources</title>
+                        </item>
+                        <item identifier="400059" identifierref="RES_CONTENT_400059" d2l_2p0:id="89" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129898" description="" completion_type="2">
+                            <title>4.4 - Concavity and Points of inflection</title>
+                        </item>
+                        <item identifier="118642" identifierref="RES_CONTENT_118642" d2l_2p0:id="90" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60629" description="" completion_type="2">
+                            <title>Gizmo Link: Graphs of Derivative Functions</title>
+                        </item>
+                        <item identifier="118643" identifierref="RES_CONTENT_118643" d2l_2p0:id="91" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60630" description="" completion_type="2">
+                            <title>Mathspace: Identifying Turning Points and Points of Inflection (Revisited)</title>
+                        </item>
+                        <item identifier="123243" identifierref="RES_CONTENT_123243" d2l_2p0:id="92" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73484" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 4.4</title>
+                        </item>
+                    </item>
+                    <item identifier="118447" identifierref="RES_CONTENT_118447" d2l_2p0:id="93" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61134" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(11).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>An Algorithm for Curve Sketching</title>
+                        <item identifier="118630" identifierref="RES_CONTENT_118630" d2l_2p0:id="94" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60593" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118633" identifierref="RES_CONTENT_118633" d2l_2p0:id="95" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60604" description="" completion_type="2">
+                            <title>An Algorithm for Curve Sketching</title>
+                        </item>
+                        <item identifier="118634" identifierref="RES_CONTENT_118634" d2l_2p0:id="96" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60608" description="" completion_type="2">
+                            <title>Learning Materials </title>
+                        </item>
+                        <item identifier="400071" identifierref="RES_CONTENT_400071" d2l_2p0:id="97" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129910" description="" completion_type="2">
+                            <title>4.5 - An Algorithm for Curve Sketching</title>
+                        </item>
+                        <item identifier="118635" identifierref="RES_CONTENT_118635" d2l_2p0:id="98" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60609" description="" completion_type="2">
+                            <title>That's a Wrap!</title>
+                        </item>
+                        <item identifier="123244" identifierref="RES_CONTENT_123244" d2l_2p0:id="99" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73485" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 4.5</title>
+                        </item>
+                    </item>
+                    <item identifier="118468" identifierref="RES_CONTENT_118468" d2l_2p0:id="100" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61158" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/face80d5-79d4-41eb-89eb-a11415947bbe.webp1.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Chapter 4 Review</title>
+                        <item identifier="128685" identifierref="RES_CONTENT_128685" d2l_2p0:id="101" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73221" description="" completion_type="2">
+                            <title>Review</title>
+                        </item>
+                    </item>
+                </item>
+                <item identifier="118413" identifierref="RES_CONTENT_118413" d2l_2p0:id="102" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61107" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(12).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Chapter Five: Derivatives of Exponential and Trigonometric Functions</title>
+                    <item identifier="118473" identifierref="RES_CONTENT_118473" d2l_2p0:id="103" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60527" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="118448" identifierref="RES_CONTENT_118448" d2l_2p0:id="104" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61135" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/d4d57043-569d-4c6f-ae94-7de552eb9328.webp%20(1)1.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Getting Started</title>
+                        <item identifier="118603" identifierref="RES_CONTENT_118603" d2l_2p0:id="105" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60534" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118604" identifierref="RES_CONTENT_118604" d2l_2p0:id="106" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60538" description="" completion_type="2">
+                            <title>Getting Started </title>
+                        </item>
+                        <item identifier="118605" identifierref="RES_CONTENT_118605" d2l_2p0:id="107" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60541" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123246" identifierref="RES_CONTENT_123246" d2l_2p0:id="108" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73486" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 5.0</title>
+                        </item>
+                        <item identifier="400078" identifierref="RES_CONTENT_400078" d2l_2p0:id="109" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129918" description="" completion_type="2">
+                            <title>5.0 - Getting Started</title>
+                        </item>
+                    </item>
+                    <item identifier="118449" identifierref="RES_CONTENT_118449" d2l_2p0:id="110" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61136" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(13).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Derivative of Exponential Functions</title>
+                        <item identifier="118607" identifierref="RES_CONTENT_118607" d2l_2p0:id="111" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60548" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118608" identifierref="RES_CONTENT_118608" d2l_2p0:id="112" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60556" description="" completion_type="2">
+                            <title>Derivative of Exponential Functions</title>
+                        </item>
+                        <item identifier="118609" identifierref="RES_CONTENT_118609" d2l_2p0:id="113" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60558" description="" completion_type="2">
+                            <title>Learning Materials </title>
+                        </item>
+                        <item identifier="400083" identifierref="RES_CONTENT_400083" d2l_2p0:id="114" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129922" description="" completion_type="2">
+                            <title>5.1 - Derivatives of Exponential Functions</title>
+                        </item>
+                        <item identifier="118610" identifierref="RES_CONTENT_118610" d2l_2p0:id="115" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60560" description="" completion_type="2">
+                            <title>That's a Wrap!</title>
+                        </item>
+                        <item identifier="123248" identifierref="RES_CONTENT_123248" d2l_2p0:id="116" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73487" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 5.1</title>
+                        </item>
+                    </item>
+                    <item identifier="118450" identifierref="RES_CONTENT_118450" d2l_2p0:id="117" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61137" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(14).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Derivative of the General Exponential Function</title>
+                        <item identifier="118612" identifierref="RES_CONTENT_118612" d2l_2p0:id="118" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60562" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118613" identifierref="RES_CONTENT_118613" d2l_2p0:id="119" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60563" description="" completion_type="2">
+                            <title>The Derivative of the General Exponential Function </title>
+                        </item>
+                        <item identifier="118614" identifierref="RES_CONTENT_118614" d2l_2p0:id="120" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60565" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123249" identifierref="RES_CONTENT_123249" d2l_2p0:id="121" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73488" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 5.2</title>
+                        </item>
+                        <item identifier="400091" identifierref="RES_CONTENT_400091" d2l_2p0:id="122" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129930" description="" completion_type="2">
+                            <title>5.2 - The Derivative of the Gerneral Exponential Function</title>
+                        </item>
+                    </item>
+                    <item identifier="118451" identifierref="RES_CONTENT_118451" d2l_2p0:id="123" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61138" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/7d2390f4-a4f6-46d1-891b-2fd76c38a82e.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Optimization Problems Involving Exponential Functions</title>
+                        <item identifier="118617" identifierref="RES_CONTENT_118617" d2l_2p0:id="124" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60568" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118618" identifierref="RES_CONTENT_118618" d2l_2p0:id="125" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60572" description="" completion_type="2">
+                            <title>Optimization Problems Involving Exponential Functions </title>
+                        </item>
+                        <item identifier="118619" identifierref="RES_CONTENT_118619" d2l_2p0:id="126" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60573" description="" completion_type="2">
+                            <title>Learning Materials </title>
+                        </item>
+                        <item identifier="123250" identifierref="RES_CONTENT_123250" d2l_2p0:id="127" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73489" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 5.3</title>
+                        </item>
+                        <item identifier="400099" identifierref="RES_CONTENT_400099" d2l_2p0:id="128" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129938" description="" completion_type="2">
+                            <title>5.3 - Optimization Problems Involving Exponential Functions</title>
+                        </item>
+                    </item>
+                    <item identifier="118452" identifierref="RES_CONTENT_118452" d2l_2p0:id="129" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61139" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(15).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Derivative of Trigonometric Functions </title>
+                        <item identifier="118622" identifierref="RES_CONTENT_118622" d2l_2p0:id="130" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60578" description="" completion_type="2">
+                            <title>Introduction</title>
+                        </item>
+                        <item identifier="118625" identifierref="RES_CONTENT_118625" d2l_2p0:id="131" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60582" description="" completion_type="2">
+                            <title>The Derivative of Trigonometric Functions</title>
+                        </item>
+                        <item identifier="118627" identifierref="RES_CONTENT_118627" d2l_2p0:id="132" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60584" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="400110" identifierref="RES_CONTENT_400110" d2l_2p0:id="133" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129949" description="" completion_type="2">
+                            <title>5.4 - The Derivatives of y = sin x and y = cos x</title>
+                        </item>
+                        <item identifier="400111" identifierref="RES_CONTENT_400111" d2l_2p0:id="134" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129950" description="" completion_type="2">
+                            <title>5.5 - The Derivative of y = tan x</title>
+                        </item>
+                        <item identifier="118474" identifierref="RES_CONTENT_118474" d2l_2p0:id="135" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60586" description="" completion_type="2">
+                            <title>That's a Wrap!</title>
+                        </item>
+                        <item identifier="123251" identifierref="RES_CONTENT_123251" d2l_2p0:id="136" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73490" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 5.4/5.5</title>
+                        </item>
+                    </item>
+                    <item identifier="118471" identifierref="RES_CONTENT_118471" d2l_2p0:id="137" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61161" description="&lt;p&gt;&lt;img src=&quot;dgsfsfggf.png&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Chapter 4-5 Summative</title>
+                        <item identifier="121236" identifierref="RES_CONTENT_121236" d2l_2p0:id="138" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73491" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Chapter 4-5 Summative</title>
+                        </item>
+                    </item>
+                </item>
+            </item>
+            <item identifier="118405" identifierref="RES_CONTENT_118405" d2l_2p0:id="139" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61099" description="&lt;p&gt;&lt;img src=&quot;Interpreting%20Numerical%20Expressions%20Math%20Presentation%20in%20Light%20Blue%20Math%20Doodles.gif?_&amp;amp;d2lSessionVal=FjE5MKCMrirhWhdHXu5Imlzm4&amp;amp;_&amp;amp;d2lSessionVal=7WmATkzYthpZIg5CNyvfQiU6o&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit Three: Introduction to Vectors</title>
+                <item identifier="118421" identifierref="RES_CONTENT_118421" d2l_2p0:id="140" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62600" description="" completion_type="2">
+                    <title>Introduction </title>
+                </item>
+                <item identifier="118414" identifierref="RES_CONTENT_118414" d2l_2p0:id="141" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61108" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(16).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Chapter Six: An Introduction to Vectors</title>
+                    <item identifier="118477" identifierref="RES_CONTENT_118477" d2l_2p0:id="142" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63121" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="157917" identifierref="RES_CONTENT_157917" d2l_2p0:id="143" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(17).gif&quot; title=&quot;&quot; width=&quot;650&quot; height=&quot;650&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;EVA%20SCHOOL%20(1).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;83&quot; height=&quot;83&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Addition and Subtraction of Vectors</title>
+                        <item identifier="157945" identifierref="RES_CONTENT_157945" d2l_2p0:id="144" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79267" description="" completion_type="2">
+                            <title>Addition and Subtraction of Vectors</title>
+                        </item>
+                        <item identifier="157952" identifierref="RES_CONTENT_157952" d2l_2p0:id="145" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79270" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="118478" identifierref="RES_CONTENT_118478" d2l_2p0:id="146" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63655" description="" completion_type="2">
+                            <title>Warm-Up Activity</title>
+                        </item>
+                        <item identifier="123254" identifierref="RES_CONTENT_123254" d2l_2p0:id="147" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73465" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 6.0/6.1/6.2</title>
+                        </item>
+                        <item identifier="400126" identifierref="RES_CONTENT_400126" d2l_2p0:id="148" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129968" description="" completion_type="2">
+                            <title>6.0 - Getting Started</title>
+                        </item>
+                        <item identifier="400129" identifierref="RES_CONTENT_400129" d2l_2p0:id="149" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129969" description="" completion_type="2">
+                            <title>6.1 - An Introduction to Vectors</title>
+                        </item>
+                        <item identifier="400139" identifierref="RES_CONTENT_400139" d2l_2p0:id="150" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129970" description="" completion_type="2">
+                            <title>6.2 - Vector Addition</title>
+                        </item>
+                    </item>
+                    <item identifier="118453" identifierref="RES_CONTENT_118453" d2l_2p0:id="151" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61144" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(18).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Multiplication and Properties of Vectors </title>
+                        <item identifier="118647" identifierref="RES_CONTENT_118647" d2l_2p0:id="152" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63137" description="" completion_type="2">
+                            <title>Multiplication and Properties of Vectors</title>
+                        </item>
+                        <item identifier="118648" identifierref="RES_CONTENT_118648" d2l_2p0:id="153" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63144" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123253" identifierref="RES_CONTENT_123253" d2l_2p0:id="154" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73493" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 6.3/6.4</title>
+                        </item>
+                        <item identifier="400150" identifierref="RES_CONTENT_400150" d2l_2p0:id="155" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129989" description="" completion_type="2">
+                            <title>6.3 - Multiplication of a Vector by a Scalar</title>
+                        </item>
+                        <item identifier="400152" identifierref="RES_CONTENT_400152" d2l_2p0:id="156" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-129990" description="" completion_type="2">
+                            <title>6.4 - Properties of Vectors</title>
+                        </item>
+                    </item>
+                    <item identifier="118454" identifierref="RES_CONTENT_118454" d2l_2p0:id="157" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61145" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/ff2ae9ad-9a20-40ed-8236-8b06836d2db6.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Vectors in R2 and R3</title>
+                        <item identifier="118649" identifierref="RES_CONTENT_118649" d2l_2p0:id="158" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63176" description="" completion_type="2">
+                            <title>Vectors in R2 and R3</title>
+                        </item>
+                        <item identifier="118650" identifierref="RES_CONTENT_118650" d2l_2p0:id="159" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63178" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123255" identifierref="RES_CONTENT_123255" d2l_2p0:id="160" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73494" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 6.5</title>
+                        </item>
+                        <item identifier="400163" identifierref="RES_CONTENT_400163" d2l_2p0:id="161" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130002" description="" completion_type="2">
+                            <title>6.5 - Vectors in R2 and and R3</title>
+                        </item>
+                    </item>
+                    <item identifier="118455" identifierref="RES_CONTENT_118455" d2l_2p0:id="162" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61146" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/156ee56d-9798-4174-a5ae-6661fc594ca7.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;729&quot; height=&quot;729&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Operations with Algebraic Vectors in R2 and R3 </title>
+                        <item identifier="118651" identifierref="RES_CONTENT_118651" d2l_2p0:id="163" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63182" description="" completion_type="2">
+                            <title>Operations with Algebraic Vectors in R2 and R3</title>
+                        </item>
+                        <item identifier="118652" identifierref="RES_CONTENT_118652" d2l_2p0:id="164" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63183" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123256" identifierref="RES_CONTENT_123256" d2l_2p0:id="165" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73495" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 6.6/6.7</title>
+                        </item>
+                        <item identifier="400173" identifierref="RES_CONTENT_400173" d2l_2p0:id="166" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130013" description="" completion_type="2">
+                            <title>6.6 - Operations with Algebraic Vectors in R2</title>
+                        </item>
+                        <item identifier="400176" identifierref="RES_CONTENT_400176" d2l_2p0:id="167" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130014" description="" completion_type="2">
+                            <title>6.7 - Operations with Vectors in R3</title>
+                        </item>
+                    </item>
+                    <item identifier="118456" identifierref="RES_CONTENT_118456" d2l_2p0:id="168" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61148" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/dc515cd3-39e8-4678-af90-d128694f2d05.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Linear Combinations and Spanning Sets</title>
+                        <item identifier="118653" identifierref="RES_CONTENT_118653" d2l_2p0:id="169" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63184" description="" completion_type="2">
+                            <title>Linear Combinations and Spanning Sets</title>
+                        </item>
+                        <item identifier="118654" identifierref="RES_CONTENT_118654" d2l_2p0:id="170" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63187" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123257" identifierref="RES_CONTENT_123257" d2l_2p0:id="171" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73496" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 6.8</title>
+                        </item>
+                        <item identifier="400187" identifierref="RES_CONTENT_400187" d2l_2p0:id="172" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130026" description="" completion_type="2">
+                            <title>6.8 - Linear Combinations and Spanning Sets</title>
+                        </item>
+                        <item identifier="118427" identifierref="RES_CONTENT_118427" d2l_2p0:id="173" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63664" description="" completion_type="2">
+                            <title>Let's Practice </title>
+                        </item>
+                        <item identifier="118425" identifierref="RES_CONTENT_118425" d2l_2p0:id="174" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63490" description="" completion_type="2">
+                            <title>That's a Wrap</title>
+                        </item>
+                    </item>
+                </item>
+                <item identifier="118415" identifierref="RES_CONTENT_118415" d2l_2p0:id="175" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61109" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(19).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Chapter Seven: Applications of Vectors</title>
+                    <item identifier="118476" identifierref="RES_CONTENT_118476" d2l_2p0:id="176" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63106" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="118457" identifierref="RES_CONTENT_118457" d2l_2p0:id="177" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61149" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/3e7e9fad-940a-49c6-af6d-2b5c50c877ff.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;729&quot; height=&quot;729&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Getting Started and Vectors as Forces -Part 1</title>
+                        <item identifier="118655" identifierref="RES_CONTENT_118655" d2l_2p0:id="178" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63188" description="" completion_type="2">
+                            <title>Getting Started and Vectors as Forces</title>
+                        </item>
+                        <item identifier="118656" identifierref="RES_CONTENT_118656" d2l_2p0:id="179" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63190" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="400213" identifierref="RES_CONTENT_400213" d2l_2p0:id="180" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130048" description="" completion_type="2">
+                            <title>7.0 - Getting Started</title>
+                        </item>
+                        <item identifier="123258" identifierref="RES_CONTENT_123258" d2l_2p0:id="181" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73497" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 7.0/7.1/7.2</title>
+                        </item>
+                        <item identifier="400205" identifierref="RES_CONTENT_400205" d2l_2p0:id="182" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130047" description="" completion_type="2">
+                            <title>7.1 - Vectors as Forces</title>
+                        </item>
+                        <item identifier="400198" identifierref="RES_CONTENT_400198" d2l_2p0:id="183" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130046" description="" completion_type="2">
+                            <title>7.2 - Velocity</title>
+                        </item>
+                    </item>
+                    <item identifier="118458" identifierref="RES_CONTENT_118458" d2l_2p0:id="184" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61164" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(20).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Dot Product of Geometric Vectors</title>
+                        <item identifier="118657" identifierref="RES_CONTENT_118657" d2l_2p0:id="185" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63193" description="" completion_type="2">
+                            <title>The Dot Product of Geometric Vectors </title>
+                        </item>
+                        <item identifier="118658" identifierref="RES_CONTENT_118658" d2l_2p0:id="186" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63194" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123260" identifierref="RES_CONTENT_123260" d2l_2p0:id="187" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73498" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 7.3</title>
+                        </item>
+                        <item identifier="123264" identifierref="RES_CONTENT_123264" d2l_2p0:id="188" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73466" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 7.4</title>
+                        </item>
+                        <item identifier="400221" identifierref="RES_CONTENT_400221" d2l_2p0:id="189" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130060" description="" completion_type="2">
+                            <title>7.3 - The Dot Product of Two Geometric Vectors</title>
+                        </item>
+                    </item>
+                    <item identifier="288042" identifierref="RES_CONTENT_288042" d2l_2p0:id="190" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(21).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;93&quot; height=&quot;93&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Dot Product of Algebraic Vectors</title>
+                        <item identifier="288044" identifierref="RES_CONTENT_288044" d2l_2p0:id="191" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-102089" description="" completion_type="2">
+                            <title>The Dot Product of Algebraic Vectors</title>
+                        </item>
+                        <item identifier="288045" identifierref="RES_CONTENT_288045" d2l_2p0:id="192" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-102090" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="400229" identifierref="RES_CONTENT_400229" d2l_2p0:id="193" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130068" description="" completion_type="2">
+                            <title>7.4 - The Dot Product of Algebraic Vectors</title>
+                        </item>
+                    </item>
+                    <item identifier="118460" identifierref="RES_CONTENT_118460" d2l_2p0:id="194" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61166" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/be42cabf-5115-4574-8806-ff8bf2480465.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title> Projections and the Cross Product -Part 1</title>
+                        <item identifier="118659" identifierref="RES_CONTENT_118659" d2l_2p0:id="195" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63314" description="" completion_type="2">
+                            <title>Projections and the Cross Product</title>
+                        </item>
+                        <item identifier="118660" identifierref="RES_CONTENT_118660" d2l_2p0:id="196" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63315" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123261" identifierref="RES_CONTENT_123261" d2l_2p0:id="197" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73499" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 7.5/7.6</title>
+                        </item>
+                        <item identifier="400243" identifierref="RES_CONTENT_400243" d2l_2p0:id="198" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130081" description="" completion_type="2">
+                            <title>7.5 - Scalar and Vector Projections</title>
+                        </item>
+                        <item identifier="400245" identifierref="RES_CONTENT_400245" d2l_2p0:id="199" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130082" description="" completion_type="2">
+                            <title>7.6 - The Cross Product of Two Vectors</title>
+                        </item>
+                    </item>
+                    <item identifier="118462" identifierref="RES_CONTENT_118462" d2l_2p0:id="200" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61168" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/dd958f71-0734-459d-a248-8dd3cf0c13a6.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Applications of the Dot and Cross Product</title>
+                        <item identifier="118661" identifierref="RES_CONTENT_118661" d2l_2p0:id="201" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63316" description="" completion_type="2">
+                            <title>Applications of the Dot and Cross Product </title>
+                        </item>
+                        <item identifier="118662" identifierref="RES_CONTENT_118662" d2l_2p0:id="202" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63319" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123262" identifierref="RES_CONTENT_123262" d2l_2p0:id="203" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73500" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 7.7</title>
+                        </item>
+                        <item identifier="118426" identifierref="RES_CONTENT_118426" d2l_2p0:id="204" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63656" description="" completion_type="2">
+                            <title>That's a Wrap</title>
+                        </item>
+                        <item identifier="118428" identifierref="RES_CONTENT_118428" d2l_2p0:id="205" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63665" description="" completion_type="2">
+                            <title>Let's Practice</title>
+                        </item>
+                        <item identifier="400253" identifierref="RES_CONTENT_400253" d2l_2p0:id="206" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130092" description="" completion_type="2">
+                            <title>7.7 - Applications of the Dot Product and Cross Product</title>
+                        </item>
+                    </item>
+                    <item identifier="151472" identifierref="RES_CONTENT_151472" d2l_2p0:id="207" description="&lt;p&gt;&lt;img src=&quot;07502f1c-592e-4007-b7b4-a7392e226c73.webp.png&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Chapter 6-7 Summative</title>
+                        <item identifier="121237" identifierref="RES_CONTENT_121237" d2l_2p0:id="208" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73454" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Chapter 6-7 Summative</title>
+                        </item>
+                    </item>
+                </item>
+            </item>
+            <item identifier="118406" identifierref="RES_CONTENT_118406" d2l_2p0:id="209" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61100" description="&lt;p&gt;&lt;img src=&quot;Beige%20White%20Orange%20Simple%20All%20About%20Triangles%20Presentation%20.gif?_&amp;amp;d2lSessionVal=FjE5MKCMrirhWhdHXu5Imlzm4&amp;amp;_&amp;amp;d2lSessionVal=s4S9QkNltItb9KV6t5o4RMeSM&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit Four: Lines and Planes</title>
+                <item identifier="118423" identifierref="RES_CONTENT_118423" d2l_2p0:id="210" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63341" description="" completion_type="2">
+                    <title>Introduction</title>
+                </item>
+                <item identifier="118416" identifierref="RES_CONTENT_118416" d2l_2p0:id="211" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61110" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/716c12ea-d7a7-4bd5-a1f0-f56489c072ae.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;729&quot; height=&quot;729&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Chapter Eight: Equations of Lines and Planes</title>
+                    <item identifier="118491" identifierref="RES_CONTENT_118491" d2l_2p0:id="212" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63353" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="118496" identifierref="RES_CONTENT_118496" d2l_2p0:id="213" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63658" description="" completion_type="2">
+                        <title>Warm-Up Activity</title>
+                    </item>
+                    <item identifier="118479" identifierref="RES_CONTENT_118479" d2l_2p0:id="214" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61169" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/e25b38e9-f6ca-427f-8ae6-bafea25a9407.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;729&quot; height=&quot;729&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Vector and Parametric Equations of a Line in R2</title>
+                        <item identifier="118663" identifierref="RES_CONTENT_118663" d2l_2p0:id="215" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63342" description="" completion_type="2">
+                            <title>Vector and Parametric Equations of a Line in R2</title>
+                        </item>
+                        <item identifier="118682" identifierref="RES_CONTENT_118682" d2l_2p0:id="216" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63794" description="" completion_type="2">
+                            <title>Learning Material</title>
+                        </item>
+                        <item identifier="123265" identifierref="RES_CONTENT_123265" d2l_2p0:id="217" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73501" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 8.0/8.1</title>
+                        </item>
+                        <item identifier="400258" identifierref="RES_CONTENT_400258" d2l_2p0:id="218" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130105" description="" completion_type="2">
+                            <title>8.1 - Vector and Parametric Equations of a line in R2</title>
+                        </item>
+                        <item identifier="400269" identifierref="RES_CONTENT_400269" d2l_2p0:id="219" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130106" description="" completion_type="2">
+                            <title>8.0 - Getting Started</title>
+                        </item>
+                    </item>
+                    <item identifier="118480" identifierref="RES_CONTENT_118480" d2l_2p0:id="220" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61171" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(22).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Cartesian Equations of Lines in R2</title>
+                        <item identifier="118664" identifierref="RES_CONTENT_118664" d2l_2p0:id="221" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63344" description="" completion_type="2">
+                            <title>Cartesian Equations of Lines in R2</title>
+                        </item>
+                        <item identifier="118665" identifierref="RES_CONTENT_118665" d2l_2p0:id="222" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63345" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123267" identifierref="RES_CONTENT_123267" d2l_2p0:id="223" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73502" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 8.2</title>
+                        </item>
+                        <item identifier="400277" identifierref="RES_CONTENT_400277" d2l_2p0:id="224" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130118" description="" completion_type="2">
+                            <title>8.2 - Cartesian Equation of a Line</title>
+                        </item>
+                    </item>
+                    <item identifier="118481" identifierref="RES_CONTENT_118481" d2l_2p0:id="225" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61172" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/12bc5da0-5842-4d5f-aad6-6b92a8a1e6a3.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Vector, Parametric and Symmetric Equations of a Line in R3</title>
+                        <item identifier="118666" identifierref="RES_CONTENT_118666" d2l_2p0:id="226" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63347" description="" completion_type="2">
+                            <title>Vector, Parametric and Symmetric Equations of a Line in R3</title>
+                        </item>
+                        <item identifier="118667" identifierref="RES_CONTENT_118667" d2l_2p0:id="227" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63348" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123268" identifierref="RES_CONTENT_123268" d2l_2p0:id="228" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73503" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 8.3</title>
+                        </item>
+                        <item identifier="400285" identifierref="RES_CONTENT_400285" d2l_2p0:id="229" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130124" description="" completion_type="2">
+                            <title>8.3 - Vector, Parametric, and Symmetric Equations of a line in R3</title>
+                        </item>
+                    </item>
+                    <item identifier="118482" identifierref="RES_CONTENT_118482" d2l_2p0:id="230" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61174" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(23).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title> Equations of Planes</title>
+                        <item identifier="118668" identifierref="RES_CONTENT_118668" d2l_2p0:id="231" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63349" description="" completion_type="2">
+                            <title>Equations of Planes </title>
+                        </item>
+                        <item identifier="118669" identifierref="RES_CONTENT_118669" d2l_2p0:id="232" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63350" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123270" identifierref="RES_CONTENT_123270" d2l_2p0:id="233" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73504" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 8.4/8.5</title>
+                        </item>
+                        <item identifier="400301" identifierref="RES_CONTENT_400301" d2l_2p0:id="234" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130138" description="" completion_type="2">
+                            <title>8.4 - Vector and Parametric Equations of a Plane</title>
+                        </item>
+                        <item identifier="400294" identifierref="RES_CONTENT_400294" d2l_2p0:id="235" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130137" description="" completion_type="2">
+                            <title>8.5 - The Cartesian Equation of a Plane</title>
+                        </item>
+                    </item>
+                    <item identifier="118483" identifierref="RES_CONTENT_118483" d2l_2p0:id="236" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61175" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(24).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Sketching Planes in R3</title>
+                        <item identifier="118670" identifierref="RES_CONTENT_118670" d2l_2p0:id="237" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63351" description="" completion_type="2">
+                            <title>Sketching Planes in R3</title>
+                        </item>
+                        <item identifier="118671" identifierref="RES_CONTENT_118671" d2l_2p0:id="238" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63352" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="400309" identifierref="RES_CONTENT_400309" d2l_2p0:id="239" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130148" description="" completion_type="2">
+                            <title>8.6 - Sketching Planes in R3</title>
+                        </item>
+                        <item identifier="118501" identifierref="RES_CONTENT_118501" d2l_2p0:id="240" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63668" description="" completion_type="2">
+                            <title>Let's Practice</title>
+                        </item>
+                        <item identifier="118495" identifierref="RES_CONTENT_118495" d2l_2p0:id="241" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63657" description="" completion_type="2">
+                            <title>That's  a Wrap</title>
+                        </item>
+                        <item identifier="123271" identifierref="RES_CONTENT_123271" d2l_2p0:id="242" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73505" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 8.6</title>
+                        </item>
+                    </item>
+                    <item identifier="118489" identifierref="RES_CONTENT_118489" d2l_2p0:id="243" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61186" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/f6f74c6b-6387-4dd8-add2-8527649537c7.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot; width=&quot;729&quot; height=&quot;729&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Chapter 8 Summative</title>
+                        <item identifier="121238" identifierref="RES_CONTENT_121238" d2l_2p0:id="244" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73492" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Chapter 8 Summative</title>
+                        </item>
+                    </item>
+                </item>
+                <item identifier="118417" identifierref="RES_CONTENT_118417" d2l_2p0:id="245" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61111" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/fccaa8a7-f07a-45cb-86d7-62b10f65496c.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Chapter Nine: Relationships Between Points, Lines, and Planes</title>
+                    <item identifier="118494" identifierref="RES_CONTENT_118494" d2l_2p0:id="246" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63405" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="118498" identifierref="RES_CONTENT_118498" d2l_2p0:id="247" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63661" description="" completion_type="2">
+                        <title>Warm-up activity</title>
+                    </item>
+                    <item identifier="118484" identifierref="RES_CONTENT_118484" d2l_2p0:id="248" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61176" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(25).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Intersections of Lines and Planes -Part 1</title>
+                        <item identifier="118672" identifierref="RES_CONTENT_118672" d2l_2p0:id="249" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63362" description="" completion_type="2">
+                            <title>Intersections of Lines and Planes </title>
+                        </item>
+                        <item identifier="118673" identifierref="RES_CONTENT_118673" d2l_2p0:id="250" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63364" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123272" identifierref="RES_CONTENT_123272" d2l_2p0:id="251" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73506" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 9.0/9.1/9.2</title>
+                        </item>
+                        <item identifier="400328" identifierref="RES_CONTENT_400328" d2l_2p0:id="252" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130173" description="" completion_type="2">
+                            <title>9.0 - Getting Started</title>
+                        </item>
+                        <item identifier="400334" identifierref="RES_CONTENT_400334" d2l_2p0:id="253" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130174" description="" completion_type="2">
+                            <title>9.1 - Intersections of Lines and Planes</title>
+                        </item>
+                        <item identifier="400319" identifierref="RES_CONTENT_400319" d2l_2p0:id="254" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130172" description="" completion_type="2">
+                            <title>9.2 - Systems of Equations</title>
+                        </item>
+                    </item>
+                    <item identifier="118485" identifierref="RES_CONTENT_118485" d2l_2p0:id="255" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61179" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(26).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Intersection of Two Planes</title>
+                        <item identifier="118674" identifierref="RES_CONTENT_118674" d2l_2p0:id="256" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63369" description="" completion_type="2">
+                            <title>The Intersection of Two Planes</title>
+                        </item>
+                        <item identifier="118675" identifierref="RES_CONTENT_118675" d2l_2p0:id="257" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63371" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123274" identifierref="RES_CONTENT_123274" d2l_2p0:id="258" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73507" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 9.3</title>
+                        </item>
+                        <item identifier="400341" identifierref="RES_CONTENT_400341" d2l_2p0:id="259" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130180" description="" completion_type="2">
+                            <title>9.3 - The Interseciton of Two Planes</title>
+                        </item>
+                    </item>
+                    <item identifier="118486" identifierref="RES_CONTENT_118486" d2l_2p0:id="260" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61180" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(27).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Intersection of Three Planes</title>
+                        <item identifier="118676" identifierref="RES_CONTENT_118676" d2l_2p0:id="261" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63378" description="" completion_type="2">
+                            <title>The Intersection of Three Planes </title>
+                        </item>
+                        <item identifier="118677" identifierref="RES_CONTENT_118677" d2l_2p0:id="262" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63379" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123275" identifierref="RES_CONTENT_123275" d2l_2p0:id="263" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73508" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 9.4</title>
+                        </item>
+                        <item identifier="400349" identifierref="RES_CONTENT_400349" d2l_2p0:id="264" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130188" description="" completion_type="2">
+                            <title>9.4 - The Intersection of Three Planes</title>
+                        </item>
+                    </item>
+                    <item identifier="118487" identifierref="RES_CONTENT_118487" d2l_2p0:id="265" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61181" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/5f58e731-9051-434c-9753-ed66ae76d3cc.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Distance from a Point to a Line in R2 and R3</title>
+                        <item identifier="118678" identifierref="RES_CONTENT_118678" d2l_2p0:id="266" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63383" description="" completion_type="2">
+                            <title>The Distance from a Point to a Line in R2 and R3</title>
+                        </item>
+                        <item identifier="118679" identifierref="RES_CONTENT_118679" d2l_2p0:id="267" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63385" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="123276" identifierref="RES_CONTENT_123276" d2l_2p0:id="268" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73510" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 9.5</title>
+                        </item>
+                        <item identifier="400357" identifierref="RES_CONTENT_400357" d2l_2p0:id="269" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130196" description="" completion_type="2">
+                            <title>9.5 - The Distance from a Point to a Line in R2 and R3</title>
+                        </item>
+                    </item>
+                    <item identifier="118488" identifierref="RES_CONTENT_118488" d2l_2p0:id="270" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61182" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/Continuity%20(28).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;650&quot; height=&quot;650&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Distance from a Point to a Plane</title>
+                        <item identifier="118680" identifierref="RES_CONTENT_118680" d2l_2p0:id="271" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63386" description="" completion_type="2">
+                            <title>The Distance from a Point to a Plane</title>
+                        </item>
+                        <item identifier="118681" identifierref="RES_CONTENT_118681" d2l_2p0:id="272" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63387" description="" completion_type="2">
+                            <title>Learning Materials</title>
+                        </item>
+                        <item identifier="400365" identifierref="RES_CONTENT_400365" d2l_2p0:id="273" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-130204" description="" completion_type="2">
+                            <title>9.6 - The Distance from a Point to a Plane</title>
+                        </item>
+                        <item identifier="118497" identifierref="RES_CONTENT_118497" d2l_2p0:id="274" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63659" description="" completion_type="2">
+                            <title>That's a wrap</title>
+                        </item>
+                        <item identifier="118502" identifierref="RES_CONTENT_118502" d2l_2p0:id="275" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-63670" description="" completion_type="2">
+                            <title>Let's Practice </title>
+                        </item>
+                        <item identifier="123278" identifierref="RES_CONTENT_123278" d2l_2p0:id="276" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73511" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Homework 9.6</title>
+                        </item>
+                    </item>
+                    <item identifier="118490" identifierref="RES_CONTENT_118490" d2l_2p0:id="277" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61188" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7258-MCV4Uwingspan/c55e8c56-61d5-44b4-b432-85abf6868db9.webp.png&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Chapter 9 Summative</title>
+                        <item identifier="121239" identifierref="RES_CONTENT_121239" d2l_2p0:id="278" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73509" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Chapter 9 Summative</title>
+                        </item>
+                        <item identifier="137769" identifierref="RES_CONTENT_137769" d2l_2p0:id="279" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-76242" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                            <title>Units 6-9 - Cumulative Review</title>
+                        </item>
+                    </item>
+                </item>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="657d1e50-523f-429e-9df9-bac327aee59c" type="webcontent" d2l_2p0:material_type="orgunitconfig" d2l_2p0:link_target="" href="orgunitconfig\orgunitconfig.xml" title="" />
+        <resource identifier="RES_CONTENT_118404" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118411" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118438" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118553" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction.html" title="" />
+        <resource identifier="RES_CONTENT_123233" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70558" title="" />
+        <resource identifier="RES_CONTENT_118439" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118554" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_118555" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm-Up.html" title="" />
+        <resource identifier="RES_CONTENT_118556" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Untitled.html" title="" />
+        <resource identifier="RES_CONTENT_118557" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice.html" title="" />
+        <resource identifier="RES_CONTENT_118559" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Additional Resources - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_399994" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="3.1 - Higher Order Derivatives, Velocity, and Acceleration.pdf" title="" />
+        <resource identifier="RES_CONTENT_118560" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191459" title="" />
+        <resource identifier="RES_CONTENT_118561" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191505" title="" />
+        <resource identifier="RES_CONTENT_123234" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70559" title="" />
+        <resource identifier="RES_CONTENT_118440" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118562" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_118563" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Untitled - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_118564" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Algorithm for Finding Maximum and Minimum (Values).html" title="" />
+        <resource identifier="RES_CONTENT_118565" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_118566" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Practice Solutions.html" title="" />
+        <resource identifier="RES_CONTENT_118567" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Additional Resources - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_400003" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="3.2 - Minimum and Maximum on an Interval.pdf" title="" />
+        <resource identifier="RES_CONTENT_118568" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191455" title="" />
+        <resource identifier="RES_CONTENT_118569" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191467" title="" />
+        <resource identifier="RES_CONTENT_118571" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://teacher.desmos.com/activitybuilder/custom/55c384de3c35758b2b2ea102" title="" />
+        <resource identifier="RES_CONTENT_123236" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70560" title="" />
+        <resource identifier="RES_CONTENT_118441" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118580" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_118581" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm-Up - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_118582" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Optimization Problems - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_118583" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Volume Formula.html" title="" />
+        <resource identifier="RES_CONTENT_118584" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Plotting the f(x).html" title="" />
+        <resource identifier="RES_CONTENT_118585" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_118586" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60451" title="" />
+        <resource identifier="RES_CONTENT_118578" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Additional Resources - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_400011" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="3.3 - Optimization Problems.pdf" title="" />
+        <resource identifier="RES_CONTENT_118579" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://teacher.desmos.com/activitybuilder/custom/55c384de3c35758b2b2ea102" title="" />
+        <resource identifier="RES_CONTENT_123237" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70561" title="" />
+        <resource identifier="RES_CONTENT_118442" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118572" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_118573" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm-Up - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_118574" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Optimization Problems.html" title="" />
+        <resource identifier="RES_CONTENT_118575" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Additional Resources - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_400018" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="3.4 - Optimization Problems in Economics and Science.pdf" title="" />
+        <resource identifier="RES_CONTENT_118576" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191457" title="" />
+        <resource identifier="RES_CONTENT_123238" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70562" title="" />
+        <resource identifier="RES_CONTENT_118466" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118587" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60461" title="" />
+        <resource identifier="RES_CONTENT_118467" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121235" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69338" title="" />
+        <resource identifier="RES_CONTENT_118412" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118443" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118589" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Untitled - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_118590" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Slopes.html" title="" />
+        <resource identifier="RES_CONTENT_118591" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Intervals of Increase and Decrease.html" title="" />
+        <resource identifier="RES_CONTENT_118592" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60524" title="" />
+        <resource identifier="RES_CONTENT_118593" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191370" title="" />
+        <resource identifier="RES_CONTENT_118594" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Additional Resources - Copy (4).html" title="" />
+        <resource identifier="RES_CONTENT_400035" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="4.0 - Getting Started.pdf" title="" />
+        <resource identifier="RES_CONTENT_123239" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70563" title="" />
+        <resource identifier="RES_CONTENT_400027" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="4.1 - Increasing and Decreasing Functions.pdf" title="" />
+        <resource identifier="RES_CONTENT_118444" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118599" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Untitled - Copy (4).html" title="" />
+        <resource identifier="RES_CONTENT_118600" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm-Up - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_118601" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Critical Points, Local Maxima and Local Minima.html" title="" />
+        <resource identifier="RES_CONTENT_118602" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-60564" title="" />
+        <resource identifier="RES_CONTENT_118597" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Additional Resources - Copy (5).html" title="" />
+        <resource identifier="RES_CONTENT_400042" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="4.2 - Critical Points, Local Maxima, and Local Minima.pdf" title="" />
+        <resource identifier="RES_CONTENT_118598" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191449" title="" />
+        <resource identifier="RES_CONTENT_123240" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70564" title="" />
+        <resource identifier="RES_CONTENT_118445" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118616" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (16).html" title="" />
+        <resource identifier="RES_CONTENT_118628" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Vertical and Horizontal Asymptotes.html" title="" />
+        <resource identifier="RES_CONTENT_118629" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Vertical Asymptotes and Infinite Limits.html" title="" />
+        <resource identifier="RES_CONTENT_118631" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Vertical Asymptotes of Rational Functions.html" title="" />
+        <resource identifier="RES_CONTENT_118632" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Horizontal Asymptotes.html" title="" />
+        <resource identifier="RES_CONTENT_118624" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Untitled - Copy (6).html" title="" />
+        <resource identifier="RES_CONTENT_400052" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="4.3 - Vertical and Horizontal Asymptotes.pdf" title="" />
+        <resource identifier="RES_CONTENT_118621" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/textbook/subtopic/115359/lessons" title="" />
+        <resource identifier="RES_CONTENT_118623" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/190928" title="" />
+        <resource identifier="RES_CONTENT_118626" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://www.explorelearning.com/index.cfm?method=cResource.dspDetail&amp;ResourceID=137" title="" />
+        <resource identifier="RES_CONTENT_123241" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70565" title="" />
+        <resource identifier="RES_CONTENT_118446" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118638" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (20).html" title="" />
+        <resource identifier="RES_CONTENT_118639" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Second Derivative.html" title="" />
+        <resource identifier="RES_CONTENT_118640" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Concavity.html" title="" />
+        <resource identifier="RES_CONTENT_118641" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Additional Resources - Copy (6).html" title="" />
+        <resource identifier="RES_CONTENT_400059" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="4.4 - Concavity and Points of inflection.pdf" title="" />
+        <resource identifier="RES_CONTENT_118642" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://www.explorelearning.com/index.cfm?method=cResource.dspDetail&amp;ResourceID=1041" title="" />
+        <resource identifier="RES_CONTENT_118643" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_blank" href="https://mathspace.co/ebook/chapter/191449" title="" />
+        <resource identifier="RES_CONTENT_123243" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70567" title="" />
+        <resource identifier="RES_CONTENT_118447" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118630" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (19).html" title="" />
+        <resource identifier="RES_CONTENT_118633" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="An Algorithm for Curve Sketching.html" title="" />
+        <resource identifier="RES_CONTENT_118634" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Learning materials  - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_400071" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="4.5 - An Algorithm for Curve Sketching.pdf" title="" />
+        <resource identifier="RES_CONTENT_118635" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a wrap - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_123244" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70568" title="" />
+        <resource identifier="RES_CONTENT_118468" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_128685" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Review - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_118413" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118473" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Chapter Five Derivatives of Exponential and Trigonometric Functions.html" title="" />
+        <resource identifier="RES_CONTENT_118448" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118603" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (13).html" title="" />
+        <resource identifier="RES_CONTENT_118604" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Getting Started  - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_118605" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123246" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70570" title="" />
+        <resource identifier="RES_CONTENT_400078" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.0 - Getting Started.pdf" title="" />
+        <resource identifier="RES_CONTENT_118449" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118607" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (14).html" title="" />
+        <resource identifier="RES_CONTENT_118608" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Derivative of Exponential Functions.html" title="" />
+        <resource identifier="RES_CONTENT_118609" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Derivative of Exponential Functions learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_400083" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.1 - Derivatives of Exponential Functions.pdf" title="" />
+        <resource identifier="RES_CONTENT_118610" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a wrap! - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_123248" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70572" title="" />
+        <resource identifier="RES_CONTENT_118450" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118612" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (15).html" title="" />
+        <resource identifier="RES_CONTENT_118613" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Derivative of the General Exponential Function .html" title="" />
+        <resource identifier="RES_CONTENT_118614" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Derivative of the General Exponential Function learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123249" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70573" title="" />
+        <resource identifier="RES_CONTENT_400091" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.2 - The Derivative of the Gerneral Exponential Function.pdf" title="" />
+        <resource identifier="RES_CONTENT_118451" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118617" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (17).html" title="" />
+        <resource identifier="RES_CONTENT_118618" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Optimization Problems Involving Exponential Functions .html" title="" />
+        <resource identifier="RES_CONTENT_118619" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="learning materials  - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_123250" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70574" title="" />
+        <resource identifier="RES_CONTENT_400099" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.3 - Optimization Problems Involving Exponential Functions.pdf" title="" />
+        <resource identifier="RES_CONTENT_118452" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118622" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (18).html" title="" />
+        <resource identifier="RES_CONTENT_118625" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Derivative of Trigonometric Functions .html" title="" />
+        <resource identifier="RES_CONTENT_118627" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Learning materials  - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_400110" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.4 - The Derivatives of y = sin x and y = cos x.pdf" title="" />
+        <resource identifier="RES_CONTENT_400111" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 - The Derivative of y = tan x.pdf" title="" />
+        <resource identifier="RES_CONTENT_118474" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a wrap! - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_123251" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70575" title="" />
+        <resource identifier="RES_CONTENT_118471" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121236" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69339" title="" />
+        <resource identifier="RES_CONTENT_118405" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118421" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction .html" title="" />
+        <resource identifier="RES_CONTENT_118414" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118477" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (22).html" title="" />
+        <resource identifier="RES_CONTENT_157917" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_157945" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Addition and Subtraction of Vectors.html" title="" />
+        <resource identifier="RES_CONTENT_157952" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Learning Materials.html" title="" />
+        <resource identifier="RES_CONTENT_118478" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm-up activity - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_123254" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70578" title="" />
+        <resource identifier="RES_CONTENT_400126" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.0 - Getting Started.pdf" title="" />
+        <resource identifier="RES_CONTENT_400129" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.1 - An Introduction to Vectors.pdf" title="" />
+        <resource identifier="RES_CONTENT_400139" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.2 - Vector Addition.pdf" title="" />
+        <resource identifier="RES_CONTENT_118453" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118647" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Multiplication and Properties of Vectors.html" title="" />
+        <resource identifier="RES_CONTENT_118648" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Multiplication and Properties of Vectors learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123253" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70577" title="" />
+        <resource identifier="RES_CONTENT_400150" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.3 - Multiplication of a Vector by a Scalar.pdf" title="" />
+        <resource identifier="RES_CONTENT_400152" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.4 - Properties of Vectors.pdf" title="" />
+        <resource identifier="RES_CONTENT_118454" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118649" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Vectors in R2 and R3.html" title="" />
+        <resource identifier="RES_CONTENT_118650" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="vectors in R^2 and R^3 learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123255" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70579" title="" />
+        <resource identifier="RES_CONTENT_400163" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.5 - Vectors in R2 and and R3.pdf" title="" />
+        <resource identifier="RES_CONTENT_118455" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118651" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Operations with Algebraic Vectors in R2 and R3.html" title="" />
+        <resource identifier="RES_CONTENT_118652" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Operations with Algebraic Vectors in R2 and R3 learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123256" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70580" title="" />
+        <resource identifier="RES_CONTENT_400173" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.6 - Operations with Algebraic Vectors in R2.pdf" title="" />
+        <resource identifier="RES_CONTENT_400176" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.7 - Operations with Vectors in R3.pdf" title="" />
+        <resource identifier="RES_CONTENT_118456" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118653" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Linear Combinations and Spanning Sets.html" title="" />
+        <resource identifier="RES_CONTENT_118654" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Linear Combinations and Spanning Sets learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123257" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70581" title="" />
+        <resource identifier="RES_CONTENT_400187" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="6.8 - Linear Combinations and Spanning Sets.pdf" title="" />
+        <resource identifier="RES_CONTENT_118427" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice  - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_118425" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a wrap - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_118415" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118476" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (21).html" title="" />
+        <resource identifier="RES_CONTENT_118457" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118655" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Getting Started and Vectors as Forces - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_118656" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Getting Started and Vectors as Forces learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_400213" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.0 - Getting Started.pdf" title="" />
+        <resource identifier="RES_CONTENT_123258" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70582" title="" />
+        <resource identifier="RES_CONTENT_400205" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.1 - Vectors as Forces.pdf" title="" />
+        <resource identifier="RES_CONTENT_400198" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.2 - Velocity.pdf" title="" />
+        <resource identifier="RES_CONTENT_118458" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118657" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Dot Product of Geometric Vectors .html" title="" />
+        <resource identifier="RES_CONTENT_118658" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Dot Product of Geometric Vectors learning materials  - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_123260" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70584" title="" />
+        <resource identifier="RES_CONTENT_123264" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70588" title="" />
+        <resource identifier="RES_CONTENT_400221" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.3 - The Dot Product of Two Geometric Vectors.pdf" title="" />
+        <resource identifier="RES_CONTENT_288042" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_288044" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Dot Product of Algebraic Vectors.html" title="" />
+        <resource identifier="RES_CONTENT_288045" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Learning Materials - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_400229" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.4 - The Dot Product of Algebraic Vectors.pdf" title="" />
+        <resource identifier="RES_CONTENT_118460" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118659" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Projections and the Cross Product.html" title="" />
+        <resource identifier="RES_CONTENT_118660" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Projections and the Cross Product learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123261" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70585" title="" />
+        <resource identifier="RES_CONTENT_400243" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.5 - Scalar and Vector Projections.pdf" title="" />
+        <resource identifier="RES_CONTENT_400245" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.6 - The Cross Product of Two Vectors.pdf" title="" />
+        <resource identifier="RES_CONTENT_118462" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118661" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Applications of the Dot and Cross Product .html" title="" />
+        <resource identifier="RES_CONTENT_118662" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Applications of the Dot and Cross Product learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123262" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70586" title="" />
+        <resource identifier="RES_CONTENT_118426" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_118428" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_400253" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="7.7 - Applications of the Dot Product and Cross Product.pdf" title="" />
+        <resource identifier="RES_CONTENT_151472" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121237" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69340" title="" />
+        <resource identifier="RES_CONTENT_118406" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118423" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (23).html" title="" />
+        <resource identifier="RES_CONTENT_118416" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118491" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (24).html" title="" />
+        <resource identifier="RES_CONTENT_118496" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm-up activity - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_118479" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118663" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Vector and Parametric Equations of a Line in R2.html" title="" />
+        <resource identifier="RES_CONTENT_118682" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Learning Material.html" title="" />
+        <resource identifier="RES_CONTENT_123265" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70589" title="" />
+        <resource identifier="RES_CONTENT_400258" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="8.1 - Vector and Parametric Equations of a line in R2.pdf" title="" />
+        <resource identifier="RES_CONTENT_400269" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="8.0 - Getting Started.pdf" title="" />
+        <resource identifier="RES_CONTENT_118480" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118664" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Cartesian Equations of Lines in R2.html" title="" />
+        <resource identifier="RES_CONTENT_118665" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Cartesian Equations of Lines in R2 learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123267" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70591" title="" />
+        <resource identifier="RES_CONTENT_400277" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="8.2 - Cartesian Equation of a Line.pdf" title="" />
+        <resource identifier="RES_CONTENT_118481" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118666" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Vector, Parametric and Symmetric Equations of a Line in R3.html" title="" />
+        <resource identifier="RES_CONTENT_118667" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Vector, Parametric and Symmetric Equations of a Line in R3 learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123268" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70592" title="" />
+        <resource identifier="RES_CONTENT_400285" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="8.3 - Vector, Parametric, and Symmetric Equations of a line in R3.pdf" title="" />
+        <resource identifier="RES_CONTENT_118482" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118668" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Equations of Planes .html" title="" />
+        <resource identifier="RES_CONTENT_118669" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Equations of Planes learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123270" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70594" title="" />
+        <resource identifier="RES_CONTENT_400301" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="8.4 - Vector and Parametric Equations of a Plane.pdf" title="" />
+        <resource identifier="RES_CONTENT_400294" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="8.5 - The Cartesian Equation of a Plane.pdf" title="" />
+        <resource identifier="RES_CONTENT_118483" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118670" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Sketching Planes in R3 .html" title="" />
+        <resource identifier="RES_CONTENT_118671" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Sketching Planes in R3 learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_400309" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="8.6 - Sketching Planes in R3.pdf" title="" />
+        <resource identifier="RES_CONTENT_118501" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_118495" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's  a Wrap.html" title="" />
+        <resource identifier="RES_CONTENT_123271" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70595" title="" />
+        <resource identifier="RES_CONTENT_118489" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121238" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69341" title="" />
+        <resource identifier="RES_CONTENT_118417" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118494" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (25).html" title="" />
+        <resource identifier="RES_CONTENT_118498" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm-up activity - Copy (4).html" title="" />
+        <resource identifier="RES_CONTENT_118484" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118672" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Intersections of Lines and Planes .html" title="" />
+        <resource identifier="RES_CONTENT_118673" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Intersections of Lines and Planes learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123272" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70596" title="" />
+        <resource identifier="RES_CONTENT_400328" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="9.0 - Getting Started.pdf" title="" />
+        <resource identifier="RES_CONTENT_400334" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="9.1 - Intersections of Lines and Planes.pdf" title="" />
+        <resource identifier="RES_CONTENT_400319" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="9.2 - Systems of Equations.pdf" title="" />
+        <resource identifier="RES_CONTENT_118485" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118674" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Intersection of Two Planes.html" title="" />
+        <resource identifier="RES_CONTENT_118675" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Intersection of Two Planes  learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123274" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70598" title="" />
+        <resource identifier="RES_CONTENT_400341" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="9.3 - The Interseciton of Two Planes.pdf" title="" />
+        <resource identifier="RES_CONTENT_118486" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118676" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Intersection of Three Planes .html" title="" />
+        <resource identifier="RES_CONTENT_118677" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Intersection of Three Planes  learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123275" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70599" title="" />
+        <resource identifier="RES_CONTENT_400349" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="9.4 - The Intersection of Three Planes.pdf" title="" />
+        <resource identifier="RES_CONTENT_118487" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118678" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Distance from a Point to a Line in R2 and R3.html" title="" />
+        <resource identifier="RES_CONTENT_118679" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Distance from a Point to a Line in R2 and R3 learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_123276" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70600" title="" />
+        <resource identifier="RES_CONTENT_400357" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="9.5 - The Distance from a Point to a Line in R2 and R3.pdf" title="" />
+        <resource identifier="RES_CONTENT_118488" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_118680" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Distance from a Point to a Plane.html" title="" />
+        <resource identifier="RES_CONTENT_118681" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Distance from a Point to a Plane learning materials .html" title="" />
+        <resource identifier="RES_CONTENT_400365" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="9.6 - The Distance from a Point to a Plane.pdf" title="" />
+        <resource identifier="RES_CONTENT_118497" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a wrap - Copy (4).html" title="" />
+        <resource identifier="RES_CONTENT_118502" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice  - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_123278" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70602" title="" />
+        <resource identifier="RES_CONTENT_118490" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121239" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69342" title="" />
+        <resource identifier="RES_CONTENT_137769" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-74269" title="" />
+    </resources>
+</manifest>
