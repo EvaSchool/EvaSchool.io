@@ -1,7 +1,7 @@
 import os
 
 # 设置要查找的根目录
-directory = r"F:\Canvas\EvaSchool.io\ENG3U"
+directory = r"F:\Canvas\EvaSchool.io\ESLEO"
 
 # 定义替换的映射规则
 replace_map = {
