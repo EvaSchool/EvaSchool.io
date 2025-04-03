@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="D2L_7264" xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns:scorm_1p2="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1">
+    <metadata>
+        <imsmd:lom>
+            <imsmd:general>
+                <imsmd:title>
+                    <imsmd:langstring xml:lang="en-ca">2024 KAI WS English Grade 12</imsmd:langstring>
+                </imsmd:title>
+                <imsmd:keyword>
+                    <imsmd:langstring xml:lang="en-ca">ENG4U WS</imsmd:langstring>
+                </imsmd:keyword>
+                <imsmd:language>en-ca</imsmd:language>
+            </imsmd:general>
+        </imsmd:lom>
+    </metadata>
+    <organizations default="d2l_orgs">
+        <organization identifier="d2l_org">
+            <item identifier="171236" identifierref="RES_CONTENT_171236" d2l_2p0:id="1" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83167" description="&lt;p&gt;&lt;img src=&quot;ENG4U%20(2).gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;KAI%20Logo%20New(2).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;187&quot; height=&quot;112&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit Five: Drama Studies - Hamlet</title>
+                <item identifier="171262" identifierref="RES_CONTENT_171262" d2l_2p0:id="2" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83193" description="&lt;p&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;DALL%C2%B7E%202024-09-19%2010.43.45%20-%20%20an.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;KAI%20Logo%20New(2).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;187&quot; height=&quot;112&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Independent Novel Analysis Guidelines and Literary Theories Run Through: Text-Based Theories</title>
+                    <item identifier="171399" identifierref="RES_CONTENT_171399" d2l_2p0:id="3" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79692" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="171408" identifierref="RES_CONTENT_171408" d2l_2p0:id="4" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79884" description="" completion_type="2">
+                        <title>Introduction to Hamlet</title>
+                    </item>
+                    <item identifier="171409" identifierref="RES_CONTENT_171409" d2l_2p0:id="5" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83255" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Lesson 5.1 Classwork:  Background Research for “Hamlet”</title>
+                    </item>
+                </item>
+                <item identifier="171263" identifierref="RES_CONTENT_171263" d2l_2p0:id="6" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83194" description="&lt;p&gt;&lt;br&gt;&lt;img src=&quot;DALL%C2%B7E%202024-09-19%2010.45.58%20-%20a.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;KAI%20Logo%20New(2).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;187&quot; height=&quot;112&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Literary Theories Run Through: Author-Based Theories</title>
+                    <item identifier="171400" identifierref="RES_CONTENT_171400" d2l_2p0:id="7" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79695" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="171410" identifierref="RES_CONTENT_171410" d2l_2p0:id="8" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79888" description="" completion_type="2">
+                        <title>Hamlet: Act I</title>
+                    </item>
+                    <item identifier="171411" identifierref="RES_CONTENT_171411" d2l_2p0:id="9" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83256" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Lesson 5.2 Act 1 Questions</title>
+                    </item>
+                    <item identifier="408448" identifierref="RES_CONTENT_408448" d2l_2p0:id="10" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132477" description="" completion_type="2">
+                        <title>5.2 A1S1-Hamlet</title>
+                    </item>
+                    <item identifier="408447" identifierref="RES_CONTENT_408447" d2l_2p0:id="11" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132476" description="" completion_type="2">
+                        <title>Scene 2</title>
+                    </item>
+                    <item identifier="408446" identifierref="RES_CONTENT_408446" d2l_2p0:id="12" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132475" description="" completion_type="2">
+                        <title>Scene 3</title>
+                    </item>
+                    <item identifier="408445" identifierref="RES_CONTENT_408445" d2l_2p0:id="13" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132474" description="" completion_type="2">
+                        <title>Scene 4</title>
+                    </item>
+                    <item identifier="408444" identifierref="RES_CONTENT_408444" d2l_2p0:id="14" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132473" description="" completion_type="2">
+                        <title>Scene 5</title>
+                    </item>
+                </item>
+                <item identifier="171264" identifierref="RES_CONTENT_171264" d2l_2p0:id="15" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83195" description="&lt;p&gt;&lt;img src=&quot;DALL%C2%B7E%202024-09-19%20r%20with%20v.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;KAI%20Logo%20New(2).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;187&quot; height=&quot;112&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Literary Theories Run Through: Society/Context-Based Theories</title>
+                    <item identifier="171401" identifierref="RES_CONTENT_171401" d2l_2p0:id="16" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79696" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="171412" identifierref="RES_CONTENT_171412" d2l_2p0:id="17" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79893" description="" completion_type="2">
+                        <title>Hamlet: Act II</title>
+                    </item>
+                    <item identifier="171413" identifierref="RES_CONTENT_171413" d2l_2p0:id="18" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83257" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Lesson 5.3 Act Questions</title>
+                    </item>
+                    <item identifier="408450" identifierref="RES_CONTENT_408450" d2l_2p0:id="19" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132479" description="" completion_type="2">
+                        <title>5.3 Scene 1- Hamlet</title>
+                    </item>
+                    <item identifier="408449" identifierref="RES_CONTENT_408449" d2l_2p0:id="20" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132478" description="" completion_type="2">
+                        <title>5.3 Scene 2 - Hamlet</title>
+                    </item>
+                </item>
+                <item identifier="171265" identifierref="RES_CONTENT_171265" d2l_2p0:id="21" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83196" description="&lt;p&gt;&lt;br&gt;&lt;img src=&quot;DALL%C2%B7E%202024-09-19%2010.51.29%20-%20.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;KAI%20Logo%20New(2).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;187&quot; height=&quot;112&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Literary Theories Run Through: Reader Response Theory</title>
+                    <item identifier="171402" identifierref="RES_CONTENT_171402" d2l_2p0:id="22" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79697" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="171414" identifierref="RES_CONTENT_171414" d2l_2p0:id="23" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79897" description="" completion_type="2">
+                        <title>Hamlet: Act III</title>
+                    </item>
+                    <item identifier="171415" identifierref="RES_CONTENT_171415" d2l_2p0:id="24" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83258" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Lesson 5.4 Act Questions</title>
+                    </item>
+                    <item identifier="408454" identifierref="RES_CONTENT_408454" d2l_2p0:id="25" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132483" description="" completion_type="2">
+                        <title>5.4 Scene 1- Hamlet III</title>
+                    </item>
+                    <item identifier="408453" identifierref="RES_CONTENT_408453" d2l_2p0:id="26" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132482" description="" completion_type="2">
+                        <title>5.4 Scene 2- Hamlet III</title>
+                    </item>
+                    <item identifier="408452" identifierref="RES_CONTENT_408452" d2l_2p0:id="27" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132481" description="" completion_type="2">
+                        <title>5.4 Scene 3- Hamlet III</title>
+                    </item>
+                    <item identifier="408451" identifierref="RES_CONTENT_408451" d2l_2p0:id="28" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132480" description="" completion_type="2">
+                        <title>5.4 Scene 4- Hamlet III</title>
+                    </item>
+                </item>
+                <item identifier="171266" identifierref="RES_CONTENT_171266" d2l_2p0:id="29" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83197" description="&lt;p&gt;&lt;img src=&quot;DALL%C2%B7E%202024-09-19%2010.53.48%20-%20A%20%20floating.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;br&gt;&lt;img src=&quot;KAI%20Logo%20New(2).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;187&quot; height=&quot;112&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Literary Theories Application</title>
+                    <item identifier="171403" identifierref="RES_CONTENT_171403" d2l_2p0:id="30" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79698" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="171416" identifierref="RES_CONTENT_171416" d2l_2p0:id="31" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79899" description="" completion_type="2">
+                        <title>Hamlet: Act IV</title>
+                    </item>
+                    <item identifier="171417" identifierref="RES_CONTENT_171417" d2l_2p0:id="32" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83259" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Lesson 5.5 Act Questions</title>
+                    </item>
+                    <item identifier="408461" identifierref="RES_CONTENT_408461" d2l_2p0:id="33" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132490" description="" completion_type="2">
+                        <title>5.5 Scene 1- Hamlet Act IV</title>
+                    </item>
+                    <item identifier="408460" identifierref="RES_CONTENT_408460" d2l_2p0:id="34" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132489" description="" completion_type="2">
+                        <title>5.5 Scene 2- Hamlet Act IV</title>
+                    </item>
+                    <item identifier="408459" identifierref="RES_CONTENT_408459" d2l_2p0:id="35" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132488" description="" completion_type="2">
+                        <title>5.5 Scene 3- Hamlet Act IV</title>
+                    </item>
+                    <item identifier="408458" identifierref="RES_CONTENT_408458" d2l_2p0:id="36" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132487" description="" completion_type="2">
+                        <title>5.5 Scene 4- Hamlet Act IV</title>
+                    </item>
+                    <item identifier="408457" identifierref="RES_CONTENT_408457" d2l_2p0:id="37" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132486" description="" completion_type="2">
+                        <title>5.5 Scene 5- Hamlet Act IV</title>
+                    </item>
+                    <item identifier="408456" identifierref="RES_CONTENT_408456" d2l_2p0:id="38" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132485" description="" completion_type="2">
+                        <title>5.5 Scene 6- Hamlet Act IV</title>
+                    </item>
+                    <item identifier="408455" identifierref="RES_CONTENT_408455" d2l_2p0:id="39" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-132484" description="" completion_type="2">
+                        <title>5.5 Scene 7- Hamlet Act IV</title>
+                    </item>
+                </item>
+                <item identifier="171289" identifierref="RES_CONTENT_171289" d2l_2p0:id="40" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-83210" description="&lt;p&gt;&lt;img src=&quot;ENG4U%20(5).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;KAI%20Logo%20New(2).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;187&quot; height=&quot;112&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 5 Summative</title>
+                    <item identifier="171423" identifierref="RES_CONTENT_171423" d2l_2p0:id="41" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79907" description="" completion_type="2">
+                        <title>Reflection</title>
+                    </item>
+                    <item identifier="301844" identifierref="RES_CONTENT_301844" d2l_2p0:id="42" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-137617" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 5 Summative - ENG4U</title>
+                    </item>
+                </item>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="024c16e9-a342-44c1-bb0e-88c08213d208" type="webcontent" d2l_2p0:material_type="orgunitconfig" d2l_2p0:link_target="" href="orgunitconfig\orgunitconfig.xml" title="" />
+        <resource identifier="RES_CONTENT_171236" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_171262" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_171399" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (12).html" title="" />
+        <resource identifier="RES_CONTENT_171408" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction to Hamlet.html" title="">
+            <metadata>
+                <curriculumStandardsMetadataSet xmlns="http://www.imsglobal.org/xsd/imsccv1p3/imscsmd_v1p0">
+                    <curriculumStandardsMetadata providerId="asn">
+                        <setOfGUIDs region="Ontario" version="http://asn.desire2learn.com/resources/D2697465">
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697770</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697760</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697766</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697771</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697769</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697761</GUID>
+                            </labelledGUID>
+                        </setOfGUIDs>
+                    </curriculumStandardsMetadata>
+                </curriculumStandardsMetadataSet>
+            </metadata>
+        </resource>
+        <resource identifier="RES_CONTENT_171409" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79885" title="" />
+        <resource identifier="RES_CONTENT_171263" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_171400" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (13).html" title="" />
+        <resource identifier="RES_CONTENT_171410" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Hamlet Act I.html" title="">
+            <metadata>
+                <curriculumStandardsMetadataSet xmlns="http://www.imsglobal.org/xsd/imsccv1p3/imscsmd_v1p0">
+                    <curriculumStandardsMetadata providerId="asn">
+                        <setOfGUIDs region="Ontario" version="http://asn.desire2learn.com/resources/D2697465">
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697748</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697773</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697738</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697742</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697751</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697772</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697760</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697766</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697771</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697763</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697743</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697769</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697774</GUID>
+                            </labelledGUID>
+                        </setOfGUIDs>
+                    </curriculumStandardsMetadata>
+                </curriculumStandardsMetadataSet>
+            </metadata>
+        </resource>
+        <resource identifier="RES_CONTENT_171411" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79889" title="" />
+        <resource identifier="RES_CONTENT_408448" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.2 A1S1-Hamlet - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408447" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Scene 2 - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408446" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Scene 3 - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408445" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Scene 4 - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408444" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Scene 5 - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_171264" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_171401" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (14).html" title="" />
+        <resource identifier="RES_CONTENT_171412" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Hamlet Act II.html" title="">
+            <metadata>
+                <curriculumStandardsMetadataSet xmlns="http://www.imsglobal.org/xsd/imsccv1p3/imscsmd_v1p0">
+                    <curriculumStandardsMetadata providerId="asn">
+                        <setOfGUIDs region="Ontario" version="http://asn.desire2learn.com/resources/D2697465">
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697748</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697773</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697738</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697742</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697751</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697772</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697760</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697766</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697771</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697763</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697743</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697769</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697774</GUID>
+                            </labelledGUID>
+                        </setOfGUIDs>
+                    </curriculumStandardsMetadata>
+                </curriculumStandardsMetadataSet>
+            </metadata>
+        </resource>
+        <resource identifier="RES_CONTENT_171413" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79894" title="" />
+        <resource identifier="RES_CONTENT_408450" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.3 Scene 1- Hamlet - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408449" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.3 Scene 2 - Hamlet - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_171265" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_171402" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (15).html" title="" />
+        <resource identifier="RES_CONTENT_171414" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Hamlet Act III.html" title="">
+            <metadata>
+                <curriculumStandardsMetadataSet xmlns="http://www.imsglobal.org/xsd/imsccv1p3/imscsmd_v1p0">
+                    <curriculumStandardsMetadata providerId="asn">
+                        <setOfGUIDs region="Ontario" version="http://asn.desire2learn.com/resources/D2697465">
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697748</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697773</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697738</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697742</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697751</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697772</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697760</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697766</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697771</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697763</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697743</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697769</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697774</GUID>
+                            </labelledGUID>
+                        </setOfGUIDs>
+                    </curriculumStandardsMetadata>
+                </curriculumStandardsMetadataSet>
+            </metadata>
+        </resource>
+        <resource identifier="RES_CONTENT_171415" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79898" title="" />
+        <resource identifier="RES_CONTENT_408454" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.4 Scene 1- Hamlet III - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408453" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.4 Scene 2- Hamlet III - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408452" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.4 Scene 3- Hamlet III - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408451" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.4 Scene 4- Hamlet III - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_171266" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_171403" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (16).html" title="" />
+        <resource identifier="RES_CONTENT_171416" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Hamlet Act IV.html" title="">
+            <metadata>
+                <curriculumStandardsMetadataSet xmlns="http://www.imsglobal.org/xsd/imsccv1p3/imscsmd_v1p0">
+                    <curriculumStandardsMetadata providerId="asn">
+                        <setOfGUIDs region="Ontario" version="http://asn.desire2learn.com/resources/D2697465">
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697748</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697773</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697738</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697742</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697751</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697772</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697760</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697766</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697771</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697763</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697743</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697769</GUID>
+                            </labelledGUID>
+                            <labelledGUID>
+                                <GUID>http://asn.desire2learn.com/resources/S2697774</GUID>
+                            </labelledGUID>
+                        </setOfGUIDs>
+                    </curriculumStandardsMetadata>
+                </curriculumStandardsMetadataSet>
+            </metadata>
+        </resource>
+        <resource identifier="RES_CONTENT_171417" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-79900" title="" />
+        <resource identifier="RES_CONTENT_408461" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 Scene 1- Hamlet Act IV - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408460" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 Scene 2- Hamlet Act IV - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408459" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 Scene 3- Hamlet Act IV - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408458" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 Scene 4- Hamlet Act IV - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408457" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 Scene 5- Hamlet Act IV - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408456" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 Scene 6- Hamlet Act IV - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_408455" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="5.5 Scene 7- Hamlet Act IV - Copy.docx" title="" />
+        <resource identifier="RES_CONTENT_171289" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_171423" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Reflection.html" title="" />
+        <resource identifier="RES_CONTENT_301844" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-104202" title="" />
+    </resources>
+</manifest>
