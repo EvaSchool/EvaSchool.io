@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="./bootstrap.min.css">
+  <!-- Font Awesome CSS -->
+  <link rel="stylesheet" href="./all.min.css">
+  <!-- Template CSS -->
+  <link rel="stylesheet" href="./theme.min.css">
+  <link rel="stylesheet" href="./custom.css">
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <style>
+      .math { font-size: 1.1em; }  /* 公式字体稍大 */
+      .sample-problem { margin: 10px 0; padding: 10px; background: #f5f5f5; }
+  </style>
+  <title>Blank Page</title>
+<link rel="stylesheet" href="https://s.brightspace.com/lib/fonts/0.6.1/fonts.css"></head><body class="template-fallback"><div class="splash-container">
+    <title>MHF4U</title>
+</head>
+<body>
+    <h1>MHF4U Curriculum Expectations </h1>
+
+    <!-- Section A: Exponential and Logarithmic Functions -->
+    <h2>A. EXPONENTIAL AND LOGARITHMIC FUNCTIONS</h2>
+    <h3>OVERALL EXPECTATIONS</h3>
+    <p>By the end of this course, students will:</p>
+    <ol>
+        <li>Demonstrate an understanding of the relationship between exponential expressions and logarithmic expressions, evaluate logarithms, and apply the laws of logarithms to simplify numeric expressions.</li>
+        <li>Identify and describe some key features of the graphs of logarithmic functions, make connections among the numeric, graphical, and algebraic representations of logarithmic functions, and solve related problems graphically.</li>
+        <li>Solve exponential and simple logarithmic equations in one variable algebraically, including those in problems arising from real-world applications.</li>
+    </ol>
+
+    <h3>SPECIFIC EXPECTATIONS</h3>
+    <h4>1. Evaluating Logarithmic Expressions</h4>
+    <ol>
+        <li>Recognize the logarithm of a number to a given base as the exponent to which the base must be raised to get the number, recognize the operation of finding the logarithm to be the inverse operation (i.e., the undoing or reversing) of exponentiation, and evaluate simple logarithmic expressions.
+            <div class="sample-problem">
+                <strong>Sample problem:</strong> Why is it not possible to determine <span class="math">\(\log_{10}{(-3)}\)</span> or <span class="math">\(\log_{2}{0}\)</span>? Explain your reasoning.
+            </div>
+        </li>
+        
+        <li>Determine, with technology, the approximate logarithm of a number to any base, including base 10.
+            <div class="example">
+                <em>Example:</em> By reasoning that <span class="math">\(\log_{3}{29}\)</span> is between 3 and 4 and using systematic trial to determine that <span class="math">\(\log_{3}{29} \approx 3.07\)</span>.
+            </div>
+        </li>
+        
+        <li>Make connections between related logarithmic and exponential equations, and solve simple exponential equations by rewriting them in logarithmic form.
+            <div class="example">
+                <em>Example:</em> Recognize that <span class="math">\(\log_{5}{125} = 3\)</span> can also be expressed as <span class="math">\(5^3 = 125\)</span>. Solve <span class="math">\(3^x = 10\)</span> by rewriting as <span class="math">\(\log_{3}{10} = x\)</span>.
+            </div>
+        </li>
+        
+        <li>Make connections between the laws of exponents and the laws of logarithms, verify the laws of logarithms with or without technology, and use the laws to simplify and evaluate numerical expressions.
+            <ul>
+                <li>Use the statement <span class="math">\(10^{a+b} = 10^a \cdot 10^b\)</span> to deduce that <span class="math">\(\log_{10}{x} + \log_{10}{y} = \log_{10}{xy}\)</span>.</li>
+                <li>Verify the quotient law for logarithms by evaluating expressions like <span class="math">\(\log_{10}{1000} - \log_{10}{100}\)</span> and rewriting the result as a single logarithmic term.</li>
+                <li>Simplify expressions such as <span class="math">\(\log_{2}{32} - \log_{2}{8}\)</span> using logarithmic properties.</li>
+            </ul>
+        </li>
+    </ol>
+
+    <h4>2. Connecting Graphs and Equations of Logarithmic Functions</h4>
+    <ol>
+        <li>Determine, through investigation with and without technology, key features (vertical/horizontal asymptotes, domain/range, intercepts, increasing/decreasing behaviour) of the graphs of logarithmic functions \( f(x) = \log_b{x} \), and make connections between algebraic and graphical representations.
+            <div class="sample-problem">
+                <strong>Sample problem:</strong> Compare the key features of \( f(x) = \log_2{x} \), \( g(x) = \log_4{x} \), and \( h(x) = \log_8{x} \) using graphing technology.
+            </div>
+        </li>
+        
+        <li>Recognize the relationship between exponential and logarithmic functions as inverses, deduce that their graphs are reflections over \( y = x \), and verify this using technology.
+            <div class="sample-problem">
+                <strong>Sample problem:</strong> Use the graphs of \( y = 2^x \) and \( y = \log_2{x} \) to show they are inverses. Explain why the inverse of an exponential function is always a function.
+            </div>
+        </li>
+        
+        <li>Investigate the roles of parameters in logarithmic functions (e.g., \( y = \log_{10}{(x - d)} + c \), \( y = a\log_{10}{(kx)} \)) and describe transformations applied to \( f(x) = \log_{10}{x} \).
+            <div class="example">
+                <em>Example:</em> Analyze how \( c \), \( d \), \( a \), and \( k \) affect the graph of \( y = a\log_{10}{(kx - d)} + c \), and connect these transformations to polynomial/exponential function transformations.
+            </div>
+        </li>
+        
+        <li>Pose and solve real-world problems involving logarithmic graphs (e.g., pH scale, Richter scale).
+            <div class="sample-problem">
+                <strong>Sample problem:</strong> The pH of a solution is given by \( \text{pH} = -\log{C} \). Graph this function. If a solution is diluted from \( 0.1\,\text{M} \) to \( 0.01\,\text{M} \), what is the pH change? Rearrange the equation to express \( C \) as a function of pH.
+            </div>
+        </li>
+    </ol>
+
+    <h4>3. Solving Exponential and Logarithmic Equations</h4>
+    <ol>
+        <li>Recognize equivalent algebraic expressions involving logarithms and exponents, and simplify these expressions.
+            <div class="sample-problem">
+                <strong>Sample problem:</strong> Compare the graphs of \( f(x) = \log_{10}{(100x)} \) and \( g(x) = 2 + \log_{10}{x} \). Explain their relationship algebraically.
+            </div>
+        </li>
+        
+        <li>Solve exponential equations by finding a common base or using logarithms.
+            <div class="example">
+                <em>Example:</em> Solve \( 4^x = 8^{x+3} \) by expressing both sides as powers of 2.
+                <br>
+                <em>Method with logarithms:</em> Solve \( 3^x = 7 \) by taking \(\log_{10}\) of both sides.
+            </div>
+            <div class="sample-problem">
+                <strong>Sample problem:</strong> Solve \( 300(1.05)^n = 600 \) and \( 2^{x+2} - 2^x = 12 \). Explain why you chose each method (common base vs. logarithms).
+            </div>
+        </li>
+        
+        <li>Solve simple logarithmic equations algebraically.
+            <div class="example">
+                <em>Examples:</em>
+                <ul>
+                    <li>Solve \( \log_{3}{(5x + 6)} = 2 \).</li>
+                    <li>Solve \( \log_{10}{(x + 1)} = 1 \).</li>
+                </ul>
+            </div>
+        </li>
+        
+        <li>Solve real-world problems involving exponential/logarithmic equations.
+            <div class="sample-problem">
+                <strong>Sample problem:</strong> A hydrochloric acid solution has pH = 1.7. To increase the pH by 1.4, determine the required dilution factor. Does the initial pH (e.g., 1.7 vs. 2.2) affect your answer? Use the equation \( \text{pH} = -\log{C} \).
+            </div>
+        </li>
+    </ol>
+<!-- Section B: Trigonometric Functions -->
+<h2>B. TRIGONOMETRIC FUNCTIONS</h2>
+<h3>OVERALL EXPECTATIONS</h3>
+<p>By the end of this course, students will:</p>
+<ol>
+  <li>Demonstrate an understanding of the meaning and application of radian measure.</li>
+  <li>Make connections between trigonometric ratios and the graphical and algebraic representations of the corresponding trigonometric functions and between trigonometric functions and their reciprocals, and use these connections to solve problems.</li>
+  <li>Solve problems involving trigonometric equations and prove trigonometric identities.</li>
+</ol>
+
+<h3>SPECIFIC EXPECTATIONS</h3>
+
+<h4>1. Understanding and Applying Radian Measure</h4>
+<ol>
+    <li>Recognize the radian as an alternative unit to the degree for angle measurement, define the radian measure of an angle as the length of the arc that subtends this angle at the centre of a unit circle, and develop and apply the relationship between radian and degree measure.</li>
+
+    <li>Represent radian measure in terms of \( \pi \) (e.g., \( \frac{\pi}{2} \) radians, \( \frac{3\pi}{4} \) radians) and as a rational number (e.g., 1.05 radians, 6.28 radians).</li>
+
+    <li>Determine, with technology, the primary trigonometric ratios (i.e., sine, cosine, tangent) and the reciprocal trigonometric ratios (i.e., cosecant, secant, cotangent) of angles expressed in radian measure.</li>
+
+    <li>Determine, without technology, the exact values of the primary trigonometric ratios and the reciprocal trigonometric ratios for the special angles \( 0, \frac{\pi}{6}, \frac{\pi}{4}, \frac{\pi}{3}, \frac{\pi}{2} \), and their multiples less than or equal to \( 2\pi \).</li>
+</ol>
+
+
+<h4>2. Connecting Graphs and Equations of Trigonometric Functions</h4>
+<ol>
+    <li>Sketch the graphs of \( f(x) = \sin x \) and \( f(x) = \cos x \) for angle measures expressed in radians, and determine and describe some key properties (e.g., period of \( 2\pi \), amplitude of 1) in terms of radians.</li>
+
+    <li>Make connections between the tangent ratio and the tangent function by using technology to graph the relationship between angles in radians and their tangent ratios and defining this relationship as the function \( f(x) = \tan x \), and describe key properties of the tangent function.</li>
+
+    <li>Graph, with technology and using the primary trigonometric functions, the reciprocal trigonometric functions (i.e., cosecant, secant, cotangent) for angle measures expressed in radians, determine and describe key properties of the reciprocal functions (e.g., state the domain, range, and period, and identify and explain the occurrence of asymptotes), and recognize notations used to represent the reciprocal functions (e.g., the reciprocal of \( f(x) = \sin x \) can be represented using \( \csc x \), \( \frac{1}{\sin x} \), or \( y = \csc x \), but not using \( f^{-1}(x) \) or \( \sin^{-1}(x) \), which represent the inverse function).</li>
+
+    <li>Determine the amplitude, period, and phase shift of sinusoidal functions whose equations are given in the form \( f(x) = a \sin(k(x - d)) + c \) or \( f(x) = a \cos(k(x - d)) + c \), with angles expressed in radians.</li>
+
+    <li>Sketch graphs of \( y = a \sin(k(x - d)) + c \) and \( y = a \cos(k(x - d)) + c \) by applying transformations to the graphs of \( f(x) = \sin x \) and \( f(x) = \cos x \) with angles expressed in radians, and state the period, amplitude, and phase shift of the transformed functions.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Transform the graph of \( f(x) = \cos x \) to sketch \( g(x) = 3\cos(2x) - 1 \), and state the period, amplitude, and phase shift of each function.
+        </div>
+    </li>
+
+    <li>Represent a sinusoidal function with an equation, given its graph or its properties, with angles expressed in radians.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> A sinusoidal function has an amplitude of 2 units, a period of \( \pi \), and a maximum at \( (0, 3) \). Represent the function with an equation in two different ways.
+        </div>
+    </li>
+
+    <li>Pose problems based on applications involving a trigonometric function with domain expressed in radians (e.g., seasonal changes in temperature, heights of tides, hours of daylight, displacements for oscillating springs), and solve these and other such problems by using a given graph or a graph generated with or without technology from a table of values or from its equation.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> The population size, \( P \), of owls (predators) in a certain region can be modelled by the function \( P(t) = 1000 + 100 \sin\left(\frac{\pi t}{6}\right) \), where \( t \) represents the time in months. The population size, \( p \), of mice (prey) in the same region is given by \( p(t) = 20000 + 4000 \cos\left(\frac{\pi t}{6}\right) \). Sketch the graphs of these functions, and pose and solve problems involving the relationships between the two populations over time.
+        </div>
+    </li>
+</ol>
+
+
+<h4>3. Solving Trigonometric Equations</h4>
+<ol>
+    <li>Recognize equivalent trigonometric expressions (e.g., by using the angles in a right triangle to recognize that \( \sin x \) and \( \cos(\frac{\pi}{2} - x) \) are equivalent; by using transformations to recognize that \( \cos(x) \) and \( -\sin(x + \frac{\pi}{2}) \) are equivalent), and verify equivalence using graphing technology.</li>
+
+    <li>Explore the algebraic development of the compound angle formulas (e.g., verify the formulas in numerical examples using technology; follow a demonstration of the algebraic development — student reproduction of the general case is not required), and use the formulas to determine exact values of trigonometric ratios (e.g., determining the exact value of \( \sin(\frac{5\pi}{12}) \) by rewriting it in terms of special angles as \( \sin(\frac{\pi}{4} + \frac{\pi}{6}) \)).</li>
+
+    <li>Recognize that trigonometric identities are equations that are true for every value in the domain (i.e., a counter-example can be used to show that an equation is not an identity), prove trigonometric identities through the application of reasoning skills using a variety of relationships (e.g., \( \tan x = \frac{\sin x}{\cos x} \), \( \sin^2 x + \cos^2 x = 1 \); the reciprocal identities; the compound angle formulas), and verify identities using technology.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Use the compound angle formulas to prove the double angle formulas.
+        </div>
+    </li>
+
+    <li>Solve linear and quadratic trigonometric equations, with and without graphing technology, for the domain of real values from \( 0 \leq x \leq 2\pi \), and solve related problems.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Solve the following trigonometric equations for \( 0 \leq x \leq 2\pi \), and verify by graphing with technology: 
+            <ul>
+                <li>\( 2\sin x + 1 = 0 \)</li>
+                <li>\( 2\sin^2 x + \sin x - 1 = 0 \)</li>
+                <li>\( \sin x = \cos 2x \)</li>
+                <li>\( \cos 2x = \frac{1}{2} \)</li>
+            </ul>
+        </div>
+    </li>
+</ol>
+
+
+<!-- Section C: Polynomial and Rational Functions -->
+<h2>C. POLYNOMIAL AND RATIONAL FUNCTIONS</h2>
+<h3>OVERALL EXPECTATIONS</h3>
+<p>By the end of this course, students will:</p>
+<ol>
+  <li>Identify and describe some key features of polynomial functions, and make connections between the numeric, graphical, and algebraic representations of polynomial functions.</li>
+  <li>Identify and describe some key features of the graphs of rational functions, and represent rational functions graphically.</li>
+  <li>Solve problems involving polynomial and simple rational equations graphically and algebraically.</li>
+  <li>Demonstrate an understanding of solving polynomial and simple rational inequalities.</li>
+</ol>
+
+<h3>SPECIFIC EXPECTATIONS</h3>
+<h4>1. Connecting Graphs and Equations of Polynomial Functions</h4>
+<ol>
+    <li>Recognize a polynomial expression (i.e., a series of terms where each term is the product of a constant and a power of \( x \) with a non-negative integral exponent, such as \( x^4 - 5x^3 + 2x - 1 \)); recognize the equation of a polynomial function, give reasons why it is a function, and identify linear and quadratic functions as examples of polynomial functions.</li>
+
+    <li>Compare, through investigation using graphing technology, the numeric, graphical, and algebraic representations of polynomial (i.e., linear, quadratic, cubic, quartic) functions (e.g., compare finite differences in tables of values; investigate the effect of the degree of a polynomial function on the shape of its graph and the maximum number of \( x \)-intercepts; investigate the effect of varying the sign of the leading coefficient on the end behaviour of the function for very large positive or negative \( x \)-values).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate the maximum number of \( x \)-intercepts for linear, quadratic, cubic, and quartic functions using graphing technology.
+        </div>
+    </li>
+
+    <li>Describe key features of the graphs of polynomial functions (e.g., the domain and range, the shape of the graphs, the end behaviour of the functions for very large positive or negative \( x \)-values).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Describe and compare the key features of the graphs of the functions \( f(x) = x \), \( f(x) = x^2 \), \( f(x) = x^3 \), \( f(x) = x^4 \), and \( f(x) = x^5 \).
+        </div>
+    </li>
+
+    <li>Distinguish polynomial functions from sinusoidal and exponential functions (e.g., \( f(x) = \sin x \), \( g(x) = 2^x \)), and compare and contrast the graphs of various polynomial functions with the graphs of other types of functions.</li>
+
+    <li>Make connections, through investigation using graphing technology (e.g., dynamic geometry software), between a polynomial function given in factored form (e.g., \( f(x) = 2(x - 3)(x + 2)(x - 1) \)) and the \( x \)-intercepts of its graph, and sketch the graph of a polynomial function given in factored form using its key features (e.g., by determining intercepts and end behaviour; by locating positive and negative regions using test values between and on either side of the \( x \)-intercepts).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate, using graphing technology, the \( x \)-intercepts and the shapes of the graphs of polynomial functions with one or more repeated factors, for example, \( f(x) = (x - 2)(x - 3) \), \( f(x) = (x - 2)^2(x - 3) \), \( f(x) = (x - 2)^3(x - 3) \), and \( f(x) = (x + 2)^2(x - 2)^2(x - 3) \). Use your conclusions to sketch \( f(x) = (x + 1)^2(x - 3)^2 \), and verify using technology.
+        </div>
+    </li>
+
+    <li>Determine, through investigation using technology, the roles of the parameters \( a, k, d, \) and \( c \) in functions of the form \( y = af(k(x - d)) + c \), and describe these roles in terms of transformations on the graphs of \( f(x) = x^3 \) and \( f(x) = x^4 \) (i.e., vertical and horizontal translations; reflections in the axes; vertical and horizontal stretches and compressions to and from the \( x \)- and \( y \)-axes).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate, using technology, the graph of \( f(x) = (x - d)^3 + c \) for various values of \( d \) and \( c \), and describe the effects of changing \( d \) and \( c \) in terms of transformations.
+        </div>
+    </li>
+
+    <li>Determine an equation of a polynomial function that satisfies a given set of conditions (e.g., degree of the polynomial, intercepts, points on the function), using methods appropriate to the situation (e.g., using the \( x \)-intercepts of the function; using a trial-and-error process with a graphing calculator or graphing software; using finite differences), and recognize that there may be more than one polynomial function that can satisfy a given set of conditions (e.g., an infinite number of polynomial functions satisfy the condition that they have three given \( x \)-intercepts).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Determine an equation for a fifth-degree polynomial function that intersects the \( x \)-axis at only \( x = 5, 1, \) and \( -5 \), and sketch the graph of the function.
+        </div>
+    </li>
+
+    <li>Determine the equation of the family of polynomial functions with a given set of zeros and of the member of the family that passes through another given point (e.g., a family of polynomial functions of degree 3 with zeros 5, –3, and –2 is defined by the equation \( f(x) = k(x - 5)(x + 3)(x + 2) \), where \( k \) is a real number, \( k \neq 0 \); the member of the family that passes through \( (-1, 24) \) is \( f(x) = -2(x - 5)(x + 3)(x + 2) \)). 
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate, using graphing technology, and determine a polynomial function that can be used to model the function \( f(x) = \sin x \) over the interval \( 0 \leq x \leq \pi \).
+        </div>
+    </li>
+
+    <li>Determine, through investigation, and compare the properties of even and odd polynomial functions (e.g., symmetry about the \( y \)-axis or the origin; the power of each term; the number of \( x \)-intercepts; \( f(x) = f(-x) \) or \( f(-x) = -f(x) \)), and determine whether a given polynomial function is even, odd, or neither.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate numerically, graphically, and algebraically, with and without technology, the conditions under which an even function has an even number of \( x \)-intercepts.
+        </div>
+    </li>
+</ol>
+
+
+<h4>2. Connecting Graphs and Equations of Rational Functions</h4>
+<ol>
+    <li>Determine, through investigation with and without technology, key features (i.e., vertical and horizontal asymptotes, domain and range, intercepts, positive/negative intervals, increasing/decreasing intervals) of the graphs of rational functions that are the reciprocals of linear and quadratic functions, and make connections between the algebraic and graphical representations of these rational functions.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate, with technology, the key features of the graphs of families of rational functions of the form \( f(x) = \frac{1}{x^n} \) and \( f(x) = \frac{1}{(x - 2)^n} \), where \( n \) is an integer, and make connections between the equations and key features of the graphs.
+        </div>
+    </li>
+
+    <li>Determine, through investigation with and without technology, key features (i.e., vertical and horizontal asymptotes, domain and range, intercepts, positive/negative intervals, increasing/decreasing intervals) of the graphs of rational functions that have linear expressions in the numerator and denominator (e.g., \( f(x) = \frac{2x + 3}{x - 1} \), \( h(x) = \frac{x + 1}{2x - 5} \)), and make connections between the algebraic and graphical representations of these rational functions.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate, using graphing technology, key features of the graphs of the family of rational functions of the form \( f(x) = \frac{x + 1}{x^n + 1} \) for \( n = 1, 2, 4, \) and \( 8 \), and make connections between the equations and the asymptotes.
+        </div>
+    </li>
+
+    <li>Sketch the graph of a simple rational function using its key features, given the algebraic representation of the function.</li>
+</ol>
+
+
+<h4>3. Solving Polynomial and Rational Equations</h4>
+<ol>
+    <li>Make connections, through investigation using technology (e.g., computer algebra systems), between the polynomial function \( f(x) \), the divisor \( x - a \), the remainder from the division, and \( f(a) \), to verify the remainder theorem and the factor theorem.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Divide \( f(x) = x^3 + 2x^2 - 5x + 6 \) by \( x - a \) for various integral values of \( a \) using a computer algebra system. Compare the remainder from each division with \( f(a) \).
+        </div>
+    </li>
+
+    <li>Factor polynomial expressions in one variable, of degree no higher than four, by selecting and applying strategies (i.e., common factoring, difference of squares, trinomial factoring, factoring by grouping, remainder theorem, factor theorem).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Factor \( x^4 - 5x^2 + 4 \); factor \( x^3 + 2x^2 - x - 2 \).
+        </div>
+    </li>
+
+    <li>Determine, through investigation using technology (e.g., graphing calculator, computer algebra systems), the connection between the real roots of a polynomial equation and the \( x \)-intercepts of the graph of the corresponding polynomial function, and describe this connection (e.g., the real roots of the equation \( x^2 + 36 = 0 \) are the \( x \)-intercepts of the graph of \( f(x) = x^2 + 36 \)).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Describe the relationship between the \( x \)-intercepts of the graphs of linear and quadratic functions and the real roots of the corresponding equations. Investigate, using technology, whether this relationship exists for polynomial functions of higher degree.
+        </div>
+    </li>
+
+    <li>Solve polynomial equations in one variable, of degree no higher than four (e.g., \( x^4 - 3x^3 - 7x^2 + 27x - 18 = 0 \)), by selecting and applying strategies (i.e., common factoring, difference of squares, trinomial factoring, factoring by grouping, remainder theorem, factor theorem), and verify solutions using technology (e.g., using computer algebra systems to determine the roots; using graphing technology to determine the \( x \)-intercepts of the graph of the corresponding polynomial function).</li>
+
+    <li>Determine, through investigation using technology (e.g., graphing calculator, computer algebra systems), the connection between the real roots of a rational equation and the \( x \)-intercepts of the graph of the corresponding rational function, and describe this connection (e.g., the real root of the equation \( \frac{x + 1}{x^2 - 4} = 0 \) is \( x = -1 \), which is the \( x \)-intercept of the function \( f(x) = \frac{x + 1}{x^2 - 4} \); the equation \( \frac{1}{x^2 + 1} = 0 \) has no real roots, and the function \( f(x) = \frac{1}{x^2 + 1} \) does not intersect the \( x \)-axis).</li>
+
+    <li>Solve simple rational equations in one variable algebraically, and verify solutions using technology (e.g., using computer algebra systems to determine the roots; using graphing technology to determine the \( x \)-intercepts of the graph of the corresponding rational function).</li>
+
+    <li>Solve problems involving applications of polynomial and simple rational functions and equations (e.g., problems involving the factor theorem or remainder theorem, such as determining the values of \( k \) for which the function \( f(x) = x^3 + kx^2 + x + 6 \) gives the same remainder when divided by \( x - 1 \) and \( x + 2 \)).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Use long division to express the given function \( f(x) = \frac{x^2 + 2x + 5}{x + 1} \) as the sum of a polynomial function and a rational function of the form \( \frac{A}{x + 1} \), where \( A \) is a constant. Make a conjecture about the relationship between the given function and the polynomial function for very large positive and negative \( x \)-values, and verify your conjecture using graphing technology.
+        </div>
+    </li>
+</ol>
+
+
+<h4>4. Solving Inequalities</h4>
+<ol>
+    <li>Explain, for polynomial and simple rational functions, the difference between the solution to an equation in one variable and the solution to an inequality in one variable, and demonstrate that given solutions satisfy an inequality (e.g., demonstrate numerically and graphically that the solution to \( x^2 - 4 < 5 \) is \( x < -1 \) or \( x > 3 \)).</li>
+
+    <li>Determine solutions to polynomial inequalities in one variable (e.g., solve \( f(x) \geq 0 \), where \( f(x) = x^3 - 4x \)) and to simple rational inequalities in one variable by graphing the corresponding functions, using graphing technology, and identifying intervals for which \( x \) satisfies the inequalities.</li>
+
+    <li>Solve linear inequalities and factorable polynomial inequalities in one variable (e.g., \( (x + 2)(x - 1)(x - 3) > 0 \)) in a variety of ways (e.g., by determining intervals using \( x \)-intercepts and evaluating the corresponding function for a single \( x \)-value within each interval; by factoring the polynomial and identifying the conditions for which the product satisfies the inequality), and represent the solutions on a number line or algebraically (e.g., for the inequality \( (x + 2)(x - 1)(x - 3) > 0 \), the solution represented algebraically is \( x < -2 \), \( 1 < x < 3 \)).
+    </li>
+</ol>
+
+
+<!-- Section D: Characteristics of Functions -->
+<h2>D. CHARACTERISTICS OF FUNCTIONS</h2>
+<h3>OVERALL EXPECTATIONS</h3>
+<p>By the end of this course, students will:</p>
+<ol>
+  <li>Demonstrate an understanding of average and instantaneous rate of change, and determine, numerically and graphically, and interpret the average rate of change of a function over a given interval and the instantaneous rate of change of a function at a given point.</li>
+  <li>Determine functions that result from the addition, subtraction, multiplication, and division of two functions and from the composition of two functions, describe some properties of the resulting functions, and solve related problems.</li>
+  <li>Compare the characteristics of functions, and solve problems by modelling and reasoning with functions, including problems with solutions that are not accessible by standard algebraic techniques.</li>
+</ol>
+
+<h3>SPECIFIC EXPECTATIONS</h3>
+<h4>1. Understanding Rates of Change</h4>
+<ol>
+    <li>Gather, interpret, and describe information about real-world applications of rates of change, and recognize different ways of representing rates of change (e.g., in words, numerically, graphically, algebraically).</li>
+
+    <li>Recognize that the rate of change for a function is a comparison of changes in the dependent variable to changes in the independent variable, and distinguish situations in which the rate of change is zero, constant, or changing by examining applications, including those arising from real-world situations (e.g., rate of change of the area of a circle as the radius increases, inflation rates, the rising trend in graduation rates among Aboriginal youth, speed of a cruising aircraft, speed of a cyclist climbing a hill, infection rates).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> The population of bacteria in a sample is 250,000 at 1:00 p.m., 500,000 at 3:00 p.m., and 1,000,000 at 5:00 p.m. Compare methods used to calculate the change in the population and the rate of change in the population between 1:00 p.m. to 5:00 p.m. Is the rate of change constant? Explain your reasoning.
+        </div>
+    </li>
+
+    <li>Sketch a graph that represents a relationship involving rate of change, as described in words, and verify with technology (e.g., motion sensor) when possible.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> John rides his bicycle at a constant cruising speed along a flat road. He then decelerates (i.e., decreases speed) as he climbs a hill. At the top, he accelerates (i.e., increases speed) on a flat road back to his constant cruising speed, and he then accelerates down a hill. Finally, he comes to another hill and glides to a stop as he starts to climb. Sketch a graph of John’s speed versus time and a graph of his distance travelled versus time.
+        </div>
+    </li>
+
+    <li>Calculate and interpret average rates of change of functions (e.g., linear, quadratic, exponential, sinusoidal) arising from real-world applications (e.g., in the natural, physical, and social sciences), given various representations of the functions (e.g., tables of values, graphs, equations).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Fluorine-20 is a radioactive substance that decays over time. At time 0, the mass of a sample of the substance is 20 g. The mass decreases to 10 g after 11 s, to 5 g after 22 s, and to 2.5 g after 33 s. Compare the average rate of change over the 33-s interval with the average rate of change over consecutive 11-s intervals.
+        </div>
+    </li>
+
+    <li>Recognize examples of instantaneous rates of change arising from real-world situations, and make connections between instantaneous rates of change and average rates of change (e.g., an average rate of change can be used to approximate an instantaneous rate of change).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> In general, does the speedometer of a car measure instantaneous rate of change (i.e., instantaneous speed) or average rate of change (i.e., average speed)? Describe situations in which the instantaneous speed and the average speed would be the same.
+        </div>
+    </li>
+
+    <li>Determine, through investigation using various representations of relationships (e.g., tables of values, graphs, equations), approximate instantaneous rates of change arising from real-world applications (e.g., in the natural, physical, and social sciences) by using average rates of change and reducing the interval over which the average rate of change is determined.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> The distance, \( d \) metres, travelled by a falling object in \( t \) seconds is represented by \( d = 5t^2 \). When \( t = 3 \), the instantaneous speed of the object is 30 m/s. Compare the average speeds over different time intervals starting at \( t = 3 \) with the instantaneous speed when \( t = 3 \). Use your observations to select an interval that can be used to provide a good approximation of the instantaneous speed at \( t = 3 \).
+        </div>
+    </li>
+
+    <li>Make connections, through investigation, between the slope of a secant on the graph of a function (e.g., quadratic, exponential, sinusoidal) and the average rate of change of the function over an interval, and between the slope of the tangent to a point on the graph of a function and the instantaneous rate of change of the function at that point.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Use tangents to investigate the behaviour of a function when the instantaneous rate of change is zero, positive, or negative.
+        </div>
+    </li>
+
+    <li>Determine, through investigation using a variety of tools and strategies (e.g., using a table of values to calculate slopes of secants or graphing secants and measuring their slopes with technology), the approximate slope of the tangent to a given point on the graph of a function (e.g., quadratic, exponential, sinusoidal) by using the slopes of secants through the given point (e.g., investigating the slopes of secants that approach the tangent at that point more and more closely), and make connections to average and instantaneous rates of change.</li>
+
+    <li>Solve problems involving average and instantaneous rates of change, including problems arising from real-world applications, by using numerical and graphical methods (e.g., by using graphing technology to graph a tangent and measure its slope).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> The height, \( h \) metres, of a ball above the ground can be modelled by the function \( h(t) = -5t^2 + 30t + 10 \), where \( t \) is the time in seconds. Use average speeds to determine the approximate instantaneous speed at \( t = 3 \).
+        </div>
+    </li>
+</ol>
+
+
+<h4>2. Combining Functions</h4>
+<ol>
+    <li>Determine, through investigation using graphing technology, key features (e.g., domain, range, maximum/minimum points, number of zeros) of the graphs of functions created by adding, subtracting, multiplying, or dividing functions (e.g., \( f(x) = x \), \( g(x) = \sin x \), \( h(x) = f(x) + g(x) \)), and describe factors that affect these properties.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate the effect of the behaviours of \( f(x) = \sin x \), \( f(x) = \sin 2x \), and \( f(x) = \sin 4x \) on the shape of \( f(x) = \sin x + \sin 2x + \sin 4x \).
+        </div>
+    </li>
+
+    <li>Recognize real-world applications of combinations of functions (e.g., the motion of a damped pendulum can be represented by a function that is the product of a trigonometric function and an exponential function; the frequencies of tones associated with the numbers on a telephone involve the addition of two trigonometric functions), and solve related problems graphically.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> The rate at which a contaminant leaves a storm sewer and enters a lake depends on two factors: the concentration of the contaminant in the water from the sewer and the rate at which the water leaves the sewer. Both of these factors vary with time. The concentration of the contaminant, in kilograms per cubic metre of water, is given by \( c(t) = \frac{1}{2}e^{-0.1t} \), where \( t \) is in seconds. The rate at which water leaves the sewer, in cubic metres per second, is given by \( w(t) = 3 + \sin t \). Determine the time at which the contaminant leaves the sewer and enters the lake at the maximum rate.
+        </div>
+    </li>
+
+    <li>Determine, through investigation, and explain some properties (i.e., odd, even, or neither; increasing/decreasing behaviours) of functions formed by adding, subtracting, multiplying, and dividing general functions (e.g., \( f(x) + g(x) \), \( f(x)g(x) \)).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Investigate algebraically, and verify numerically and graphically, whether the product of two functions is even or odd if the two functions are both even or both odd, or if one function is even and the other is odd.
+        </div>
+    </li>
+
+    <li>Determine the composition of two functions (i.e., \( f(g(x)) \)) numerically (i.e., by using a table of values) and graphically, with technology, for functions represented in a variety of ways (e.g., function machines, graphs, equations), and interpret the composition of two functions in real-world applications.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> For a car travelling at a constant speed, the distance driven, \( d \) kilometres, is represented by \( d(t) = 80t \), where \( t \) is the time in hours. The cost of gasoline, in dollars, for the drive is represented by \( C(d) = 0.09d \). Determine numerically and interpret \( C(d(5)) \), and describe the relationship represented by \( C(d(t)) \).
+        </div>
+    </li>
+
+    <li>Determine algebraically the composition of two functions (i.e., \( f(g(x)) \)), verify that \( f(g(x)) \) is not always equal to \( g(f(x)) \) (e.g., by determining \( f(g(x)) \) and \( g(f(x)) \), given \( f(x) = x + 1 \) and \( g(x) = 2x \)), and state the domain (i.e., by defining \( f(g(x)) \) for those \( x \)-values for which \( g(x) \) is defined and for which it is included in the domain of \( f \)) and the range of the composition of two functions.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Determine \( f(g(x)) \) and \( g(f(x)) \) given \( f(x) = \cos x \) and \( g(x) = 2x + 1 \); state the domain and range of \( f(g(x)) \) and \( g(f(x)) \); compare \( f(g(x)) \) with \( g(f(x)) \) algebraically, and verify numerically and graphically with technology.
+        </div>
+    </li>
+
+    <li>Solve problems involving the composition of two functions, including problems arising from real-world applications.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> The speed of a car, \( v \) kilometres per hour, at a time of \( t \) hours is represented by \( v(t) = 40 + 3t + t^2 \). The rate of gasoline consumption of the car, \( c \) litres per kilometre, at a speed of \( v \) kilometres per hour is represented by \( c(v) = \frac{2}{v} + 0.15 \). Determine algebraically \( c(v(t)) \), the rate of gasoline consumption as a function of time. Determine, using technology, the time when the car is running most economically during a four-hour trip.
+        </div>
+    </li>
+
+    <li>Demonstrate, by giving examples for functions represented in a variety of ways (e.g., function machines, graphs, equations), the property that the composition of a function and its inverse function maps a number onto itself (i.e., \( f^{-1}(f(x)) = x \) and \( f(f^{-1}(x)) = x \)); demonstrate that the inverse function is the reverse process of the original function and that it undoes what the function does.</li>
+
+    <li>Make connections, through investigation using technology, between transformations (i.e., vertical and horizontal translations; reflections in the axes; vertical and horizontal stretches and compressions to and from the \( x \)- and \( y \)-axes) of simple functions \( f(x) \) (e.g., \( f(x) = x^2 \), \( f(x) = \sin x \), \( f(x) = \log x \)) and the composition of these functions with a linear function of the form \( g(x) = A(x + B) \).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Compare the graph of \( f(x) = \sqrt{x} \) with the graphs of \( f(g(x)) \) and \( g(f(x)) \), where \( g(x) = 2(x - d) \), for various values of \( d \). Describe the effects of \( d \) in terms of transformations of \( f(x) \).
+        </div>
+    </li>
+</ol>
+
+
+<h4>3. Using Function Models to Solve Problems</h4>
+<ol>
+    <li>Compare, through investigation using a variety of tools and strategies (e.g., graphing with technology; comparing algebraic representations; comparing finite differences in tables of values), the characteristics (e.g., key features of the graphs, forms of the equations) of various functions (i.e., polynomial, rational, trigonometric, exponential, logarithmic).</li>
+
+    <li>Solve graphically and numerically equations and inequalities whose solutions are not accessible by standard algebraic techniques.
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> Solve \( \log x = x - 2 \) and \( \cos x = x \), with \( x \) in radians.
+        </div>
+    </li>
+
+    <li>Solve problems, using a variety of tools and strategies, including problems arising from real-world applications, by reasoning with functions and by applying concepts and procedures involving functions (e.g., by constructing a function model from data, using the model to determine mathematical results, and interpreting and communicating the results within the context of the problem).
+        <div class="sample-problem">
+            <strong>Sample problem:</strong> The pressure of a car tire with a slow leak is given in the following table of values:
+            <br><br>
+            <table class="table table-bordered" style="max-width: 400px;">
+                <thead><tr><th>Time, \( t \) (min)</th><th>Pressure, \( P \) (kPa)</th></tr></thead>
+                <tbody>
+                    <tr><td>0</td><td>400</td></tr>
+                    <tr><td>5</td><td>335</td></tr>
+                    <tr><td>10</td><td>295</td></tr>
+                    <tr><td>15</td><td>255</td></tr>
+                    <tr><td>20</td><td>225</td></tr>
+                    <tr><td>25</td><td>195</td></tr>
+                    <tr><td>30</td><td>170</td></tr>
+                </tbody>
+            </table>
+            Use technology to investigate linear, quadratic, and exponential models for the relationship of the tire pressure and time, and describe how well each model fits the data. Use each model to predict the pressure after 60 min. Which model gives the most realistic answer?
+        </div>
+    </li>
+</ol>
+
+
+</body>
+<div class="col-12"><footer><!-- <p>© [Client] [Year]</p> -->
+<p><img src="./EVA%20SCHOOL1.png" alt="" title="" data-d2l-editor-default-img-style="true" style="max-width: 100%;"></p>
+</footer></div>
+</div>
+</div>
+</div>
+<p>
+<script src="./jquery-3.5.1.min.js"></script>
+<script src="./popper.min.js"></script>
+<script src="./bootstrap.min.js"></script>
+</p>
+<!-- Template JavaScript -->
+<p>
+<script src="./scripts.min.js"></script>
+</html>
