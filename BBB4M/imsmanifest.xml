@@ -1,0 +1,670 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="D2L_7224" xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns:scorm_1p2="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1">
+    <metadata>
+        <imsmd:lom>
+            <imsmd:general>
+                <imsmd:title>
+                    <imsmd:langstring xml:lang="en-ca">Emerald Valley Academy International Business Grade 12 </imsmd:langstring>
+                </imsmd:title>
+                <imsmd:keyword>
+                    <imsmd:langstring xml:lang="en-ca">BBB4M EVA</imsmd:langstring>
+                </imsmd:keyword>
+                <imsmd:language>en-ca</imsmd:language>
+            </imsmd:general>
+        </imsmd:lom>
+    </metadata>
+    <organizations default="d2l_orgs">
+        <organization identifier="d2l_org">
+            <item identifier="119590" identifierref="RES_CONTENT_119590" d2l_2p0:id="1" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68335" description="&lt;p&gt;&lt;img src=&quot;98c295e1-b3db-4f53-b585-f069448b649c.gif?_&amp;amp;d2lSessionVal=xnVcQAFjfKQtZiN0LobbdtHPZ&amp;amp;_&amp;amp;d2lSessionVal=eWXwFY2DLwMgKD7lctFEXCF7z&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Teacher's Resources</title>
+                <item identifier="119596" identifierref="RES_CONTENT_119596" d2l_2p0:id="2" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68341" description="&lt;p&gt;&lt;a rel=&quot;noopener&quot; href=&quot;https://docs.google.com/document/d/12GAZje1_BQ67yWVVnvRZAmV8QpJ48qAZ_qAqAhjk3VM/edit?usp=sharing&quot;&gt;https://docs.google.com/document/d/12GAZje1_BQ67yWVVnvRZAmV8QpJ48qAZ_qAqAhjk3VM/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Course Map</title>
+                </item>
+            </item>
+            <item identifier="119591" identifierref="RES_CONTENT_119591" d2l_2p0:id="3" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68336" description="&lt;p&gt;&lt;img src=&quot;Green%20Retro%20Markets%20and%20Finance%20Presentation.gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 1: Business, Trade and the Economy</title>
+                <item identifier="119619" identifierref="RES_CONTENT_119619" d2l_2p0:id="4" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61555" description="" completion_type="2">
+                    <title>Unit Introduction : Business, Trade and the Economy</title>
+                </item>
+                <item identifier="119597" identifierref="RES_CONTENT_119597" d2l_2p0:id="5" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68342" description="&lt;p&gt;&lt;img src=&quot;dfsf%20(1).png&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>An Introduction to Business and Trade History of Canada</title>
+                    <item identifier="119620" identifierref="RES_CONTENT_119620" d2l_2p0:id="6" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61562" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119644" identifierref="RES_CONTENT_119644" d2l_2p0:id="7" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68364" description="&lt;p style=&quot;text-align: justify;&quot;&gt;Please initiate a new discussion thread, first, look for the option or button labeled &amp;quot;Start a New Thread&amp;quot; and click on it. Begin by introducing yourself and then write a concise paragraph expressing your thought about the importance of trade to a business, highlighting any specific areas of interest or questions you may have.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="119621" identifierref="RES_CONTENT_119621" d2l_2p0:id="8" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61584" description="" completion_type="2">
+                        <title>An Introduction to Business and Trade History of Canada</title>
+                    </item>
+                    <item identifier="119624" identifierref="RES_CONTENT_119624" d2l_2p0:id="9" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61596" description="" completion_type="2">
+                        <title>NAFTA Explained</title>
+                    </item>
+                    <item identifier="119625" identifierref="RES_CONTENT_119625" d2l_2p0:id="10" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61597" description="" completion_type="2">
+                        <title>The Pencil</title>
+                    </item>
+                    <item identifier="119645" identifierref="RES_CONTENT_119645" d2l_2p0:id="11" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68365" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119646" identifierref="RES_CONTENT_119646" d2l_2p0:id="12" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68366" description="&lt;p&gt;Please watch the video titled &amp;quot;The Pencil&amp;quot; linked in this lesson and respond to the question given.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework: The Pencil</title>
+                    </item>
+                </item>
+                <item identifier="119598" identifierref="RES_CONTENT_119598" d2l_2p0:id="13" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68343" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(81).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Advantages and Disadvantages of International Trade</title>
+                    <item identifier="119622" identifierref="RES_CONTENT_119622" d2l_2p0:id="14" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61585" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119647" identifierref="RES_CONTENT_119647" d2l_2p0:id="15" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68367" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Warm Up Activity!</title>
+                    </item>
+                    <item identifier="119623" identifierref="RES_CONTENT_119623" d2l_2p0:id="16" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61593" description="" completion_type="2">
+                        <title>Advantages and Disadvantages of International Trade</title>
+                    </item>
+                    <item identifier="119626" identifierref="RES_CONTENT_119626" d2l_2p0:id="17" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61599" description="" completion_type="2">
+                        <title>LEGO: Bricks in the Making</title>
+                    </item>
+                    <item identifier="119648" identifierref="RES_CONTENT_119648" d2l_2p0:id="18" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62614" description="" completion_type="2">
+                        <title>Let's Practice!</title>
+                    </item>
+                </item>
+                <item identifier="119599" identifierref="RES_CONTENT_119599" d2l_2p0:id="19" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68344" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(82).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Globalization</title>
+                    <item identifier="119627" identifierref="RES_CONTENT_119627" d2l_2p0:id="20" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61601" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119649" identifierref="RES_CONTENT_119649" d2l_2p0:id="21" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68368" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="119628" identifierref="RES_CONTENT_119628" d2l_2p0:id="22" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61607" description="" completion_type="2">
+                        <title>Globalization</title>
+                    </item>
+                    <item identifier="119629" identifierref="RES_CONTENT_119629" d2l_2p0:id="23" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61609" description="" completion_type="2">
+                        <title>Globalization</title>
+                    </item>
+                    <item identifier="119650" identifierref="RES_CONTENT_119650" d2l_2p0:id="24" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62656" description="" completion_type="2">
+                        <title>Let's Pratice</title>
+                    </item>
+                    <item identifier="119651" identifierref="RES_CONTENT_119651" d2l_2p0:id="25" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62657" description="" completion_type="2">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119600" identifierref="RES_CONTENT_119600" d2l_2p0:id="26" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68345" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(83).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;display: block;margin-left: auto;margin-right: auto;&quot;/&gt;&lt;br/&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block;margin-left: auto;margin-right: auto;&quot;/&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Elements of International Trade </title>
+                    <item identifier="119630" identifierref="RES_CONTENT_119630" d2l_2p0:id="27" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61613" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119652" identifierref="RES_CONTENT_119652" d2l_2p0:id="28" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68369" description="" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic">
+                        <title>Warm Up Activity: Tell what you know!</title>
+                    </item>
+                    <item identifier="119631" identifierref="RES_CONTENT_119631" d2l_2p0:id="29" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61617" description="" completion_type="2">
+                        <title>Elements of International Trade</title>
+                    </item>
+                    <item identifier="119632" identifierref="RES_CONTENT_119632" d2l_2p0:id="30" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61625" description="" completion_type="2">
+                        <title>Canada Slipping in International Competitiveness</title>
+                    </item>
+                    <item identifier="119653" identifierref="RES_CONTENT_119653" d2l_2p0:id="31" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62666" description="" completion_type="2">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119654" identifierref="RES_CONTENT_119654" d2l_2p0:id="32" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68370" description="&lt;p style=&quot;text-align: justify;&quot;&gt;Please initiate a new discussion thread, by looking for the option or button labeled &amp;quot;Start a New Thread&amp;quot; and click on it. Introduce yourself briefly, and then write a concise paragraph discussing what you have learned from this lesson. Clearly state what you gain or learn from the lesson, highlighting any specific areas of interest or questions you may have. Reflect on the key concepts, principles, or skills you have acquired and how they have influenced your understanding or perspective. Be specific and provide examples or experiences that demonstrate your learning.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic">
+                        <title>Homework:</title>
+                    </item>
+                </item>
+                <item identifier="121205" identifierref="RES_CONTENT_121205" d2l_2p0:id="33" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73976" description="&lt;p&gt;&lt;img src=&quot;Advantages%20and%20Disadvantages%20of%20International%20Trade%20(3).jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 1 Mini-Assessment</title>
+                    <item identifier="121206" identifierref="RES_CONTENT_121206" d2l_2p0:id="34" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73982" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 1 Concept Map</title>
+                    </item>
+                </item>
+                <item identifier="119601" identifierref="RES_CONTENT_119601" d2l_2p0:id="35" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68346" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(84).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 1 Summative</title>
+                    <item identifier="121207" identifierref="RES_CONTENT_121207" d2l_2p0:id="36" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73983" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 1 Summative</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="119592" identifierref="RES_CONTENT_119592" d2l_2p0:id="37" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68337" description="&lt;p&gt;&lt;img src=&quot;Earth%20day%20(Card%20(Landscape)).gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt; &amp;nbsp;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 2: The Global Environment for Business</title>
+                <item identifier="119602" identifierref="RES_CONTENT_119602" d2l_2p0:id="38" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68347" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(85).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Canada on the World Stage </title>
+                    <item identifier="119633" identifierref="RES_CONTENT_119633" d2l_2p0:id="39" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61626" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119655" identifierref="RES_CONTENT_119655" d2l_2p0:id="40" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68371" description="" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="119634" identifierref="RES_CONTENT_119634" d2l_2p0:id="41" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61627" description="" completion_type="2">
+                        <title>Canada on the World Stage</title>
+                    </item>
+                    <item identifier="119635" identifierref="RES_CONTENT_119635" d2l_2p0:id="42" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61628" description="" completion_type="2">
+                        <title>International Business: Canada's Competitive Advantage</title>
+                    </item>
+                    <item identifier="119656" identifierref="RES_CONTENT_119656" d2l_2p0:id="43" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62698" description="" completion_type="2">
+                        <title>Inside awards: Red Bull offices by Linda Morey Smith</title>
+                    </item>
+                    <item identifier="119657" identifierref="RES_CONTENT_119657" d2l_2p0:id="44" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68372" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119658" identifierref="RES_CONTENT_119658" d2l_2p0:id="45" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68373" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework: Why Invest in Canada?</title>
+                    </item>
+                </item>
+                <item identifier="119603" identifierref="RES_CONTENT_119603" d2l_2p0:id="46" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68348" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(86).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>What is culture?</title>
+                    <item identifier="119636" identifierref="RES_CONTENT_119636" d2l_2p0:id="47" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61629" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119659" identifierref="RES_CONTENT_119659" d2l_2p0:id="48" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62703" description="" completion_type="2">
+                        <title>Warm - Up Activity : HSBC Culture Ads</title>
+                    </item>
+                    <item identifier="119637" identifierref="RES_CONTENT_119637" d2l_2p0:id="49" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62334" description="" completion_type="2">
+                        <title>What is culture?</title>
+                    </item>
+                    <item identifier="119660" identifierref="RES_CONTENT_119660" d2l_2p0:id="50" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68374" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119661" identifierref="RES_CONTENT_119661" d2l_2p0:id="51" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68375" description="&lt;p&gt;Make sure you have watched the video linked in the warm - up activity.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework: The Importance of Culture</title>
+                    </item>
+                </item>
+                <item identifier="119604" identifierref="RES_CONTENT_119604" d2l_2p0:id="52" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68349" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(87).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Cultural Awareness and the International Business.</title>
+                    <item identifier="119638" identifierref="RES_CONTENT_119638" d2l_2p0:id="53" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62335" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119663" identifierref="RES_CONTENT_119663" d2l_2p0:id="54" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62708" description="" completion_type="2">
+                        <title>Warm - Up Activity : 7 Unusual Business Etiquettes Around the World that Might Surprise You</title>
+                    </item>
+                    <item identifier="119639" identifierref="RES_CONTENT_119639" d2l_2p0:id="55" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62337" description="" completion_type="2">
+                        <title>Cultural Awareness and the International Business</title>
+                    </item>
+                    <item identifier="119662" identifierref="RES_CONTENT_119662" d2l_2p0:id="56" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62707" description="" completion_type="2">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119664" identifierref="RES_CONTENT_119664" d2l_2p0:id="57" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68376" description="&lt;p&gt;Please initiate a new discussion thread, by looking for the option or button labeled &amp;quot;Start a New Thread&amp;quot; and click on it. Introduce yourself briefly, and then write a concise paragraph discussing what you have learned from this lesson. Clearly state what you gain or learn from the lesson, highlighting any specific areas of interest or questions you may have. Reflect on the key concepts, principles, or skills you have acquired and how they have influenced your understanding or perspective. Be specific and provide examples or experiences that demonstrate your learning.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119605" identifierref="RES_CONTENT_119605" d2l_2p0:id="58" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68350" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(88).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Economic and Political Systems.</title>
+                    <item identifier="119640" identifierref="RES_CONTENT_119640" d2l_2p0:id="59" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62342" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119665" identifierref="RES_CONTENT_119665" d2l_2p0:id="60" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68377" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Warm Up Activity : Do You Think?</title>
+                    </item>
+                    <item identifier="119641" identifierref="RES_CONTENT_119641" d2l_2p0:id="61" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62343" description="" completion_type="2">
+                        <title>Economic and Political Systems</title>
+                    </item>
+                    <item identifier="119666" identifierref="RES_CONTENT_119666" d2l_2p0:id="62" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68378" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119667" identifierref="RES_CONTENT_119667" d2l_2p0:id="63" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68379" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119606" identifierref="RES_CONTENT_119606" d2l_2p0:id="64" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68351" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(89).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>The Business Cycle.</title>
+                    <item identifier="119642" identifierref="RES_CONTENT_119642" d2l_2p0:id="65" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62346" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119669" identifierref="RES_CONTENT_119669" d2l_2p0:id="66" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62716" description="" completion_type="2">
+                        <title>Warm - Up Activity : The Business Cycle</title>
+                    </item>
+                    <item identifier="119643" identifierref="RES_CONTENT_119643" d2l_2p0:id="67" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62347" description="" completion_type="2">
+                        <title>The Business Cycle</title>
+                    </item>
+                    <item identifier="119668" identifierref="RES_CONTENT_119668" d2l_2p0:id="68" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68380" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119690" identifierref="RES_CONTENT_119690" d2l_2p0:id="69" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68381" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="121208" identifierref="RES_CONTENT_121208" d2l_2p0:id="70" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73977" description="&lt;p&gt;&lt;img src=&quot;Advantages%20and%20Disadvantages%20of%20International%20Trade%20(7)1.jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 2 Mini-assessment</title>
+                    <item identifier="121209" identifierref="RES_CONTENT_121209" d2l_2p0:id="71" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73984" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 2 Mini-assessment</title>
+                    </item>
+                </item>
+                <item identifier="119607" identifierref="RES_CONTENT_119607" d2l_2p0:id="72" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68352" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(90).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 2 Summative</title>
+                    <item identifier="121210" identifierref="RES_CONTENT_121210" d2l_2p0:id="73" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73985" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 2 Summative</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="119593" identifierref="RES_CONTENT_119593" d2l_2p0:id="74" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68338" description="&lt;p&gt;&lt;img src=&quot;Pink%20Colorful%20Digital%20Marketing%20Presentation.gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt; &amp;nbsp;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 3: Factors Influencing Success in International Markets</title>
+                <item identifier="119608" identifierref="RES_CONTENT_119608" d2l_2p0:id="75" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68353" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(91).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>International Trade Agreements and Organizations</title>
+                    <item identifier="119670" identifierref="RES_CONTENT_119670" d2l_2p0:id="76" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62348" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119691" identifierref="RES_CONTENT_119691" d2l_2p0:id="77" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62717" description="" completion_type="2">
+                        <title>Warm Up Activity: Watch The Video!</title>
+                    </item>
+                    <item identifier="119671" identifierref="RES_CONTENT_119671" d2l_2p0:id="78" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62351" description="" completion_type="2">
+                        <title>International Trade Agreements and Organizations</title>
+                    </item>
+                    <item identifier="119692" identifierref="RES_CONTENT_119692" d2l_2p0:id="79" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62719" description="" completion_type="2">
+                        <title>Let's Practice: Globalization</title>
+                    </item>
+                    <item identifier="119693" identifierref="RES_CONTENT_119693" d2l_2p0:id="80" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68382" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119609" identifierref="RES_CONTENT_119609" d2l_2p0:id="81" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68354" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(92).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Social Responsibility and NGO’s</title>
+                    <item identifier="119672" identifierref="RES_CONTENT_119672" d2l_2p0:id="82" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62352" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119694" identifierref="RES_CONTENT_119694" d2l_2p0:id="83" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68383" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Warm Up Activity : Corporate Social Responsibility</title>
+                    </item>
+                    <item identifier="119673" identifierref="RES_CONTENT_119673" d2l_2p0:id="84" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62538" description="" completion_type="2">
+                        <title>Social Responsibility and NGO’s</title>
+                    </item>
+                    <item identifier="119695" identifierref="RES_CONTENT_119695" d2l_2p0:id="85" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68384" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice : Stakeholder Analysis</title>
+                    </item>
+                    <item identifier="119696" identifierref="RES_CONTENT_119696" d2l_2p0:id="86" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68385" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework : Business Ethics</title>
+                    </item>
+                </item>
+                <item identifier="119610" identifierref="RES_CONTENT_119610" d2l_2p0:id="87" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68355" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(93).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>International Marketing and the Four Ps.</title>
+                    <item identifier="119674" identifierref="RES_CONTENT_119674" d2l_2p0:id="88" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62539" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119697" identifierref="RES_CONTENT_119697" d2l_2p0:id="89" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62724" description="" completion_type="2">
+                        <title>Warm Up Activity: Watch the Video!</title>
+                    </item>
+                    <item identifier="119675" identifierref="RES_CONTENT_119675" d2l_2p0:id="90" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62584" description="" completion_type="2">
+                        <title>International marketing and  the Four P’s</title>
+                    </item>
+                    <item identifier="119698" identifierref="RES_CONTENT_119698" d2l_2p0:id="91" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68386" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice : 4Ps of Marketing</title>
+                    </item>
+                    <item identifier="119699" identifierref="RES_CONTENT_119699" d2l_2p0:id="92" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68387" description="&lt;p&gt;Find Place Google Earth where you think your product will most likely sell.&amp;#160;Explore the area. Notice physical landmarks. And answer the following questions:&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119611" identifierref="RES_CONTENT_119611" d2l_2p0:id="93" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68356" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(94).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>The Two C’s of Marketing</title>
+                    <item identifier="119676" identifierref="RES_CONTENT_119676" d2l_2p0:id="94" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62585" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119700" identifierref="RES_CONTENT_119700" d2l_2p0:id="95" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62727" description="" completion_type="2">
+                        <title>Warm Up Activity : Watch the Video!</title>
+                    </item>
+                    <item identifier="119677" identifierref="RES_CONTENT_119677" d2l_2p0:id="96" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62586" description="" completion_type="2">
+                        <title>Two C’s of Marketing</title>
+                    </item>
+                    <item identifier="119701" identifierref="RES_CONTENT_119701" d2l_2p0:id="97" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68388" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice : What do you know?</title>
+                    </item>
+                    <item identifier="119702" identifierref="RES_CONTENT_119702" d2l_2p0:id="98" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68389" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119612" identifierref="RES_CONTENT_119612" d2l_2p0:id="99" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68357" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(95).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Market Research and Marketing Strategies</title>
+                    <item identifier="119678" identifierref="RES_CONTENT_119678" d2l_2p0:id="100" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62588" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119703" identifierref="RES_CONTENT_119703" d2l_2p0:id="101" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62731" description="" completion_type="2">
+                        <title>Warm Up Activity: Watch the Video!</title>
+                    </item>
+                    <item identifier="119679" identifierref="RES_CONTENT_119679" d2l_2p0:id="102" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62589" description="" completion_type="2">
+                        <title>Market Research and Marketing Strategies</title>
+                    </item>
+                    <item identifier="119704" identifierref="RES_CONTENT_119704" d2l_2p0:id="103" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62733" description="" completion_type="2">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119705" identifierref="RES_CONTENT_119705" d2l_2p0:id="104" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68390" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="121211" identifierref="RES_CONTENT_121211" d2l_2p0:id="105" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73978" description="&lt;p&gt;&lt;img src=&quot;Advantages%20and%20Disadvantages%20of%20International%20Trade%20(8).jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 3 Mini-assessment</title>
+                    <item identifier="121212" identifierref="RES_CONTENT_121212" d2l_2p0:id="106" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73986" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 3 Mini-assessment</title>
+                    </item>
+                </item>
+                <item identifier="119613" identifierref="RES_CONTENT_119613" d2l_2p0:id="107" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68358" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(96).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 3 Summative</title>
+                    <item identifier="121213" identifierref="RES_CONTENT_121213" d2l_2p0:id="108" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73987" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 3 Summative</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="119594" identifierref="RES_CONTENT_119594" d2l_2p0:id="109" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68339" description="&lt;p&gt;&lt;img src=&quot;Blue%20Illustration%20Marketing%20Work%20Plan%20Presentation.gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 4: Working in International Markets</title>
+                <item identifier="119614" identifierref="RES_CONTENT_119614" d2l_2p0:id="110" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68359" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(97).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title> Logistics</title>
+                    <item identifier="119680" identifierref="RES_CONTENT_119680" d2l_2p0:id="111" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62590" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119706" identifierref="RES_CONTENT_119706" d2l_2p0:id="112" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62735" description="" completion_type="2">
+                        <title>Warm Up Activity : Watch the Video!</title>
+                    </item>
+                    <item identifier="119681" identifierref="RES_CONTENT_119681" d2l_2p0:id="113" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62591" description="" completion_type="2">
+                        <title>Logistics</title>
+                    </item>
+                    <item identifier="119707" identifierref="RES_CONTENT_119707" d2l_2p0:id="114" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68391" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119708" identifierref="RES_CONTENT_119708" d2l_2p0:id="115" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68392" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119615" identifierref="RES_CONTENT_119615" d2l_2p0:id="116" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68360" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(98).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Methods of Physical Distribution in the Supply Chain.</title>
+                    <item identifier="119682" identifierref="RES_CONTENT_119682" d2l_2p0:id="117" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62592" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119709" identifierref="RES_CONTENT_119709" d2l_2p0:id="118" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62739" description="" completion_type="2">
+                        <title>Warm Up Activity : The Enbridge Story</title>
+                    </item>
+                    <item identifier="119683" identifierref="RES_CONTENT_119683" d2l_2p0:id="119" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62593" description="" completion_type="2">
+                        <title>Methods of Physical Distribution in the Supply Chain</title>
+                    </item>
+                    <item identifier="119710" identifierref="RES_CONTENT_119710" d2l_2p0:id="120" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68393" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice</title>
+                    </item>
+                    <item identifier="119711" identifierref="RES_CONTENT_119711" d2l_2p0:id="121" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68394" description="&lt;p style=&quot;text-align: justify;&quot;&gt;Please initiate a new discussion thread, by looking for the option or button labeled &amp;quot;Start a New Thread&amp;quot; and click on it. Introduce yourself briefly, and then write a concise paragraph discussing what you have learned from this lesson. Clearly state what you gain or learn from the lesson, highlighting any specific areas of interest or questions you may have. Reflect on the key concepts, principles, or skills you have acquired and how they have influenced your understanding or perspective. Be specific and provide examples or experiences that demonstrate your learning.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic">
+                        <title>Homework : Methods of Physical Distribution in the Supply Chain</title>
+                    </item>
+                </item>
+                <item identifier="119616" identifierref="RES_CONTENT_119616" d2l_2p0:id="122" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68361" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(99).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Challenges in the Supply Chain </title>
+                    <item identifier="119684" identifierref="RES_CONTENT_119684" d2l_2p0:id="123" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62594" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119712" identifierref="RES_CONTENT_119712" d2l_2p0:id="124" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62743" description="" completion_type="2">
+                        <title>Warm Up Activity : Starbucks</title>
+                    </item>
+                    <item identifier="119685" identifierref="RES_CONTENT_119685" d2l_2p0:id="125" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62595" description="" completion_type="2">
+                        <title>Challenges in the Supply Chain</title>
+                    </item>
+                    <item identifier="119713" identifierref="RES_CONTENT_119713" d2l_2p0:id="126" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68395" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="119714" identifierref="RES_CONTENT_119714" d2l_2p0:id="127" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68396" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119617" identifierref="RES_CONTENT_119617" d2l_2p0:id="128" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68362" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20(100).jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title> Supply Chain Assistance.</title>
+                    <item identifier="119686" identifierref="RES_CONTENT_119686" d2l_2p0:id="129" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62596" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119716" identifierref="RES_CONTENT_119716" d2l_2p0:id="130" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68397" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Warm Up Activity : Logistics Partners</title>
+                    </item>
+                    <item identifier="119687" identifierref="RES_CONTENT_119687" d2l_2p0:id="131" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62597" description="" completion_type="2">
+                        <title>Supply Chain Assistance</title>
+                    </item>
+                    <item identifier="119715" identifierref="RES_CONTENT_119715" d2l_2p0:id="132" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62747" description="" completion_type="2">
+                        <title>International Partnerships</title>
+                    </item>
+                    <item identifier="119717" identifierref="RES_CONTENT_119717" d2l_2p0:id="133" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62750" description="" completion_type="2">
+                        <title>Let's Practice : Organizations for Supply Chain </title>
+                    </item>
+                    <item identifier="119718" identifierref="RES_CONTENT_119718" d2l_2p0:id="134" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68398" description="&lt;p style=&quot;text-align: justify;&quot;&gt;Please initiate a new discussion thread, by looking for the option or button labeled &amp;quot;Start a New Thread&amp;quot; and click on it. Introduce yourself briefly, and then write a concise paragraph discussing what you have learned from this lesson. Clearly state what you gain or learn from the lesson, highlighting any specific areas of interest or questions you may have. Reflect on the key concepts, principles, or skills you have acquired and how they have influenced your understanding or perspective. Be specific and provide examples or experiences that demonstrate your learning.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic">
+                        <title>Homework</title>
+                    </item>
+                </item>
+                <item identifier="119618" identifierref="RES_CONTENT_119618" d2l_2p0:id="135" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68363" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7599-BBB4MOSA/proud%20to%20be%20canadian%20-%202024-06-28T151212.106.jpg&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;br&gt;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Working in International Markets</title>
+                    <item identifier="119688" identifierref="RES_CONTENT_119688" d2l_2p0:id="136" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62598" description="" completion_type="2">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="119689" identifierref="RES_CONTENT_119689" d2l_2p0:id="137" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62599" description="" completion_type="2">
+                        <title>Working in International Markets</title>
+                    </item>
+                    <item identifier="119719" identifierref="RES_CONTENT_119719" d2l_2p0:id="138" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62756" description="" completion_type="2">
+                        <title>Warm Up Activity : Banking with Bitcoin</title>
+                    </item>
+                    <item identifier="119720" identifierref="RES_CONTENT_119720" d2l_2p0:id="139" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68399" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Let's Practice : Travellers</title>
+                    </item>
+                    <item identifier="119721" identifierref="RES_CONTENT_119721" d2l_2p0:id="140" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68400" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz">
+                        <title>Homework : OPEC</title>
+                    </item>
+                </item>
+                <item identifier="121214" identifierref="RES_CONTENT_121214" d2l_2p0:id="141" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73979" description="&lt;p&gt;&lt;img src=&quot;Advantages%20and%20Disadvantages%20of%20International%20Trade%20(9).jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 4 Mini-assessment</title>
+                    <item identifier="121216" identifierref="RES_CONTENT_121216" d2l_2p0:id="142" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73988" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 4 Mini-assessment</title>
+                    </item>
+                </item>
+                <item identifier="121215" identifierref="RES_CONTENT_121215" d2l_2p0:id="143" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73980" description="&lt;p&gt;&lt;img src=&quot;Advantages%20and%20Disadvantages%20of%20International%20Trade%20(10).jpg&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 4 Summative</title>
+                    <item identifier="121217" identifierref="RES_CONTENT_121217" d2l_2p0:id="144" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73989" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                        <title>Unit 4 Summative</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="119595" identifierref="RES_CONTENT_119595" d2l_2p0:id="145" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68340" description="&lt;p&gt;&lt;img src=&quot;giphy%20(4).gif?_&amp;amp;d2lSessionVal=eWXwFY2DLwMgKD7lctFEXCF7z&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;display: block;margin-left: auto;margin-right: auto;&quot;/&gt; &amp;#160;&lt;img src=&quot;/content/enforced/7234-DemoMHF4U/EVA%20SCHOOL1.png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;91&quot; height=&quot;91&quot; style=&quot;display: block;margin-left: auto;margin-right: auto;&quot;/&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Rich Summative Task</title>
+                <item identifier="121218" identifierref="RES_CONTENT_121218" d2l_2p0:id="146" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73981" description="&lt;p&gt;Complete the Rich Summative Task.&lt;/p&gt;" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox">
+                    <title>Rich Summative Task</title>
+                </item>
+            </item>
+            <item identifier="123576" identifierref="RES_CONTENT_123576" d2l_2p0:id="147" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73975" description="&lt;p&gt;&lt;img src=&quot;Textbook.gif&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Textbook</title>
+                <item identifier="123577" identifierref="RES_CONTENT_123577" d2l_2p0:id="148" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70896" description="" completion_type="2">
+                    <title>Chapter+1+Text_compressed.pdf</title>
+                </item>
+                <item identifier="123578" identifierref="RES_CONTENT_123578" d2l_2p0:id="149" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70897" description="" completion_type="2">
+                    <title>Chapter+2+Text_compressed+(1).pdf</title>
+                </item>
+                <item identifier="123579" identifierref="RES_CONTENT_123579" d2l_2p0:id="150" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70898" description="" completion_type="2">
+                    <title>Chapter+3+Text (1).pdf</title>
+                </item>
+                <item identifier="123580" identifierref="RES_CONTENT_123580" d2l_2p0:id="151" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-70899" description="" completion_type="2">
+                    <title>Chapter+4+Text_compressed.pdf</title>
+                </item>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="de183f07-f731-4272-832e-b4fbc9630606" type="webcontent" d2l_2p0:material_type="orgunitconfig" d2l_2p0:link_target="" href="orgunitconfig\orgunitconfig.xml" title="" />
+        <resource identifier="RES_CONTENT_119590" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119596" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119591" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119619" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Unit Introduction  Business, Trade and the Economy.html" title="" />
+        <resource identifier="RES_CONTENT_119597" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119620" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="An Introduction to Business and Trade History of Canada.html" title="" />
+        <resource identifier="RES_CONTENT_119644" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62608" title="" />
+        <resource identifier="RES_CONTENT_119621" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="An Introduction to Business and Trade History of Canada - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119624" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="https://www.youtube.com/embed/LaMCK-Sec7Y?si=wN3TQQzMVk5Z1rR7" title="" />
+        <resource identifier="RES_CONTENT_119625" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/IYO3tOqDISE?si=iCOdbT4uCWcyPaoE" title="" />
+        <resource identifier="RES_CONTENT_119645" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62609" title="" />
+        <resource identifier="RES_CONTENT_119646" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62611" title="" />
+        <resource identifier="RES_CONTENT_119598" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119622" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Advantages and Disadvantages of International Trade.html" title="" />
+        <resource identifier="RES_CONTENT_119647" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62612" title="" />
+        <resource identifier="RES_CONTENT_119623" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Advantages and Disadvantages of International Trade - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119626" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/C3oiy9eekzk?si=BGdzOvwqF4EBZpKq" title="" />
+        <resource identifier="RES_CONTENT_119648" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice!.html" title="" />
+        <resource identifier="RES_CONTENT_119599" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119627" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Globalization.html" title="" />
+        <resource identifier="RES_CONTENT_119649" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62616" title="" />
+        <resource identifier="RES_CONTENT_119628" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Globalization - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119629" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/JJ0nFD19eT8?si=K9uoNBNyIgYqj01V" title="" />
+        <resource identifier="RES_CONTENT_119650" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Pratice.html" title="" />
+        <resource identifier="RES_CONTENT_119651" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Homework.html" title="" />
+        <resource identifier="RES_CONTENT_119600" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119630" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Elements of International Trade.html" title="" />
+        <resource identifier="RES_CONTENT_119652" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62658" title="" />
+        <resource identifier="RES_CONTENT_119631" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Elements of International Trade - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119632" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/pmLfxPvDg9Y?si=C0aozEe-LZUDlpRe" title="" />
+        <resource identifier="RES_CONTENT_119653" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice! - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119654" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62667" title="" />
+        <resource identifier="RES_CONTENT_121205" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121206" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69315" title="" />
+        <resource identifier="RES_CONTENT_119601" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121207" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69316" title="" />
+        <resource identifier="RES_CONTENT_119592" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119602" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119633" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Canada on the World Stage.html" title="" />
+        <resource identifier="RES_CONTENT_119655" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62697" title="" />
+        <resource identifier="RES_CONTENT_119634" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Canada on the World Stage - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119635" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/jQlXzyNA--I?si=yS06IVvDPuwGZr0M" title="" />
+        <resource identifier="RES_CONTENT_119656" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/pHdLc5ST4s4?si=aIdsyTZn8zR-seQM" title="" />
+        <resource identifier="RES_CONTENT_119657" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62699" title="" />
+        <resource identifier="RES_CONTENT_119658" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62700" title="" />
+        <resource identifier="RES_CONTENT_119603" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119636" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="What is culture.html" title="" />
+        <resource identifier="RES_CONTENT_119659" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/GOHvMz7dl2A?si=jBCi-FeiNEoEwnA4" title="" />
+        <resource identifier="RES_CONTENT_119637" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="What is culture - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119660" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62704" title="" />
+        <resource identifier="RES_CONTENT_119661" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62705" title="" />
+        <resource identifier="RES_CONTENT_119604" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119638" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Cultural Awareness and the International Business.html" title="" />
+        <resource identifier="RES_CONTENT_119663" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/7T-Wf3Wdbms?si=ycXiRnhspCusBl6b" title="" />
+        <resource identifier="RES_CONTENT_119639" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Cultural Awareness and the International Business - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119662" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice! - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_119664" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62709" title="" />
+        <resource identifier="RES_CONTENT_119605" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119640" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic and Political Systems.html" title="" />
+        <resource identifier="RES_CONTENT_119665" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62710" title="" />
+        <resource identifier="RES_CONTENT_119641" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic and Political Systems - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119666" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62711" title="" />
+        <resource identifier="RES_CONTENT_119667" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62712" title="" />
+        <resource identifier="RES_CONTENT_119606" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119642" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Business Cycle.html" title="" />
+        <resource identifier="RES_CONTENT_119669" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/rNU3ezk_OmM?si=DNC5Apx_XqmmDEug" title="" />
+        <resource identifier="RES_CONTENT_119643" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Business Cycle - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119668" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62713" title="" />
+        <resource identifier="RES_CONTENT_119690" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62714" title="" />
+        <resource identifier="RES_CONTENT_121208" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121209" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69317" title="" />
+        <resource identifier="RES_CONTENT_119607" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121210" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69318" title="" />
+        <resource identifier="RES_CONTENT_119593" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119608" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119670" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="International Trade Agreements and Organizations.html" title="" />
+        <resource identifier="RES_CONTENT_119691" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/8-voHl16vFE?si=gWbf5QYEOjz4v1Ig" title="" />
+        <resource identifier="RES_CONTENT_119671" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="International Trade Agreements and Organizations - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119692" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice Globalization.html" title="" />
+        <resource identifier="RES_CONTENT_119693" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62720" title="" />
+        <resource identifier="RES_CONTENT_119609" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119672" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Social Responsibility and NGO’s.html" title="" />
+        <resource identifier="RES_CONTENT_119694" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62721" title="" />
+        <resource identifier="RES_CONTENT_119673" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Social Responsibility and NGO’s - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119695" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62722" title="" />
+        <resource identifier="RES_CONTENT_119696" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62723" title="" />
+        <resource identifier="RES_CONTENT_119610" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119674" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="International marketing and  the Four P’s.html" title="" />
+        <resource identifier="RES_CONTENT_119697" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/Mco8vBAwOmA?si=krwn1a3H6WEzBXbw" title="" />
+        <resource identifier="RES_CONTENT_119675" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="International marketing and  the Four P’s - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119698" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62725" title="" />
+        <resource identifier="RES_CONTENT_119699" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62726" title="" />
+        <resource identifier="RES_CONTENT_119611" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119676" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Two C’s of Marketing.html" title="" />
+        <resource identifier="RES_CONTENT_119700" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/VFRLgQU6T_U?si=r2CQVZ4nVet4q3t1" title="" />
+        <resource identifier="RES_CONTENT_119677" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Two C’s of Marketing - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119701" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62728" title="" />
+        <resource identifier="RES_CONTENT_119702" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62729" title="" />
+        <resource identifier="RES_CONTENT_119612" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119678" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Market Research and Marketing Strategies.html" title="" />
+        <resource identifier="RES_CONTENT_119703" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/CqaFYgRGDmo?si=5MOXm6bZuomdxptn" title="" />
+        <resource identifier="RES_CONTENT_119679" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Market Research and Marketing Strategies - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119704" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice! - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_119705" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62734" title="" />
+        <resource identifier="RES_CONTENT_121211" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121212" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69319" title="" />
+        <resource identifier="RES_CONTENT_119613" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121213" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69321" title="" />
+        <resource identifier="RES_CONTENT_119594" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119614" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119680" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Logistics.html" title="" />
+        <resource identifier="RES_CONTENT_119706" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/MMyZ9Pu01RI?si=ohcXwxWbNg9uhNGQ" title="" />
+        <resource identifier="RES_CONTENT_119681" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Logistics - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119707" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62736" title="" />
+        <resource identifier="RES_CONTENT_119708" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62737" title="" />
+        <resource identifier="RES_CONTENT_119615" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119682" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Methods of Physical Distribution in the Supply Chain.html" title="" />
+        <resource identifier="RES_CONTENT_119709" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/AEubX7Y5n7o?si=W4tdUtoeJ3BFl5f3" title="" />
+        <resource identifier="RES_CONTENT_119683" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Methods of Physical Distribution in the Supply Chain - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119710" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62740" title="" />
+        <resource identifier="RES_CONTENT_119711" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62741" title="" />
+        <resource identifier="RES_CONTENT_119616" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119684" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Challenges in the Supply Chain.html" title="" />
+        <resource identifier="RES_CONTENT_119712" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/LajlJhF_FOw?si=miHiH8K7RhWdiexz" title="" />
+        <resource identifier="RES_CONTENT_119685" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Challenges in the Supply Chain - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119713" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62744" title="" />
+        <resource identifier="RES_CONTENT_119714" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62746" title="" />
+        <resource identifier="RES_CONTENT_119617" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119686" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Supply Chain Assistance.html" title="" />
+        <resource identifier="RES_CONTENT_119716" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62748" title="" />
+        <resource identifier="RES_CONTENT_119687" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Supply Chain Assistance - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119715" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/AUdT2bpj6BY?si=fUOAHEXdfqm9vslq" title="" />
+        <resource identifier="RES_CONTENT_119717" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Let's Practice  Organizations for Supply Chain .html" title="" />
+        <resource identifier="RES_CONTENT_119718" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62753" title="" />
+        <resource identifier="RES_CONTENT_119618" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_119688" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Working in International Markets.html" title="" />
+        <resource identifier="RES_CONTENT_119689" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Working in International Markets - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_119719" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="https://www.youtube.com/embed/tmxqlSevtkQ?si=ioxnBpz_YmEGzvna" title="" />
+        <resource identifier="RES_CONTENT_119720" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62758" title="" />
+        <resource identifier="RES_CONTENT_119721" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62759" title="" />
+        <resource identifier="RES_CONTENT_121214" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121216" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69322" title="" />
+        <resource identifier="RES_CONTENT_121215" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121217" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69323" title="" />
+        <resource identifier="RES_CONTENT_119595" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_121218" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-69324" title="" />
+        <resource identifier="RES_CONTENT_123576" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_123577" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Textbook\Chapter+1+Text_compressed.pdf" title="" />
+        <resource identifier="RES_CONTENT_123578" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Textbook\Chapter+2+Text_compressed+(1).pdf" title="" />
+        <resource identifier="RES_CONTENT_123579" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Textbook\Chapter+3+Text (1).pdf" title="" />
+        <resource identifier="RES_CONTENT_123580" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Textbook\Chapter+4+Text_compressed.pdf" title="" />
+        <resource identifier="res_syllabus" type="webcontent" d2l_2p0:material_type="d2lsyllabus" d2l_2p0:link_target="" href="syllabus_d2l.xml" title="" />
+        <resource identifier="res_quiz_3548" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3548.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3549" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3549.xml" title="Homework: The Pencil" />
+        <resource identifier="res_quiz_3550" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3550.xml" title="Warm Up Activity!" />
+        <resource identifier="res_quiz_3551" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3551.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3552" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3552.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3553" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3553.xml" title="Homework: Why Invest in Canada?" />
+        <resource identifier="res_quiz_3554" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3554.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3555" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3555.xml" title="Homework: The Importance of Culture" />
+        <resource identifier="res_quiz_3556" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3556.xml" title="Warm Up Activity : Do You Think?" />
+        <resource identifier="res_quiz_3557" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3557.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3558" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3558.xml" title="Homework" />
+        <resource identifier="res_quiz_3559" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3559.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3560" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3560.xml" title="Homework" />
+        <resource identifier="res_quiz_3561" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3561.xml" title="Untitled" />
+        <resource identifier="res_quiz_3562" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3562.xml" title="Homework" />
+        <resource identifier="res_quiz_3563" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3563.xml" title="Warm Up Activity : Corporate Social Responsibility" />
+        <resource identifier="res_quiz_3564" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3564.xml" title="Let's Practice : Stakeholder Analysis" />
+        <resource identifier="res_quiz_3565" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3565.xml" title="Homework : Business Ethics" />
+        <resource identifier="res_quiz_3566" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3566.xml" title="Let's Practice : 4Ps of Marketing" />
+        <resource identifier="res_quiz_3567" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3567.xml" title="Homework" />
+        <resource identifier="res_quiz_3568" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3568.xml" title="Let's Practice : What do you know?" />
+        <resource identifier="res_quiz_3569" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3569.xml" title="Homework" />
+        <resource identifier="res_quiz_3570" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3570.xml" title="Homework" />
+        <resource identifier="res_quiz_3571" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3571.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3572" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3572.xml" title="Homework" />
+        <resource identifier="res_quiz_3573" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3573.xml" title="Let's Practice" />
+        <resource identifier="res_quiz_3574" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3574.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3575" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3575.xml" title="Homework" />
+        <resource identifier="res_quiz_3576" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3576.xml" title="Warm Up Activity : Logistics Partners" />
+        <resource identifier="res_quiz_3577" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3577.xml" title="Let's Practice : Travellers" />
+        <resource identifier="res_quiz_3578" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3578.xml" title="Homework : OPEC" />
+        <resource identifier="res_discuss_1" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_1.xml" title="" />
+        <resource identifier="res_discuss_2" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_2.xml" title="" />
+        <resource identifier="res_discuss_3" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_3.xml" title="" />
+        <resource identifier="res_discuss_4" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_4.xml" title="" />
+        <resource identifier="res_discuss_5" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_5.xml" title="" />
+        <resource identifier="res_discuss_6" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_6.xml" title="" />
+        <resource identifier="res_discuss_7" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_7.xml" title="" />
+        <resource identifier="res_discuss_8" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_8.xml" title="" />
+        <resource identifier="res_dropbox" type="webcontent" d2l_2p0:material_type="d2ldropbox" d2l_2p0:link_target="" href="dropbox_d2l.xml" title="" />
+        <resource identifier="res_grades" type="webcontent" d2l_2p0:material_type="d2lgrades" d2l_2p0:link_target="" href="grades_d2l.xml" title="" />
+        <resource identifier="res_courseimage" type="webcontent" d2l_2p0:material_type="d2lcourseimage" d2l_2p0:link_target="" href="courseimage_d2l.xml" title="" />
+    </resources>
+</manifest>
