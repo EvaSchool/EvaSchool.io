@@ -1,0 +1,945 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="D2L_7247" xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0" xmlns:scorm_1p2="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1">
+    <metadata>
+        <imsmd:lom>
+            <imsmd:general>
+                <imsmd:title>
+                    <imsmd:langstring xml:lang="en-ca">Emerald Valley Academy Analysis Current Economic Issues Grade 12</imsmd:langstring>
+                </imsmd:title>
+                <imsmd:keyword>
+                    <imsmd:langstring xml:lang="en-ca">CIA4U EVA</imsmd:langstring>
+                </imsmd:keyword>
+                <imsmd:language>en-ca</imsmd:language>
+            </imsmd:general>
+        </imsmd:lom>
+    </metadata>
+    <organizations default="d2l_orgs">
+        <organization identifier="d2l_org">
+            <item identifier="126370" identifierref="RES_CONTENT_126370" d2l_2p0:id="1" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68114" description="&lt;p&gt;&lt;img src=&quot;Course%20Introduction%20(1).gif&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Course Introduction</title>
+                <item identifier="126390" identifierref="RES_CONTENT_126390" d2l_2p0:id="2" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-57864" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Welcome to CIA4U!</title>
+                </item>
+            </item>
+            <item identifier="126364" identifierref="RES_CONTENT_126364" d2l_2p0:id="3" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68108" description="&lt;p&gt;&lt;img src=&quot;98c295e1-b3db-4f53-b585-f069448b649c.gif&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Teacher's Resources</title>
+                <item identifier="126371" identifierref="RES_CONTENT_126371" d2l_2p0:id="4" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68115" description="&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1IM11NpqosLfujQ4IbfKg0E0fJZM5ZSs9VInUVO00wqc/edit&quot;&gt;_(2022) CIA4U Course Map - Google Docs&lt;/a&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Course Map</title>
+                </item>
+            </item>
+            <item identifier="126365" identifierref="RES_CONTENT_126365" d2l_2p0:id="5" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68109" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7150-CIA4U/Today%E2%80%99s%20Special%20(1).gif&quot; alt=&quot;gif&quot; title=&quot;gif&quot; width=&quot;700&quot; height=&quot;700&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&quot;EVA%20SCHOOL%20(1)%20(1).png&quot; alt=&quot;&quot; title=&quot;&quot; width=&quot;84&quot; height=&quot;84&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 1: Introduction Fundamentals of Economics</title>
+                <item identifier="126391" identifierref="RES_CONTENT_126391" d2l_2p0:id="6" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-57865" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 1 Introduction</title>
+                </item>
+                <item identifier="126372" identifierref="RES_CONTENT_126372" d2l_2p0:id="7" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68116" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(11).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Asking Economic Questions</title>
+                    <item identifier="126398" identifierref="RES_CONTENT_126398" d2l_2p0:id="8" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-57866" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126400" identifierref="RES_CONTENT_126400" d2l_2p0:id="9" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68135" description="" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126399" identifierref="RES_CONTENT_126399" d2l_2p0:id="10" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-57867" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Interview with Michael Hlinka</title>
+                    </item>
+                    <item identifier="126401" identifierref="RES_CONTENT_126401" d2l_2p0:id="11" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61368" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Inquiry Process</title>
+                    </item>
+                    <item identifier="126402" identifierref="RES_CONTENT_126402" d2l_2p0:id="12" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61370" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Concepts of Economic Thinking</title>
+                    </item>
+                    <item identifier="126403" identifierref="RES_CONTENT_126403" d2l_2p0:id="13" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61377" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Citing Your Sources</title>
+                    </item>
+                    <item identifier="126404" identifierref="RES_CONTENT_126404" d2l_2p0:id="14" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68136" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126405" identifierref="RES_CONTENT_126405" d2l_2p0:id="15" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68137" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Homework 1.1</title>
+                    </item>
+                    <item identifier="126406" identifierref="RES_CONTENT_126406" d2l_2p0:id="16" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61486" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                </item>
+                <item identifier="126373" identifierref="RES_CONTENT_126373" d2l_2p0:id="17" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68117" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(12).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Scarcity and Choice</title>
+                    <item identifier="126407" identifierref="RES_CONTENT_126407" d2l_2p0:id="18" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61488" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126408" identifierref="RES_CONTENT_126408" d2l_2p0:id="19" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68138" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126409" identifierref="RES_CONTENT_126409" d2l_2p0:id="20" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61490" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Opportunity Cost</title>
+                    </item>
+                    <item identifier="126410" identifierref="RES_CONTENT_126410" d2l_2p0:id="21" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61491" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Economic Thought</title>
+                    </item>
+                    <item identifier="126411" identifierref="RES_CONTENT_126411" d2l_2p0:id="22" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61495" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Economic Systems</title>
+                    </item>
+                    <item identifier="126412" identifierref="RES_CONTENT_126412" d2l_2p0:id="23" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68139" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126414" identifierref="RES_CONTENT_126414" d2l_2p0:id="24" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61515" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap! </title>
+                    </item>
+                    <item identifier="126413" identifierref="RES_CONTENT_126413" d2l_2p0:id="25" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68140" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Lesson 1.2 Mini Assessment Scarcity and Choice</title>
+                    </item>
+                </item>
+                <item identifier="126374" identifierref="RES_CONTENT_126374" d2l_2p0:id="26" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68118" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(13).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Thinking and Decision-Making</title>
+                    <item identifier="126415" identifierref="RES_CONTENT_126415" d2l_2p0:id="27" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61519" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126416" identifierref="RES_CONTENT_126416" d2l_2p0:id="28" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68141" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126417" identifierref="RES_CONTENT_126417" d2l_2p0:id="29" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61527" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Political Spectrum </title>
+                    </item>
+                    <item identifier="126418" identifierref="RES_CONTENT_126418" d2l_2p0:id="30" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61532" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Carbon Tax Debate</title>
+                    </item>
+                    <item identifier="126419" identifierref="RES_CONTENT_126419" d2l_2p0:id="31" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68142" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126421" identifierref="RES_CONTENT_126421" d2l_2p0:id="32" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61545" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap! </title>
+                    </item>
+                    <item identifier="126420" identifierref="RES_CONTENT_126420" d2l_2p0:id="33" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68143" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Homework 1.3</title>
+                    </item>
+                </item>
+                <item identifier="126375" identifierref="RES_CONTENT_126375" d2l_2p0:id="34" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68119" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(5).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Supply and Demand</title>
+                    <item identifier="126422" identifierref="RES_CONTENT_126422" d2l_2p0:id="35" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61551" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126423" identifierref="RES_CONTENT_126423" d2l_2p0:id="36" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68144" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126424" identifierref="RES_CONTENT_126424" d2l_2p0:id="37" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61553" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Graphing Supply and Demand</title>
+                    </item>
+                    <item identifier="126425" identifierref="RES_CONTENT_126425" d2l_2p0:id="38" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61554" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Supply and Demand Vocabulary </title>
+                    </item>
+                    <item identifier="126426" identifierref="RES_CONTENT_126426" d2l_2p0:id="39" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61557" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Factors that Influence Demand</title>
+                    </item>
+                    <item identifier="126427" identifierref="RES_CONTENT_126427" d2l_2p0:id="40" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61558" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Factors that Influence Supply</title>
+                    </item>
+                    <item identifier="126428" identifierref="RES_CONTENT_126428" d2l_2p0:id="41" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61560" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Supply and Demand Curve</title>
+                    </item>
+                    <item identifier="126429" identifierref="RES_CONTENT_126429" d2l_2p0:id="42" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61561" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Impact of Tax on Supply and Demand</title>
+                    </item>
+                    <item identifier="126430" identifierref="RES_CONTENT_126430" d2l_2p0:id="43" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61564" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Elasticity</title>
+                    </item>
+                    <item identifier="126431" identifierref="RES_CONTENT_126431" d2l_2p0:id="44" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61565" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Government Intervention in the Economy</title>
+                    </item>
+                    <item identifier="126432" identifierref="RES_CONTENT_126432" d2l_2p0:id="45" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68145" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126434" identifierref="RES_CONTENT_126434" d2l_2p0:id="46" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61579" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap! </title>
+                    </item>
+                    <item identifier="126433" identifierref="RES_CONTENT_126433" d2l_2p0:id="47" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68146" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Lesson 1.4 Mini Assessment_Supply and Demand</title>
+                    </item>
+                </item>
+                <item identifier="126376" identifierref="RES_CONTENT_126376" d2l_2p0:id="48" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68120" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(4).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Growth and Sustainability </title>
+                    <item identifier="126435" identifierref="RES_CONTENT_126435" d2l_2p0:id="49" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61580" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126436" identifierref="RES_CONTENT_126436" d2l_2p0:id="50" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68147" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126437" identifierref="RES_CONTENT_126437" d2l_2p0:id="51" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61583" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Factors of Production</title>
+                    </item>
+                    <item identifier="126438" identifierref="RES_CONTENT_126438" d2l_2p0:id="52" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61602" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Externality</title>
+                    </item>
+                    <item identifier="126439" identifierref="RES_CONTENT_126439" d2l_2p0:id="53" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68148" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126441" identifierref="RES_CONTENT_126441" d2l_2p0:id="54" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61608" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                    <item identifier="126440" identifierref="RES_CONTENT_126440" d2l_2p0:id="55" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68149" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Homework 1.5</title>
+                    </item>
+                </item>
+                <item identifier="126377" identifierref="RES_CONTENT_126377" d2l_2p0:id="56" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68121" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(14).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 1 Summative Task</title>
+                    <item identifier="126442" identifierref="RES_CONTENT_126442" d2l_2p0:id="57" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61658" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126443" identifierref="RES_CONTENT_126443" d2l_2p0:id="58" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68150" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 1 Summative Assessment</title>
+                    </item>
+                    <item identifier="126444" identifierref="RES_CONTENT_126444" d2l_2p0:id="59" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61660" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 1 Summative Rubric</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="126366" identifierref="RES_CONTENT_126366" d2l_2p0:id="60" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68110" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7150-CIA4U/Today%E2%80%99s%20Special%20(2).gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; data-d2l-editor-default-img-style=&quot;true&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 2: Reading Strategies</title>
+                <item identifier="126392" identifierref="RES_CONTENT_126392" d2l_2p0:id="61" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61661" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 2 Introduction</title>
+                </item>
+                <item identifier="126378" identifierref="RES_CONTENT_126378" d2l_2p0:id="62" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68122" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(15).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>The Firm and Market Structures</title>
+                    <item identifier="126445" identifierref="RES_CONTENT_126445" d2l_2p0:id="63" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61662" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126446" identifierref="RES_CONTENT_126446" d2l_2p0:id="64" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61666" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126447" identifierref="RES_CONTENT_126447" d2l_2p0:id="65" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61667" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Types of Business Ownership</title>
+                    </item>
+                    <item identifier="126448" identifierref="RES_CONTENT_126448" d2l_2p0:id="66" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61668" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Underground Economy</title>
+                    </item>
+                    <item identifier="126449" identifierref="RES_CONTENT_126449" d2l_2p0:id="67" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61670" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Sharing Economy</title>
+                    </item>
+                    <item identifier="126450" identifierref="RES_CONTENT_126450" d2l_2p0:id="68" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61675" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Market Structures</title>
+                    </item>
+                    <item identifier="126451" identifierref="RES_CONTENT_126451" d2l_2p0:id="69" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61677" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Barriers to Entry</title>
+                    </item>
+                    <item identifier="126452" identifierref="RES_CONTENT_126452" d2l_2p0:id="70" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61679" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Privatization</title>
+                    </item>
+                    <item identifier="126453" identifierref="RES_CONTENT_126453" d2l_2p0:id="71" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61681" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Regulations</title>
+                    </item>
+                    <item identifier="126454" identifierref="RES_CONTENT_126454" d2l_2p0:id="72" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61683" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Labour Protection</title>
+                    </item>
+                    <item identifier="126455" identifierref="RES_CONTENT_126455" d2l_2p0:id="73" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61684" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Marketing Boards</title>
+                    </item>
+                    <item identifier="126456" identifierref="RES_CONTENT_126456" d2l_2p0:id="74" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61687" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Bitcoin Regulation</title>
+                    </item>
+                    <item identifier="126457" identifierref="RES_CONTENT_126457" d2l_2p0:id="75" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68151" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126458" identifierref="RES_CONTENT_126458" d2l_2p0:id="76" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68152" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Homework 2.1</title>
+                    </item>
+                    <item identifier="126459" identifierref="RES_CONTENT_126459" d2l_2p0:id="77" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61691" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                </item>
+                <item identifier="126379" identifierref="RES_CONTENT_126379" d2l_2p0:id="78" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68123" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(6).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Economic Trade-Offs and Decisions</title>
+                    <item identifier="126460" identifierref="RES_CONTENT_126460" d2l_2p0:id="79" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61695" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126461" identifierref="RES_CONTENT_126461" d2l_2p0:id="80" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61697" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Cost/Benefit Analysis</title>
+                    </item>
+                    <item identifier="126462" identifierref="RES_CONTENT_126462" d2l_2p0:id="81" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61700" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Trade Offs</title>
+                    </item>
+                    <item identifier="126463" identifierref="RES_CONTENT_126463" d2l_2p0:id="82" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61709" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Economic Thought</title>
+                    </item>
+                    <item identifier="126464" identifierref="RES_CONTENT_126464" d2l_2p0:id="83" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68153" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="126466" identifierref="RES_CONTENT_126466" d2l_2p0:id="84" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61714" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                    <item identifier="126465" identifierref="RES_CONTENT_126465" d2l_2p0:id="85" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68154" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Lesson 2.2 Mini Assessment Economic Trade-Offs and Decisions</title>
+                    </item>
+                </item>
+                <item identifier="126380" identifierref="RES_CONTENT_126380" d2l_2p0:id="86" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68124" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(7).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>The Role of Government in Redressing Imbalance</title>
+                    <item identifier="126467" identifierref="RES_CONTENT_126467" d2l_2p0:id="87" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61733" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126468" identifierref="RES_CONTENT_126468" d2l_2p0:id="88" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68155" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126469" identifierref="RES_CONTENT_126469" d2l_2p0:id="89" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61746" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Homelessness Notes </title>
+                    </item>
+                    <item identifier="126470" identifierref="RES_CONTENT_126470" d2l_2p0:id="90" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61750" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Issue: Unequal Distribution of Income </title>
+                    </item>
+                    <item identifier="126471" identifierref="RES_CONTENT_126471" d2l_2p0:id="91" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61753" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Why are the rich getting richer?</title>
+                    </item>
+                    <item identifier="126472" identifierref="RES_CONTENT_126472" d2l_2p0:id="92" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61759" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Income Inequality Cause and Effect</title>
+                    </item>
+                    <item identifier="126473" identifierref="RES_CONTENT_126473" d2l_2p0:id="93" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68156" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="150795" identifierref="RES_CONTENT_150795" d2l_2p0:id="94" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Lesson 2.3 Mini Assessment The Role of Government in Redressing Imbalance</title>
+                    </item>
+                    <item identifier="126474" identifierref="RES_CONTENT_126474" d2l_2p0:id="95" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61762" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                </item>
+                <item identifier="126381" identifierref="RES_CONTENT_126381" d2l_2p0:id="96" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68125" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(16).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 2 Summative Task</title>
+                    <item identifier="126475" identifierref="RES_CONTENT_126475" d2l_2p0:id="97" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61880" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126476" identifierref="RES_CONTENT_126476" d2l_2p0:id="98" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68157" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 2 Summative Assessment</title>
+                    </item>
+                    <item identifier="126477" identifierref="RES_CONTENT_126477" d2l_2p0:id="99" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61886" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 2 Summative Rubric</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="126367" identifierref="RES_CONTENT_126367" d2l_2p0:id="100" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68111" description="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;/content/enforced/7150-CIA4U/Today%E2%80%99s%20Special%20(3).gif&quot; alt=&quot;gif&quot; title=&quot;gif&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;img src=&quot;ezgif.com-resize%20(1).gif&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 3: Macroeconomics</title>
+                <item identifier="126393" identifierref="RES_CONTENT_126393" d2l_2p0:id="101" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62026" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Introduction to Unit 3 </title>
+                </item>
+                <item identifier="126382" identifierref="RES_CONTENT_126382" d2l_2p0:id="102" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68126" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(8).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title> Macroeconomic Measures and Models</title>
+                    <item identifier="126478" identifierref="RES_CONTENT_126478" d2l_2p0:id="103" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61887" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126479" identifierref="RES_CONTENT_126479" d2l_2p0:id="104" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61889" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126480" identifierref="RES_CONTENT_126480" d2l_2p0:id="105" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61890" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>What is Macroeconomics?</title>
+                    </item>
+                    <item identifier="126481" identifierref="RES_CONTENT_126481" d2l_2p0:id="106" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61891" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Expenditure Approach</title>
+                    </item>
+                    <item identifier="126482" identifierref="RES_CONTENT_126482" d2l_2p0:id="107" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61893" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Income Approach</title>
+                    </item>
+                    <item identifier="126483" identifierref="RES_CONTENT_126483" d2l_2p0:id="108" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61896" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>GDP/GNP - A Short Story</title>
+                    </item>
+                    <item identifier="126484" identifierref="RES_CONTENT_126484" d2l_2p0:id="109" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61897" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Double Journal Entry</title>
+                    </item>
+                    <item identifier="126485" identifierref="RES_CONTENT_126485" d2l_2p0:id="110" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61899" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Economic thought: Muhbab ul haq</title>
+                    </item>
+                    <item identifier="126486" identifierref="RES_CONTENT_126486" d2l_2p0:id="111" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61901" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Economic thought</title>
+                    </item>
+                    <item identifier="126487" identifierref="RES_CONTENT_126487" d2l_2p0:id="112" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61963" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Other economic indicators</title>
+                    </item>
+                    <item identifier="126488" identifierref="RES_CONTENT_126488" d2l_2p0:id="113" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61965" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Income Inequality Measures</title>
+                    </item>
+                    <item identifier="126489" identifierref="RES_CONTENT_126489" d2l_2p0:id="114" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68158" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="126491" identifierref="RES_CONTENT_126491" d2l_2p0:id="115" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61970" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                    <item identifier="126490" identifierref="RES_CONTENT_126490" d2l_2p0:id="116" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68159" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Lesson 3.1 Mini Assessment Macroeconomic Measures and  Models</title>
+                    </item>
+                </item>
+                <item identifier="126383" identifierref="RES_CONTENT_126383" d2l_2p0:id="117" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68127" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(9).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Fiscal Policy</title>
+                    <item identifier="126492" identifierref="RES_CONTENT_126492" d2l_2p0:id="118" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61971" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126497" identifierref="RES_CONTENT_126497" d2l_2p0:id="119" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68160" description="" completion_type="2" resource_type_key="D2L.LE.Discussions.DiscussionTopic" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126493" identifierref="RES_CONTENT_126493" d2l_2p0:id="120" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61979" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Economic thought: John Maynard Keynes</title>
+                    </item>
+                    <item identifier="126494" identifierref="RES_CONTENT_126494" d2l_2p0:id="121" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61982" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Budget</title>
+                    </item>
+                    <item identifier="126495" identifierref="RES_CONTENT_126495" d2l_2p0:id="122" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61983" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Fiscal Policy Responses</title>
+                    </item>
+                    <item identifier="126496" identifierref="RES_CONTENT_126496" d2l_2p0:id="123" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61985" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Debt vs. Deficit</title>
+                    </item>
+                    <item identifier="126498" identifierref="RES_CONTENT_126498" d2l_2p0:id="124" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61987" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Taxes</title>
+                    </item>
+                    <item identifier="126499" identifierref="RES_CONTENT_126499" d2l_2p0:id="125" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61991" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Assessing Deficits</title>
+                    </item>
+                    <item identifier="126500" identifierref="RES_CONTENT_126500" d2l_2p0:id="126" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68161" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126502" identifierref="RES_CONTENT_126502" d2l_2p0:id="127" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62000" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                    <item identifier="150801" identifierref="RES_CONTENT_150801" d2l_2p0:id="128" isvisible="False" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Homework 3.2</title>
+                    </item>
+                </item>
+                <item identifier="126384" identifierref="RES_CONTENT_126384" d2l_2p0:id="129" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68128" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(18).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Monetary Policy</title>
+                    <item identifier="126503" identifierref="RES_CONTENT_126503" d2l_2p0:id="130" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62001" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126504" identifierref="RES_CONTENT_126504" d2l_2p0:id="131" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68162" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126505" identifierref="RES_CONTENT_126505" d2l_2p0:id="132" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62005" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>What is Money?</title>
+                    </item>
+                    <item identifier="126506" identifierref="RES_CONTENT_126506" d2l_2p0:id="133" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62006" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Banks and Banking</title>
+                    </item>
+                    <item identifier="126507" identifierref="RES_CONTENT_126507" d2l_2p0:id="134" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62010" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Monetary Policy Notes</title>
+                    </item>
+                    <item identifier="126508" identifierref="RES_CONTENT_126508" d2l_2p0:id="135" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62013" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Cause and Effect</title>
+                    </item>
+                    <item identifier="126509" identifierref="RES_CONTENT_126509" d2l_2p0:id="136" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62014" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Exchange Rate</title>
+                    </item>
+                    <item identifier="126510" identifierref="RES_CONTENT_126510" d2l_2p0:id="137" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62015" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Bitcoin</title>
+                    </item>
+                    <item identifier="126511" identifierref="RES_CONTENT_126511" d2l_2p0:id="138" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68163" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice!</title>
+                    </item>
+                    <item identifier="126512" identifierref="RES_CONTENT_126512" d2l_2p0:id="139" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62019" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap! </title>
+                    </item>
+                </item>
+                <item identifier="126385" identifierref="RES_CONTENT_126385" d2l_2p0:id="140" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68129" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(17).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 3 Summative Task</title>
+                    <item identifier="126513" identifierref="RES_CONTENT_126513" d2l_2p0:id="141" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62021" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126514" identifierref="RES_CONTENT_126514" d2l_2p0:id="142" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68164" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 3 Summative Assessment</title>
+                    </item>
+                    <item identifier="126515" identifierref="RES_CONTENT_126515" d2l_2p0:id="143" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62023" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 3 Summative Rubric</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="126368" identifierref="RES_CONTENT_126368" d2l_2p0:id="144" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68112" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/7150-CIA4U/Today%E2%80%99s%20Special%20(4).gif&quot; alt=&quot;gif&quot; title=&quot;gif&quot; width=&quot;700&quot; height=&quot;700&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Unit 4: Global Interdependence and Inequalities</title>
+                <item identifier="126394" identifierref="RES_CONTENT_126394" d2l_2p0:id="145" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62062" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Introduction to Unit 4 </title>
+                </item>
+                <item identifier="126386" identifierref="RES_CONTENT_126386" d2l_2p0:id="146" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68130" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(10).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Theories and Models of Trade</title>
+                    <item identifier="126516" identifierref="RES_CONTENT_126516" d2l_2p0:id="147" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62064" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126517" identifierref="RES_CONTENT_126517" d2l_2p0:id="148" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68165" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126518" identifierref="RES_CONTENT_126518" d2l_2p0:id="149" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62069" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Import/Export</title>
+                    </item>
+                    <item identifier="126519" identifierref="RES_CONTENT_126519" d2l_2p0:id="150" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62070" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Why Trade?</title>
+                    </item>
+                    <item identifier="126520" identifierref="RES_CONTENT_126520" d2l_2p0:id="151" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62071" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Fair Trade</title>
+                    </item>
+                    <item identifier="126521" identifierref="RES_CONTENT_126521" d2l_2p0:id="152" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62072" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Exchange Rate</title>
+                    </item>
+                    <item identifier="126522" identifierref="RES_CONTENT_126522" d2l_2p0:id="153" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62074" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Impact of the Exchange </title>
+                    </item>
+                    <item identifier="126523" identifierref="RES_CONTENT_126523" d2l_2p0:id="154" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62077" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Trade Agreements</title>
+                    </item>
+                    <item identifier="126524" identifierref="RES_CONTENT_126524" d2l_2p0:id="155" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68166" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126525" identifierref="RES_CONTENT_126525" d2l_2p0:id="156" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68167" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Homework 4.1</title>
+                    </item>
+                    <item identifier="126526" identifierref="RES_CONTENT_126526" d2l_2p0:id="157" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62080" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                </item>
+                <item identifier="126387" identifierref="RES_CONTENT_126387" d2l_2p0:id="158" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68131" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(19).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>International Economic Developments</title>
+                    <item identifier="126527" identifierref="RES_CONTENT_126527" d2l_2p0:id="159" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62124" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126528" identifierref="RES_CONTENT_126528" d2l_2p0:id="160" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62127" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126529" identifierref="RES_CONTENT_126529" d2l_2p0:id="161" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62130" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Globalization</title>
+                    </item>
+                    <item identifier="126530" identifierref="RES_CONTENT_126530" d2l_2p0:id="162" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62136" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Impact of Globalization</title>
+                    </item>
+                    <item identifier="126531" identifierref="RES_CONTENT_126531" d2l_2p0:id="163" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68168" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126532" identifierref="RES_CONTENT_126532" d2l_2p0:id="164" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68169" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Lesson 4.2 Mini Assessment International Economic Developments</title>
+                    </item>
+                    <item identifier="126533" identifierref="RES_CONTENT_126533" d2l_2p0:id="165" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62144" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                </item>
+                <item identifier="126388" identifierref="RES_CONTENT_126388" d2l_2p0:id="166" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68132" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/Unit%20One%20(11).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>International Economic Power and Inequality</title>
+                    <item identifier="126534" identifierref="RES_CONTENT_126534" d2l_2p0:id="167" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62145" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126535" identifierref="RES_CONTENT_126535" d2l_2p0:id="168" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62146" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Warm Up Activity</title>
+                    </item>
+                    <item identifier="126536" identifierref="RES_CONTENT_126536" d2l_2p0:id="169" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62149" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>The Mystery of Economic Growth and Global Inequality</title>
+                    </item>
+                    <item identifier="126537" identifierref="RES_CONTENT_126537" d2l_2p0:id="170" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62151" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Economic thought: Muhammed Yumus</title>
+                    </item>
+                    <item identifier="126538" identifierref="RES_CONTENT_126538" d2l_2p0:id="171" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62153" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Millennium Development Goals</title>
+                    </item>
+                    <item identifier="126539" identifierref="RES_CONTENT_126539" d2l_2p0:id="172" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68170" description="" completion_type="2" resource_type_key="D2L.LE.Quizzing.Quiz" d2l_2p0:ai_human_origin="0">
+                        <title>Let's Practice! </title>
+                    </item>
+                    <item identifier="126540" identifierref="RES_CONTENT_126540" d2l_2p0:id="173" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68171" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Homework 4.3</title>
+                    </item>
+                    <item identifier="126541" identifierref="RES_CONTENT_126541" d2l_2p0:id="174" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62162" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>That's a Wrap!</title>
+                    </item>
+                </item>
+                <item identifier="126389" identifierref="RES_CONTENT_126389" d2l_2p0:id="175" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68133" description="&lt;p&gt;&lt;img src=&quot;/content/enforced/8751-CIA4UAtlantic/proud%20to%20be%20canadian%20(20).gif&quot; title=&quot;&quot; style=&quot;max-width: 100%; display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;700&quot; height=&quot;700&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Unit 4 Summative Task</title>
+                    <item identifier="126542" identifierref="RES_CONTENT_126542" d2l_2p0:id="176" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62164" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Introduction</title>
+                    </item>
+                    <item identifier="126543" identifierref="RES_CONTENT_126543" d2l_2p0:id="177" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68172" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 4 Summative Assessment</title>
+                    </item>
+                    <item identifier="126544" identifierref="RES_CONTENT_126544" d2l_2p0:id="178" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62166" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                        <title>Unit 4 Summative Rubric</title>
+                    </item>
+                </item>
+            </item>
+            <item identifier="126369" identifierref="RES_CONTENT_126369" d2l_2p0:id="179" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68113" description="&lt;p&gt;&lt;img src=&quot;giphy%20(4).gif?_&amp;amp;d2lSessionVal=d8Wi8obH8h5TGI7jpiZPD1jhT&quot; alt=&quot;&quot; title=&quot;&quot; style=&quot;max-width: 100%;display: block;margin-left: auto;margin-right: auto;&quot;/&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Rich Summative Task</title>
+                <item identifier="126395" identifierref="RES_CONTENT_126395" d2l_2p0:id="180" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62167" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Introduction</title>
+                </item>
+                <item identifier="126396" identifierref="RES_CONTENT_126396" d2l_2p0:id="181" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-68134" description="" completion_type="2" resource_type_key="D2L.LE.Dropbox.Dropbox" d2l_2p0:ai_human_origin="0">
+                    <title>Rich Summative Task Assessment</title>
+                </item>
+                <item identifier="126397" identifierref="RES_CONTENT_126397" d2l_2p0:id="182" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62169" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Rich Summative Task Rubric</title>
+                </item>
+            </item>
+            <item identifier="127442" identifierref="RES_CONTENT_127442" d2l_2p0:id="183" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73310" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Homework</title>
+                <item identifier="127443" identifierref="RES_CONTENT_127443" d2l_2p0:id="184" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72675" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 1.1  Asking Economic Questions Assignment</title>
+                </item>
+                <item identifier="127444" identifierref="RES_CONTENT_127444" d2l_2p0:id="185" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72676" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 1.2 Scarcity and Choice Assessment_</title>
+                </item>
+                <item identifier="127479" identifierref="RES_CONTENT_127479" d2l_2p0:id="186" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72678" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 1.3 Thinking and Decision Making Assessment_</title>
+                </item>
+                <item identifier="127486" identifierref="RES_CONTENT_127486" d2l_2p0:id="187" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72679" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 1.4 Supply and Demand Assessment_</title>
+                </item>
+                <item identifier="127487" identifierref="RES_CONTENT_127487" d2l_2p0:id="188" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72680" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 1.5 Growth and Sustainability Assessment_</title>
+                </item>
+                <item identifier="127490" identifierref="RES_CONTENT_127490" d2l_2p0:id="189" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72681" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 1.6 Comparing Economic Systems Assessment_</title>
+                </item>
+                <item identifier="127494" identifierref="RES_CONTENT_127494" d2l_2p0:id="190" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72685" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Self Assessment on Political Spectrum</title>
+                </item>
+                <item identifier="127491" identifierref="RES_CONTENT_127491" d2l_2p0:id="191" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72682" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Airbnb Property Owners Sucking Up Canada_s Housing</title>
+                </item>
+                <item identifier="127492" identifierref="RES_CONTENT_127492" d2l_2p0:id="192" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72683" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 2.1 The Firm and Market Structures Assessment_</title>
+                </item>
+                <item identifier="127493" identifierref="RES_CONTENT_127493" d2l_2p0:id="193" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72684" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>A note from Jeffrey Sachs (excerpt from The End of Poverty_ Economic Possibilities for Our Time, 2005 pp. 11-12)</title>
+                </item>
+                <item identifier="127495" identifierref="RES_CONTENT_127495" d2l_2p0:id="194" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72686" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Case Story_ Road-Safety experts fear ‘whole new world of driving in Ottawa’</title>
+                </item>
+                <item identifier="127496" identifierref="RES_CONTENT_127496" d2l_2p0:id="195" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72687" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 2.2 Economic Trade-Offs and Decisions_ Assessment_</title>
+                </item>
+                <item identifier="127497" identifierref="RES_CONTENT_127497" d2l_2p0:id="196" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72688" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Andew Coyne_ How a guaranteed minimum income could</title>
+                </item>
+                <item identifier="127498" identifierref="RES_CONTENT_127498" d2l_2p0:id="197" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72689" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>ANTICIPATION GUIDE</title>
+                </item>
+                <item identifier="127499" identifierref="RES_CONTENT_127499" d2l_2p0:id="198" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72690" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Fraser Institute</title>
+                </item>
+                <item identifier="127500" identifierref="RES_CONTENT_127500" d2l_2p0:id="199" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72691" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Growth of Inequality in Canada cannot be denied_</title>
+                </item>
+                <item identifier="127501" identifierref="RES_CONTENT_127501" d2l_2p0:id="200" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72692" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Infographic Precarious Low Wage Employment</title>
+                </item>
+                <item identifier="127502" identifierref="RES_CONTENT_127502" d2l_2p0:id="201" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72693" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 2.3 The Role of Government in Redressing Imbalance Assessment_</title>
+                </item>
+                <item identifier="127503" identifierref="RES_CONTENT_127503" d2l_2p0:id="202" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72694" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>OPVL Organizer</title>
+                </item>
+                <item identifier="127504" identifierref="RES_CONTENT_127504" d2l_2p0:id="203" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72695" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Policy Alternatives</title>
+                </item>
+                <item identifier="127505" identifierref="RES_CONTENT_127505" d2l_2p0:id="204" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72696" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Ten things to know about Canada’s guaranteed annual</title>
+                </item>
+                <item identifier="127506" identifierref="RES_CONTENT_127506" d2l_2p0:id="205" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72697" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>We can end homelessness in Canada</title>
+                </item>
+                <item identifier="127507" identifierref="RES_CONTENT_127507" d2l_2p0:id="206" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72698" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>What an employer can_t do when workers want to form a union</title>
+                </item>
+                <item identifier="127508" identifierref="RES_CONTENT_127508" d2l_2p0:id="207" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72699" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>What Will the Next Generation of Microcredit Products for women Look Like</title>
+                </item>
+                <item identifier="127509" identifierref="RES_CONTENT_127509" d2l_2p0:id="208" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72700" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>How do you measure happiness</title>
+                </item>
+                <item identifier="127510" identifierref="RES_CONTENT_127510" d2l_2p0:id="209" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72701" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 3.1 Macroeconomic Measures and Models Assessment_</title>
+                </item>
+                <item identifier="127511" identifierref="RES_CONTENT_127511" d2l_2p0:id="210" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72702" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Measuring Economies</title>
+                </item>
+                <item identifier="127512" identifierref="RES_CONTENT_127512" d2l_2p0:id="211" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72703" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Which are the happiest countries in the world</title>
+                </item>
+                <item identifier="127513" identifierref="RES_CONTENT_127513" d2l_2p0:id="212" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72704" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Woe is Calgary_ Unemployment rate remains the worst in Canada</title>
+                </item>
+                <item identifier="127516" identifierref="RES_CONTENT_127516" d2l_2p0:id="213" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72705" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>A guide to debts, deficits and surpluses</title>
+                </item>
+                <item identifier="127517" identifierref="RES_CONTENT_127517" d2l_2p0:id="214" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72706" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 3.2 Fiscal Policy Assessment_</title>
+                </item>
+                <item identifier="127520" identifierref="RES_CONTENT_127520" d2l_2p0:id="215" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72707" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Policy Points_ An alternative to property taxes</title>
+                </item>
+                <item identifier="127521" identifierref="RES_CONTENT_127521" d2l_2p0:id="216" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72708" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>CIA4U Unit 3 Summative Task_</title>
+                </item>
+                <item identifier="127524" identifierref="RES_CONTENT_127524" d2l_2p0:id="217" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72709" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>David Ricardo</title>
+                </item>
+                <item identifier="127525" identifierref="RES_CONTENT_127525" d2l_2p0:id="218" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72710" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 4.1 Theories and Models of Trade Assessment_</title>
+                </item>
+                <item identifier="127528" identifierref="RES_CONTENT_127528" d2l_2p0:id="219" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72711" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 4.2 International Economic Developments Assessment_</title>
+                </item>
+                <item identifier="127529" identifierref="RES_CONTENT_127529" d2l_2p0:id="220" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72712" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Deglobalization and the Rise of “Smart” Protectionism</title>
+                </item>
+                <item identifier="127534" identifierref="RES_CONTENT_127534" d2l_2p0:id="221" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72713" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Lesson 4.3 International Economic Power and Inequality Assessment_</title>
+                </item>
+                <item identifier="127535" identifierref="RES_CONTENT_127535" d2l_2p0:id="222" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-72714" description="" completion_type="2" d2l_2p0:ai_human_origin="0">
+                    <title>Millenium Development Goals</title>
+                </item>
+            </item>
+            <item identifier="127445" identifierref="RES_CONTENT_127445" d2l_2p0:id="223" isvisible="False" d2l_2p0:resource_code="AD663568-3CF7-4C4F-A4F2-53B75E1F5983-73311" description="&lt;p&gt;&lt;img src=&quot;Textbook.gif&quot; alt=&quot;&quot; title=&quot;&quot; data-d2l-editor-default-img-style=&quot;true&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt;" completion_type="2" d2l_2p0:ai_human_origin="0">
+                <title>Textbook</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="70bb092a-9107-426f-b69f-67eee4d74665" type="webcontent" d2l_2p0:material_type="orgunitconfig" d2l_2p0:link_target="" href="orgunitconfig\orgunitconfig.xml" title="" />
+        <resource identifier="RES_CONTENT_126370" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126390" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Welcome to CIA4U.html" title="" />
+        <resource identifier="RES_CONTENT_126364" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126371" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126365" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126391" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Unit 1 Introduction.html" title="" />
+        <resource identifier="RES_CONTENT_126372" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126398" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Asking Economic Questions.html" title="" />
+        <resource identifier="RES_CONTENT_126400" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-57868" title="" />
+        <resource identifier="RES_CONTENT_126399" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Interview with Michael Hlinka.html" title="" />
+        <resource identifier="RES_CONTENT_126401" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Inquiry Process.html" title="" />
+        <resource identifier="RES_CONTENT_126402" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Concepts of Economic Thinking.html" title="" />
+        <resource identifier="RES_CONTENT_126403" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Citing Your Sources.html" title="" />
+        <resource identifier="RES_CONTENT_126404" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61482" title="" />
+        <resource identifier="RES_CONTENT_126405" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61485" title="" />
+        <resource identifier="RES_CONTENT_126406" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap!.html" title="" />
+        <resource identifier="RES_CONTENT_126373" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126407" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction.html" title="" />
+        <resource identifier="RES_CONTENT_126408" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61489" title="" />
+        <resource identifier="RES_CONTENT_126409" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Opportunity Cost.html" title="" />
+        <resource identifier="RES_CONTENT_126410" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic Thought.html" title="" />
+        <resource identifier="RES_CONTENT_126411" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic Systems.html" title="" />
+        <resource identifier="RES_CONTENT_126412" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61509" title="" />
+        <resource identifier="RES_CONTENT_126414" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! .html" title="" />
+        <resource identifier="RES_CONTENT_126413" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61513" title="" />
+        <resource identifier="RES_CONTENT_126374" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126415" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_126416" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61520" title="" />
+        <resource identifier="RES_CONTENT_126417" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Political Spectrum .html" title="" />
+        <resource identifier="RES_CONTENT_126418" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Carbon Tax Debate.html" title="" />
+        <resource identifier="RES_CONTENT_126419" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61538" title="" />
+        <resource identifier="RES_CONTENT_126421" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap!  - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_126420" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61544" title="" />
+        <resource identifier="RES_CONTENT_126375" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126422" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_126423" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61552" title="" />
+        <resource identifier="RES_CONTENT_126424" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Graphing Supply and Demand.html" title="" />
+        <resource identifier="RES_CONTENT_126425" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Supply and Demand Vocabulary .html" title="" />
+        <resource identifier="RES_CONTENT_126426" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Factors that Influence Demand.html" title="" />
+        <resource identifier="RES_CONTENT_126427" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Factors that Influence Supply.html" title="" />
+        <resource identifier="RES_CONTENT_126428" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Supply and Demand Curve.html" title="" />
+        <resource identifier="RES_CONTENT_126429" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Impact of Tax on Supply and Demand.html" title="" />
+        <resource identifier="RES_CONTENT_126430" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Elasticity.html" title="" />
+        <resource identifier="RES_CONTENT_126431" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Government Intervention in the Economy.html" title="" />
+        <resource identifier="RES_CONTENT_126432" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61572" title="" />
+        <resource identifier="RES_CONTENT_126434" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap!  - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_126433" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61574" title="" />
+        <resource identifier="RES_CONTENT_126376" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126435" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_126436" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61581" title="" />
+        <resource identifier="RES_CONTENT_126437" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Factors of Production.html" title="" />
+        <resource identifier="RES_CONTENT_126438" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Externality.html" title="" />
+        <resource identifier="RES_CONTENT_126439" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61603" title="" />
+        <resource identifier="RES_CONTENT_126441" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_126440" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61604" title="" />
+        <resource identifier="RES_CONTENT_126377" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126442" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_126443" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61659" title="" />
+        <resource identifier="RES_CONTENT_126444" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Unit 1 Summative Rubric.html" title="" />
+        <resource identifier="RES_CONTENT_126366" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126392" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction to Unit 2 .html" title="" />
+        <resource identifier="RES_CONTENT_126378" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126445" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (4).html" title="" />
+        <resource identifier="RES_CONTENT_126446" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm Up Activity.html" title="" />
+        <resource identifier="RES_CONTENT_126447" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Types of Business Ownership.html" title="" />
+        <resource identifier="RES_CONTENT_126448" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Underground Economy.html" title="" />
+        <resource identifier="RES_CONTENT_126449" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Sharing Economy.html" title="" />
+        <resource identifier="RES_CONTENT_126450" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Market Structures.html" title="" />
+        <resource identifier="RES_CONTENT_126451" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Barriers to Entry.html" title="" />
+        <resource identifier="RES_CONTENT_126452" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Privatization.html" title="" />
+        <resource identifier="RES_CONTENT_126453" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Regulations.html" title="" />
+        <resource identifier="RES_CONTENT_126454" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Labour Protection.html" title="" />
+        <resource identifier="RES_CONTENT_126455" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Marketing Boards.html" title="" />
+        <resource identifier="RES_CONTENT_126456" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Bitcoin Regulation.html" title="" />
+        <resource identifier="RES_CONTENT_126457" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61688" title="" />
+        <resource identifier="RES_CONTENT_126458" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61689" title="" />
+        <resource identifier="RES_CONTENT_126459" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_126379" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126460" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (5).html" title="" />
+        <resource identifier="RES_CONTENT_126461" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="CostBenefit Analysis.html" title="" />
+        <resource identifier="RES_CONTENT_126462" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Trade Offs.html" title="" />
+        <resource identifier="RES_CONTENT_126463" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic Thought - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_126464" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61710" title="" />
+        <resource identifier="RES_CONTENT_126466" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_126465" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61712" title="" />
+        <resource identifier="RES_CONTENT_126380" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126467" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (6).html" title="" />
+        <resource identifier="RES_CONTENT_126468" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61735" title="" />
+        <resource identifier="RES_CONTENT_126469" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Homelessness Notes .html" title="" />
+        <resource identifier="RES_CONTENT_126470" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Issue Unequal Distribution of Income .html" title="" />
+        <resource identifier="RES_CONTENT_126471" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Why are the rich getting richer.html" title="" />
+        <resource identifier="RES_CONTENT_126472" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Income Inequality Cause and Effect.html" title="" />
+        <resource identifier="RES_CONTENT_126473" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61760" title="" />
+        <resource identifier="RES_CONTENT_150795" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-77371" title="" />
+        <resource identifier="RES_CONTENT_126474" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_126381" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126475" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (7).html" title="" />
+        <resource identifier="RES_CONTENT_126476" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61884" title="" />
+        <resource identifier="RES_CONTENT_126477" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Unit 2 Summative Rubric.html" title="" />
+        <resource identifier="RES_CONTENT_126367" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126393" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction to Unit 3 .html" title="" />
+        <resource identifier="RES_CONTENT_126382" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126478" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (8).html" title="" />
+        <resource identifier="RES_CONTENT_126479" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm Up Activity - Copy.html" title="" />
+        <resource identifier="RES_CONTENT_126480" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="What is Macroeconomics.html" title="" />
+        <resource identifier="RES_CONTENT_126481" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Expenditure Approach.html" title="" />
+        <resource identifier="RES_CONTENT_126482" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Income Approach.html" title="" />
+        <resource identifier="RES_CONTENT_126483" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="GDPGNP - A Short Story.html" title="" />
+        <resource identifier="RES_CONTENT_126484" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Double Journal Entry.html" title="" />
+        <resource identifier="RES_CONTENT_126485" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic thought Muhbab ul haq.html" title="" />
+        <resource identifier="RES_CONTENT_126486" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic thought - Copy (1).html" title="" />
+        <resource identifier="RES_CONTENT_126487" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Other economic indicators.html" title="" />
+        <resource identifier="RES_CONTENT_126488" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Income Inequality Measures.html" title="" />
+        <resource identifier="RES_CONTENT_126489" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61966" title="" />
+        <resource identifier="RES_CONTENT_126491" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (4).html" title="" />
+        <resource identifier="RES_CONTENT_126490" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61968" title="" />
+        <resource identifier="RES_CONTENT_126383" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126492" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (9).html" title="" />
+        <resource identifier="RES_CONTENT_126497" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=discuss&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62340" title="" />
+        <resource identifier="RES_CONTENT_126493" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic thought John Maynard Keynes.html" title="" />
+        <resource identifier="RES_CONTENT_126494" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Budget.html" title="" />
+        <resource identifier="RES_CONTENT_126495" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Fiscal Policy Responses.html" title="" />
+        <resource identifier="RES_CONTENT_126496" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Debt vs. Deficit.html" title="" />
+        <resource identifier="RES_CONTENT_126498" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Taxes.html" title="" />
+        <resource identifier="RES_CONTENT_126499" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Assessing Deficits.html" title="" />
+        <resource identifier="RES_CONTENT_126500" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-61993" title="" />
+        <resource identifier="RES_CONTENT_126502" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (5).html" title="" />
+        <resource identifier="RES_CONTENT_150801" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="_self" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-77372" title="" />
+        <resource identifier="RES_CONTENT_126384" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126503" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (10).html" title="" />
+        <resource identifier="RES_CONTENT_126504" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62002" title="" />
+        <resource identifier="RES_CONTENT_126505" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="What is Money.html" title="" />
+        <resource identifier="RES_CONTENT_126506" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Banks and Banking.html" title="" />
+        <resource identifier="RES_CONTENT_126507" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Monetary Policy Notes.html" title="" />
+        <resource identifier="RES_CONTENT_126508" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Cause and Effect.html" title="" />
+        <resource identifier="RES_CONTENT_126509" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Exchange Rate.html" title="" />
+        <resource identifier="RES_CONTENT_126510" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Bitcoin.html" title="" />
+        <resource identifier="RES_CONTENT_126511" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62016" title="" />
+        <resource identifier="RES_CONTENT_126512" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap!  - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_126385" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126513" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Unit 3 Summative.html" title="" />
+        <resource identifier="RES_CONTENT_126514" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62022" title="" />
+        <resource identifier="RES_CONTENT_126515" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Unit 3 Summative Rubric.html" title="" />
+        <resource identifier="RES_CONTENT_126368" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126394" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction to Unit 4 .html" title="" />
+        <resource identifier="RES_CONTENT_126386" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126516" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (11).html" title="" />
+        <resource identifier="RES_CONTENT_126517" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62065" title="" />
+        <resource identifier="RES_CONTENT_126518" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="ImportExport.html" title="" />
+        <resource identifier="RES_CONTENT_126519" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Why Trade.html" title="" />
+        <resource identifier="RES_CONTENT_126520" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Fair Trade.html" title="" />
+        <resource identifier="RES_CONTENT_126521" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Exchange Rate.html" title="" />
+        <resource identifier="RES_CONTENT_126522" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Impact of the Exchange .html" title="" />
+        <resource identifier="RES_CONTENT_126523" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Trade Agreements.html" title="" />
+        <resource identifier="RES_CONTENT_126524" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62078" title="" />
+        <resource identifier="RES_CONTENT_126525" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62079" title="" />
+        <resource identifier="RES_CONTENT_126526" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (6).html" title="" />
+        <resource identifier="RES_CONTENT_126387" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126527" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (12).html" title="" />
+        <resource identifier="RES_CONTENT_126528" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm Up Activity - Copy (2).html" title="" />
+        <resource identifier="RES_CONTENT_126529" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Globalization.html" title="" />
+        <resource identifier="RES_CONTENT_126530" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Impact of Globalization.html" title="" />
+        <resource identifier="RES_CONTENT_126531" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62137" title="" />
+        <resource identifier="RES_CONTENT_126532" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62138" title="" />
+        <resource identifier="RES_CONTENT_126533" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (7).html" title="" />
+        <resource identifier="RES_CONTENT_126388" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126534" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (13).html" title="" />
+        <resource identifier="RES_CONTENT_126535" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Warm Up Activity - Copy (3).html" title="" />
+        <resource identifier="RES_CONTENT_126536" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="The Mystery of Economic Growth and Global Inequality.html" title="" />
+        <resource identifier="RES_CONTENT_126537" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Economic thought Muhammed Yumus.html" title="" />
+        <resource identifier="RES_CONTENT_126538" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Millennium Development Goals.html" title="" />
+        <resource identifier="RES_CONTENT_126539" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=quiz&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62154" title="" />
+        <resource identifier="RES_CONTENT_126540" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62161" title="" />
+        <resource identifier="RES_CONTENT_126541" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="That's a Wrap! - Copy (8).html" title="" />
+        <resource identifier="RES_CONTENT_126389" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126542" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (14).html" title="" />
+        <resource identifier="RES_CONTENT_126543" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62165" title="" />
+        <resource identifier="RES_CONTENT_126544" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Unit 4 Summative Rubric.html" title="" />
+        <resource identifier="RES_CONTENT_126369" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_126395" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Introduction - Copy (15).html" title="" />
+        <resource identifier="RES_CONTENT_126396" type="webcontent" d2l_2p0:material_type="contentlink" d2l_2p0:link_target="" href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou={orgUnitId}&amp;type=dropbox&amp;rCode=AD663568-3CF7-4C4F-A4F2-53B75E1F5983-62168" title="" />
+        <resource identifier="RES_CONTENT_126397" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Rich Summative Task Rubric.html" title="" />
+        <resource identifier="RES_CONTENT_127442" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="RES_CONTENT_127443" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 1.1  Asking Economic Questions Assignment.docx" title="" />
+        <resource identifier="RES_CONTENT_127444" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 1.2 Scarcity and Choice Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127479" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 1.3 Thinking and Decision Making Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127486" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 1.4 Supply and Demand Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127487" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 1.5 Growth and Sustainability Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127490" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 1.6 Comparing Economic Systems Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127494" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Self assessment on political spectrum.docx" title="" />
+        <resource identifier="RES_CONTENT_127491" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Airbnb Property Owners Sucking Up Canada_s Housing.docx" title="" />
+        <resource identifier="RES_CONTENT_127492" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 2.1 The Firm and Market Structures Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127493" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="A note from Jeffrey Sachs (excerpt from The End of Poverty_ Economic Possibilities for Our Time, 2005 pp. 11-12).docx" title="" />
+        <resource identifier="RES_CONTENT_127495" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Case Story_ Road-Safety experts fear ‘whole new world of driving in Ottawa’.docx" title="" />
+        <resource identifier="RES_CONTENT_127496" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 2.2 Economic Trade-Offs and Decisions_ Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127497" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Andew Coyne_ How a guaranteed minimum income could.docx" title="" />
+        <resource identifier="RES_CONTENT_127498" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="ANTICIPATION GUIDE.docx" title="" />
+        <resource identifier="RES_CONTENT_127499" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Fraser Institute.docx" title="" />
+        <resource identifier="RES_CONTENT_127500" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Growth of Inequality in Canada cannot be denied_.docx" title="" />
+        <resource identifier="RES_CONTENT_127501" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Infographic Precarious Low Wage Employment.docx" title="" />
+        <resource identifier="RES_CONTENT_127502" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 2.3 The Role of Government in Redressing Imbalance Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127503" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="OPVL Organizer.docx" title="" />
+        <resource identifier="RES_CONTENT_127504" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Policy Alternatives.docx" title="" />
+        <resource identifier="RES_CONTENT_127505" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Ten things to know about Canada’s guaranteed annual.docx" title="" />
+        <resource identifier="RES_CONTENT_127506" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="We can end homelessness in Canada.docx" title="" />
+        <resource identifier="RES_CONTENT_127507" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="What an employer can_t do when workers want to form a union.docx" title="" />
+        <resource identifier="RES_CONTENT_127508" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="What Will the Next Generation of Microcredit Products for women Look Like.docx" title="" />
+        <resource identifier="RES_CONTENT_127509" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="How do you measure happiness.docx" title="" />
+        <resource identifier="RES_CONTENT_127510" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 3.1 Macroeconomic Measures and Models Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127511" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Measuring Economies.docx" title="" />
+        <resource identifier="RES_CONTENT_127512" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Which are the happiest countries in the world.docx" title="" />
+        <resource identifier="RES_CONTENT_127513" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Woe is Calgary_ Unemployment rate remains the worst in Canada.docx" title="" />
+        <resource identifier="RES_CONTENT_127516" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="A guide to debts, deficits and surpluses.docx" title="" />
+        <resource identifier="RES_CONTENT_127517" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 3.2 Fiscal Policy Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127520" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Policy Points_ An alternative to property taxes.docx" title="" />
+        <resource identifier="RES_CONTENT_127521" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="CIA4U Unit 3 Summative Task_.docx" title="" />
+        <resource identifier="RES_CONTENT_127524" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="David Ricardo.docx" title="" />
+        <resource identifier="RES_CONTENT_127525" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 4.1 Theories and Models of Trade Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127528" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 4.2 International Economic Developments Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127529" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Deglobalization and the Rise of “Smart” Protectionism.docx" title="" />
+        <resource identifier="RES_CONTENT_127534" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Lesson 4.3 International Economic Power and Inequality Assessment_.docx" title="" />
+        <resource identifier="RES_CONTENT_127535" type="webcontent" d2l_2p0:material_type="content" d2l_2p0:link_target="" href="Millenium Development Goals.docx" title="" />
+        <resource identifier="RES_CONTENT_127445" type="webcontent" d2l_2p0:material_type="contentmodule" d2l_2p0:link_target="" href="" title="" />
+        <resource identifier="res_syllabus" type="webcontent" d2l_2p0:material_type="d2lsyllabus" d2l_2p0:link_target="" href="syllabus_d2l.xml" title="" />
+        <resource identifier="res_quiz_3729" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3729.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3730" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3730.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3731" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3731.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3732" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3732.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3733" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3733.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3734" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3734.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3735" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3735.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3736" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3736.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3737" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3737.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3738" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3738.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3739" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3739.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3740" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3740.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3741" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3741.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3742" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3742.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3743" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3743.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3744" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3744.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3745" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3745.xml" title="Let's Practice!" />
+        <resource identifier="res_quiz_3746" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3746.xml" title="Warm Up Activity" />
+        <resource identifier="res_quiz_3747" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3747.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3748" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3748.xml" title="Let's Practice! " />
+        <resource identifier="res_quiz_3749" type="webcontent" d2l_2p0:material_type="d2lquiz" d2l_2p0:link_target="" href="quiz_d2l_3749.xml" title="Let's Practice! " />
+        <resource identifier="res_discuss_1" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_1.xml" title="" />
+        <resource identifier="res_discuss_2" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_2.xml" title="" />
+        <resource identifier="res_discuss_3" type="webcontent" d2l_2p0:material_type="d2ldiscussion" d2l_2p0:link_target="" href="discussion_d2l_3.xml" title="" />
+        <resource identifier="res_news" type="webcontent" d2l_2p0:material_type="d2lnews" d2l_2p0:link_target="" href="news_d2l.xml" title="" />
+        <resource identifier="res_dropbox" type="webcontent" d2l_2p0:material_type="d2ldropbox" d2l_2p0:link_target="" href="dropbox_d2l.xml" title="" />
+        <resource identifier="res_grades" type="webcontent" d2l_2p0:material_type="d2lgrades" d2l_2p0:link_target="" href="grades_d2l.xml" title="" />
+        <resource identifier="res_courseimage" type="webcontent" d2l_2p0:material_type="d2lcourseimage" d2l_2p0:link_target="" href="courseimage_d2l.xml" title="" />
+        <resource identifier="res_conditionalrelease" type="webcontent" d2l_2p0:material_type="d2lconditionalrelease" d2l_2p0:link_target="" href="conditionalrelease_d2l.xml" title="" />
+    </resources>
+</manifest>
